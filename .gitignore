@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large raw data (regenerate with src/collect/ scripts)
+data/raw/*
+!data/raw/day_labor_sites.csv
+!data/raw/.gitkeep
+
+# Processed data and databases
+data/processed/*
+!data/processed/.gitkeep
+*.duckdb
+*.duckdb.wal
+
+# Vector store
+rag/chroma/
+
+# OS
+.DS_Store

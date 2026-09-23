@@ -1,0 +1,38 @@
+# Python 3.13. Direct dependencies only; full lock in requirements.lock.txt.
+
+# Geospatial + data
+geopandas==1.1.4
+shapely==2.1.2
+pyproj==3.8.0
+pyogrio==0.13.0
+pandas==3.0.6
+numpy==2.5.3
+duckdb==1.5.5
+
+# Collection
+requests==2.34.2
+python-dotenv==1.2.3
+beautifulsoup4==4.15.0
+pypdf==6.19.0
+
+# Statistics
+statsmodels==0.15.0
+libpysal==4.15.0
+esda==2.10.0
+spreg==1.9.1
+
+# Maps
+folium==0.20.0
+matplotlib==3.11.2
+
+# RAG
+chromadb==1.5.9
+sentence-transformers==6.1.0
+
+# App
+streamlit==1.64.0
+streamlit-folium==0.27.4
+anthropic==1.7.0
+
+# Notebooks
+jupyter==1.1.1
