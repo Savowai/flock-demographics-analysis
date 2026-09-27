@@ -214,7 +214,25 @@ comparable between the two cities.
 
 ---
 
-## 7. Day-labor sites (candidates — unverified)
+## 7. City boundaries (TIGER/Line places)
+
+| | |
+| --- | --- |
+| Source | US Census Bureau TIGER/Line Shapefiles 2024, PLACE layer |
+| URL | `https://www2.census.gov/geo/tiger/TIGER2024/PLACE/` |
+| Script | `src/collect/tiger_places.py` |
+| Downloaded | 2026-09-27 |
+| Files | `data/raw/tiger/city_{la,king}.gpkg` |
+
+City of Los Angeles (GEOID 0644000, 1,219 sq km) and City of Seattle
+(GEOID 5363000, 218 sq km). Used only to mark which tracts fall inside the
+crime-reporting agency's jurisdiction, so that "no data" is not recorded as
+"no crime". A unit counts as covered when more than half its area lies inside
+the city.
+
+---
+
+## 8. Day-labor sites (candidates — unverified)
 
 | | |
 | --- | --- |
