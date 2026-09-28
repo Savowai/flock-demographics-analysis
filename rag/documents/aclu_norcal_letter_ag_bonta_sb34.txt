@@ -1,0 +1,485 @@
+TITLE: Letter to Attorney General Bonta re: SB 34 compliance
+PUBLISHER: ACLU of Northern California
+DATE: 2024-01-31
+URL: https://www.aclunorcal.org/sites/default/files/2024-01-31_letter_to_ag_bonta_re_sb_34_final.pdf
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Page 1 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+VIA EMAIL 
+ 
+Attorney General Rob Bonta 
+Office of the Attorney General  
+California Department of Justice  
+1300 “I” Street, Sacramento, CA 95814-2919 
+rob.bonta@doj.ca.gov 
+ 
+January 31, 2024 
+ 
+Re: Response to the Office of the Attorney General’s Information Bulletin on 
+the Sharing of ALPR Information by California Law Enforcement Agencies 
+ 
+Dear Attorney General Bonta, 
+ We are writing to commend your recent Information Bulletin1 clarifying that California 
+Civil Code § 1798.90.55(b) (also known as “SB 34”) “does not permit California [Law 
+Enforcement Agencies (“LEAs”)] to share [Automated License Plate Reader (“ALPR”)] 
+information with private entities or out-of-state and federal agencies.”  
+Unfortunately, we have identified dozens of California LEAs that continue to share 
+ALPR information with out-of-state agencies in violation of the law, including several that have 
+expressly rejected the law as clarified by the Attorney General’s Office. We have provided a list 
+of these agencies in Section II below. We urge your office to explore all potential avenues to 
+ensure that state and local LEAs immediately comply with the Information Bulletin.  
+The Electronic Frontier Foundation (“EFF”), American Civil Liberties Union of Northern 
+California, and American Civil Liberties Union of Southern California (collectively here, 
+“ACLU”) have advocated for California LEAs to halt the illegal practice of sharing ALPR 
+information out of state for years. We are deeply concerned that the information could be shared 
+with agencies that do not respect California’s commitment to civil rights and liberties and are not 
+covered by California’s privacy protections.2 We highlight our key policy concerns with the use 
+ 
+1 OAG Information Bulletin, California Automated License Plate Reader Data Guidance, No. 2023-DLE-06 (Nov. 
+1, 2023) https://oag.ca.gov/system/files/media/2023-DLE-06.pdf. 
+2 See, e.g., Lagleva v. Doyle (License Plate Surveillance), AMERICAN CIVIL LIBERTIES UNION (Jun. 2, 2022) 
+https://www.aclunc.org/our-work/legal-docket/lagleva-v-doyle-license-plate-surveillance; Civil Liberties Groups 
+Demand California Police Stop Sharing Drivers’ Location Data With Police In Anti -Abortion States, ELECTRONIC 
+FRONTIER FOUNDATION (May 25, 2023) https://www.eff.org/press/releases/civil-liberties-groups-demand-california-
+police-stop-sharing-drivers-location-data. 
+
+Page 2 
+ 
+and sharing of ALPR information in Section I of this letter. 
+Finally, we understand that your office received a letter from three California law 
+enforcement associations that put forth an alternative interpretation of SB 34. We strongly urge 
+your office to reject that proposed interpretation and have outlined the compelling legal 
+arguments in favor of your office’s existing interpretation in Section III below.  
+I. EFF and ACLU Remain Committed to Stopping the Illegal Sharing of ALPR 
+Information with Out-of-State and Federal Agencies. 
+ALPR technology is a powerful surveillance system that can be used to invade the 
+privacy of individuals and violate the rights of entire communities. ALPR systems collect and 
+store location information about drivers that can be built into a database that reveals sensitive 
+details about where individuals work, live, associate, worship, seek medical care, and travel.3 As 
+with other surveillance technologies, police often disproportionately deploy license plate readers 
+in communities experiencing poverty and historically overpoliced communities of color, 
+regardless of crime rates.4 ALPR information has also been shared with immigration authorities 
+such as Immigration and Customs Enforcement (“ICE”) and Customs and Border Protection 
+(“CBP”) to identify, detain, and deport immigrant community members.5  
+Further, since the Supreme Court overturned6 Roe v. Wade,7 ALPR information is even 
+more vulnerable to exploitation against those seeking, providing, and facilitating access to 
+abortion.8 In anti-abortion jurisdictions, driver location information collected by California-based 
+ALPRs can be used by law enforcement agencies to closely monitor abortion clinics, the vehicles 
+seen around them, and the movements of abortion seekers and providers.9 Sharing ALPR 
+information also threatens those obtaining or providing abortions in California, given anti-
+ 
+3 See, e.g., Automatic License Plate Readers, ELECTRONIC FRONTIER FOUNDATION (Mar. 29, 2023) 
+https://www.eff.org/sls/tech/automated-license-plate-readers; You Are Being Tracked: How License Plate Readers 
+Are Being Used to Record Americans’ Movements, AMERICAN CIVIL LIBERTIES UNION (July 2013) 
+https://www.aclu.org/issues/privacy-technology/you-are-being-tracked. 
+4 Dave Maass and Jeremy Gillula, What You Can Learn from Oakland’s Raw ALPR Data, ELECTRONIC FRONTIER 
+FOUNDATION (Jan. 21, 2015) https://www.eff.org/deeplinks/2015/01/what-we-learned-oakland-raw-alpr-data; 
+Barton Gellman and Sam Adler-Bell, The Disparate Impact of Surveillance, THE CENTURY FOUNDATION (Dec. 21, 
+2017) https://production-tcf.imgix.net/app/uploads/2017/12/03151009/the-disparate-impact-of-surveillance.pdf; see 
+also, e.g., Kaveh Waddell, How License-Plate Readers Have Helped Police and Lenders Target the Poor, THE 
+ATLANTIC (Apr. 22, 2016) https://www.theatlantic.com/technology/archive/2016/04/how-license-plate-readers-
+have-helped-police-and-lenders-target-the-poor/479436/ (summarizing data indicating that Oakland Police 
+Department deployed ALPRs “disproportionately often in low-income areas and in neighborhoods with high 
+concentrations of African-American and Latino residents”). 
+5 Saira Hussain and Adam Schwartz, EFF Files New Lawsuit Against California Sheriff for Sharing ALPR Data 
+with ICE and CBP, ELECTRONIC FRONTIER FOUNDATION (Oct. 19, 2021) https://www.eff.org/deeplinks/2021/10/eff-
+files-new-lawsuit-against-california-sheriff-sharing-alpr-data-ice-and-cbp.  
+6 See Dobbs v. Jackson Women’s Health Org., 142 S. Ct. 2228 (2022). 
+7 410 U.S. 113 (1972). 
+8 Johana Bhuiyan, How expanding web of license plate readers could be ‘weaponized’ against abortion , THE 
+GUARDIAN (Oct. 6, 2022) https://www.theguardian.com/world/2022/oct/06/how-expanding-web-of-licenseplate-
+readers-could-be-weaponized-against-abortion. 
+9 Dave Maass, Automated License Plate Readers Threaten Abortion Access. Here’s How Policymakers Can Mitigate 
+the Risk, ELECTRONIC FRONTIER FOUNDATION (Sep. 28, 2022) https://www.eff.org/deeplinks/2022/09/automated-
+license-plate-readers-threaten-abortion-access-heres-howpolicymakers. 
+
+Page 3 
+ 
+abortion states’ plans to criminalize and prosecute those who seek or assist in out-of-state 
+abortions.10 The same risks are true for people seeking gender-affirming care in California, given 
+some states’ plans to criminalize and prosecute those who go out of state to receive this medical 
+care.11 
+EFF and ACLU are committed to stopping the sharing of ALPR information with out-of-
+state and federal agencies and have engaged in several initiatives to achieve this aim. In 2021, we 
+sued the Marin County Sheriff’s Office for violating SB 34 upon discovering that it was sharing 
+ALPR information with hundreds of out-of-state and federal agencies.12 Marin County settled in 
+2022 and agreed to permanently stop sharing license plate and location information with 
+agencies outside of California , in compliance with SB 34. 13  
+A months-long investigation by EFF revealed that over 70 California LEAs were sharing 
+ALPR information with out-of-state agencies.14 EFF and ACLU notified 73 California LEAs 
+across 22 counties that they were violating SB 34 as a result of this illegal sharing of ALPR 
+information and demanded that they end their practices of doing so.15 We also gave your office 
+notice of these letters. While many agencies responded that they would modify their sharing 
+practices pursuant to SB 34, many other agencies either refused to do so or failed to respond 
+altogether.  
+II. Despite the Attorney General’s Information Bulletin, Many California Police 
+Agencies Still Refuse to Change their ALPR Information Sharing Practices. 
+After the promulgation of your SB 34 Information Bulletin, we followed up with 
+noncompliant agencies in receipt of our earlier letters to reiterate that their sharing practices 
+violate the law, and that they were acting in direct contradiction to the official position of the 
+Attorney General’s Office. Many agencies have still failed to comply with the law. 
+ 
+ 
+10 See, e.g., Caroline Kitchener and Devlin Barrett, Antiabortion lawmakers want to block patients from crossing 
+state lines, WASHINGTON POST (June 30, 2022) https://www.washingtonpost.com/politics/2022/06/29/abortion-state-
+lines/; Idaho Governor Signs ‘Abortion Trafficking’ Bill Into Law, ASSOCIATED PRESS (Apr. 6, 2023) 
+https://apnews.com/article/idaho-abortion-minors-criminalization-b8fb4b6feb9b520d63f75432a1219588; Josh 
+Moon, Alabama AG: state may prosecute those who assist in out-of-state abortions, ALABAMA POLITICAL 
+REPORTER (Sep. 15, 2022) https://www.alreporter.com/2022/09/15/alabama-ag-state-may-prosecute-those-who-
+assist-in-out-of-state-abortions/. 
+11 See, e.g., Maya Yang, Idaho bill that criminalizes medical trans youth treatments passes house, THE GUARDIAN 
+(Mar. 10, 2022) https://www.theguardian.com/us-news/2022/mar/10/idaho-bill-trans-youth-treatment-ban-passes-
+house.  
+12 Lagleva v. Doyle (License Plate Surveillance), AMERICAN CIVIL LIBERTIES UNION (Jun. 2, 2022) 
+https://www.aclunc.org/our-work/legal-docket/lagleva-v-doyle-license-plate-surveillance. 
+13 See id. 
+14 Civil Liberties Groups Demand California Police Stop Sharing Drivers’ Location Data With Police In Anti -
+Abortion States, ELECTRONIC FRONTIER FOUNDATION (May 25, 2023) https://www.eff.org/press/releases/civil-
+liberties-groups-demand-california-police-stop-sharing-drivers-location-data. 
+15 See id. 
+
+Page 4 
+ 
+The following agencies have either refused to stop sharing ALPR information with other states’ 
+agencies, or failed to respond to our requests:
+• Antioch Police 
+Department  
+• Buena Park 
+Police 
+Department 
+• Burbank Police 
+Department  
+• Chino Police 
+Department 
+• Cypress Police 
+Department 
+• Desert Hot 
+Springs Police 
+Department  
+• El Centro Police 
+Department  
+• El Dorado 
+County Sheriff’s 
+Office 
+• Fontana Police 
+Department  
+• Hemet Police 
+Department  
+• Hercules Police 
+Department  
+• Imperial County 
+Sheriff’s Office  
+• Imperial Police 
+Department 
+• La Habra Police 
+Department  
+• La Palma Police 
+Department 
+• Laguna Beach 
+Police 
+Department 
+• Madera Police 
+Department  
+• Menifee Police 
+Department 
+• Merced Police 
+Department  
+• Monterey Park 
+Police 
+Department  
+• Oakley Police 
+Department  
+• Ontario Police 
+Department  
+• Orange Police 
+Department  
+• Palos Verdes 
+Estates Police 
+Department  
+• Pasadena Police 
+Department  
+• Pittsburgh 
+Police 
+Department  
+• Riverside 
+County Sheriff’s 
+Department  
+• Sacramento 
+County Sheriff’s 
+Office  
+• San Bernadino 
+Police 
+Department 
+• San Bernadino 
+County Sheriff’s 
+Department  
+• Stockton Police 
+Deptartment 
+• Tracy Police 
+Department  
+• Tustin Police 
+Department  
+• Westmorland 
+Police 
+Department  
+• Westminster 
+Police 
+Department
+ 
+ 
+ 
+
+Page 5 
+ 
+The following agencies have stated that they intend to stop sharing ALPR information with  
+other states’ agencies, but have not yet verified doing so: 
+• Brawley Police 
+Department  
+• Garden Grove 
+Police 
+Department  
+• Hermosa Beach 
+Police 
+Department  
+• Novato Police 
+Department  
+• Oxnard Police 
+Department
+Finally, the following agencies have verified that they do not share ALPR information with other 
+states’ agencies (though some may still be sharing with federal agencies): 
+• Alhambra 
+Police 
+Department  
+• Arcadia Police 
+Department  
+• Beaumont 
+Police 
+Department  
+• Brentwood 
+Police 
+Department  
+• Clovis Police 
+Department  
+• Contra Costa 
+Sheriff’s Office  
+• Downey Police 
+Department  
+• Escondido 
+Police 
+Department  
+• Folsom Police 
+Department  
+• Fountain Valley 
+Police 
+Department  
+• Gilroy Police 
+Department  
+• Humboldt 
+County Sheriff’s 
+Office 
+• Kern County 
+Sheriff’s Office  
+• Kings County 
+Sheriff’s Office  
+• Lincoln Police 
+Department 
+• Lodi Police 
+Department 
+• Manteca Police 
+Department 
+• Montebello 
+Police 
+Department 
+• Murietta Police 
+Department  
+• Orange County 
+Sheriff’s Office 
+• Palm Springs 
+Police 
+Department 
+• Rio Vista Police 
+Department  
+• Ripon Police 
+Department  
+• San Joaquin 
+County Sheriff’s 
+Office  
+• San Pablo 
+Police 
+Department  
+• San Rafael 
+Police 
+Department  
+• San Ramon 
+Police 
+Department  
+• Seal Beach 
+Police 
+Department  
+• Simi Valley 
+Police 
+Department  
+
+Page 6 
+ 
+• Torrance Police 
+Department  
+• Walnut Creek 
+Police 
+Department 
+• West Covina 
+Police 
+Department 
+• Woodland 
+Police 
+Department 
+ The above summaries of agency compliance with your SB 34 Bulletin only cover the 73 
+agencies that EFF and ACLU focused on earlier this year for purposes of our 2023 
+noncompliance letter and are based on information received from those agencies. Based on this 
+sample, we think it is very likely other agencies in the state remain out of compliance with the 
+law. 
+III. The Interpretation From Certain Law Enforcement Associations Lacks 
+Merit. 
+ 
+ We understand that on November 20, 2023, your office received a response to your 
+Bulletin from three California law enforcement associations, respectively representing sheriffs, 
+police chiefs, and peace officers.16 We urge you to reject their crabbed interpretation of SB 34’s 
+plain statutory text. 
+ 
+According to the California Supreme Court:  
+ 
+Our role in interpreting statutes is to ascertain and effectuate the intended legislative 
+purpose. We begin with the text, construing words in their broader statutory context and, 
+where possible, harmonizing provisions concerning the same subject. If this contextual 
+reading of the statute’s language reveals no ambiguity, we need not refer to extrinsic 
+sources. 
+ 
+Dr. Leevil, LLC v. Westlake Health Care Ctr., 6 Cal. 5th 474, 478 (2018) (cleaned up).  
+ 
+ Here, the text and context of SB 34 are clear: police in California generally cannot share 
+their ALPR data with out-of-state entities.   
+ 
+SB 34 defines a “public agency” as “[i] the state, [ii] any city, county, or city and county, 
+or [iii] any agency or political subdivision of the state or a city, county, or city and county, 
+including, but not limited to, a law enforcement agency.” Cal. Civil Code 1798.90.5(f). This 
+plainly means state and local government here in California. The first clause, “the state,” is 
+singular, and this can only mean the State of California. The second clause refers to our state’s 
+local governments. The third clause refers to agencies (including law enforcement) of our state 
+and local governments. 
+ 
+This plain textual reading of “public agency” at 5(f) is buttressed by the statutory context. 
+SB 34 regulates how entities, including governments, process ALPR data. See, e.g., Cal. Civil 
+Code 1798.51(a) & .53(a) (requiring reasonable security procedures); id. at .51(b) & .53(b) 
+ 
+16 https://www.eff.org/document/20231120letter-police-associations-california-attoney-general  
+
+Page 7 
+ 
+(requiring a usage and privacy policy); id. at .52(b) (limiting use to purposes in such policy); id. 
+at .52(a) (requiring records of access); id. at .55(a) (requiring public comment before 
+processing). The California Legislature could not have meant to impose these regulations on 
+state and local governments outside California, over which California generally has no authority. 
+Indeed, under the “presumption against extraterritorial applications,” California courts “presume 
+the Legislature did not intend a statute to be operative, with respect to occurrences outside the 
+state …” Sullivan v. Oracle Corp., 51 Cal. 4th 1191, 1207 (2011) (cleaned up). 
+ 
+SB 34 next imposes the following data processing limit: “A public agency shall not sell, 
+share, or transfer ALPR information, except to another public agency, and only as otherwise 
+permitted by law.” Cal. Civil Code 1798.90.55(b). This plain text is a rule (no sharing ALPR 
+information) with two focused exceptions: sharing is allowed (1) “to another public agency,” or 
+(2) “as otherwise permitted by law.” As explained above, the statutory term “public agency” is 
+limited to California’s state and local government. In Section 55(b), this term is both the subject 
+of the sentence (which entities face sharing limits) and the object (which entities may be shared 
+with). This term must have the same meaning not just in this sentence, but throughout SB 34. 
+Wilcox v. Birtwhistle, 21 Cal. 4th 973, 979 (1999). 
+ 
+Thus, state and local police in California cannot share their ALPR information with out-
+of-state police, unless such sharing is “otherwise permitted by law.” This would include, for 
+example, a warrant for ALPR information based on probable cause and particularity. This would 
+not include, as here, dragnet sharing through commercial cloud storage systems. 
+ 
+Given SB 34’s plain text and context, there is no need to examine extrinsic sources. Dr. 
+Leevil, LLC, 6 Cal. 5th at 478. If a court nonetheless did so, it would conclude that SB 34’s 
+legislative history reinforces the foregoing. The Bill Analysis for the Assembly Committee on 
+Privacy and Consumer Protection found that vendors like Vigilant Solutions provide thousands 
+of police departments with access to billions of ALPR scans, and quoted as follows a 2009 report 
+by the International Association of Chiefs of Police: “as law enforcement agencies improve their 
+information sharing capabilities, the potential to monitor where and when a particular vehicle has 
+traveled is enhanced,” which “could implicate First Amendment concerns.”17 Likewise, the Bill 
+Analysis for the Senate Judiciary Committee found that “the accumulation of ALPR locational 
+information into databases that span both time and distance … threatens to undermine one’s right 
+to privacy,” citing to Justice Sotomayor’s concurring opinion in United States v. Jones, 565 U.S. 
+400 (2012). In other words, the California Legislature intended SB 34 to help solve the problem 
+of dragnet collection and sharing of ALPR data through vendors like Vigilant. 
+ 
+Finally, SB 34 advances sound public policy by banning California’s local and state 
+police from sharing their ALPR data with out-of-state police (unless “otherwise permitted by 
+law”). As explained above, SB 34 places important limits on how California’s state and local 
+police may process ALPR data, but the statute does not place these limits on out-of-state police. 
+Once ALPR data leaves the state, it loses protection. So, the Legislature wisely limited out-of-
+state sharing. 
+ 
+In sum, the California Department of Justice should stand by its interpretation of SB 34 in 
+ 
+17 https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=201520160SB34 .  
+
+Page 8 
+ 
+its Bulletin of October 27, 2023. The contrary interpretation of certain police associations lacks 
+merit. 
+*** 
+In conclusion, we appreciate your office’s statement on SB 34 and your efforts to protect 
+the privacy and civil rights of everyone in California. Nevertheless, it is clear that many LEAs 
+continue to ignore your interpretation of the law by continuing to share ALPR information with 
+out-of-state and federal agencies. This violation of SB 34 will continue to imperil marginalized 
+communities across the country, and abortion seekers, providers, and facilitators will be at 
+greater risk of undue criminalization and prosecution. We urge your office to explore all possible 
+steps to engage non-compliant agencies, including but not limited to those listed above, and 
+encourage them to stop sharing ALPR information with out-of-state and federal LEAs.  
+If you have any questions, please do not hesitate to reach out to Jennifer Pinsof at 
+ALPR@eff.org. 
+Sincerely, 
+Jennifer Pinsof  
+Staff Attorney 
+Electronic Frontier 
+Foundation 
+Matt Cagle 
+Senior Staff Attorney  
+ACLU Foundation of 
+Northern California 
+Mohammad Tajsar 
+Senior Staff Attorney 
+ACLU Foundation of 
+Southern California 
+ 
+David Trujillo 
+Chief Program and 
+Strategy Officer 
+ACLU Foundation of 
+San Diego and Imperial 
+Counties 
+ 
+ 
+cc: John D. Marsh  
+Chief, Division of Law Enforcement 
+Office of the Attorney General 
+California Department of Justice 
+1300 “I” Street, Sacramento, CA 95814-2919 
+john.marsh@doj.ca.gov 
+ 
+Karli Eisenberg 
+Supervising Deputy Attorney General 
+Reproductive Justice Unit, Healthcare Rights and Access 
+Office of the Attorney General 
+California Department of Justice 
+1300 “I” Street, Sacramento, CA 95814-2919 
+karli.eisenberg@doj.ca.gov

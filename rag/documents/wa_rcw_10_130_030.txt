@@ -1,0 +1,81 @@
+TITLE: RCW 10.130.030
+PUBLISHER: Washington State Legislature
+DATE: 2026
+URL: https://app.leg.wa.gov/RCW/default.aspx?cite=10.130.030
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Home
+
+ / 
+State laws and rules
+
+ / 
+RCWs
+ / 
+Title 10
+ / 
+Chapter 10.130
+ / 
+Section 10.130.030
+ 
+
+Print
+
+10.130.020
+  << 
+ 10.130.030 >>  
+ 
+10.130.040
+
+PDF
+
+RCW 10.130.030
+
+Operation.
+
+(1) Except as provided for in this section, it is unlawful for any agency to access, operate, or use an automated license plate reader system or its associated automated license plate reader data.
+(2) An agency may access, operate, or use an automated license plate reader system and its associated data only for the following authorized purposes:
+(a) Any law enforcement agency may use an automated license plate reader system for the purpose of comparing captured automated license plate reader data with:
+(i) Data in any of the following databases maintained by either a federal or Washington state agency: The department of licensing, the state criminal justice information system, the federal bureau of investigation kidnappings and missing persons list, the national center for missing and exploited children list, and the Washington missing persons list; or
+(ii) License plate numbers or vehicle characteristics that have been entered into a state or local automated license plate reader system database or entered in order to perform a search, upon an officer's determination that the license plate numbers or vehicle characteristics are relevant and material to an investigation of a vehicle that is:
+(A) Stolen;
+(B) Associated with a missing or endangered person;
+(C) Registered to an individual for whom there is an outstanding felony or gross misdemeanor warrant; or
+(D) Related to or involved in a felony or gross misdemeanor.
+(b) Any parking enforcement agency, or their agent, including, but not limited to, cities, counties, the department of enterprise services, and institutions of higher education as defined in RCW 
+28B.10.016
+ may use an automated license plate reader system for the following purposes:
+(i) Enforcing restrictions on the use of parking spaces; or
+(ii) Identifying vehicles in a database for impoundment or immobilization under a local ordinance enacted under RCW 
+46.55.240
+, provided the database includes only license plates of vehicles subject to that ordinance.
+(c) Any transportation agency may use an automated license plate reader system for the following purposes:
+(i) Providing real-time traffic information to the public, traffic modeling, and traffic studies such as determining construction delays and route use; and
+(ii) Enforcing commercial vehicle systems at Washington state patrol enforcement sites and weigh stations.
+(d) State and local agencies operating automated license plate reader systems are the legal owners of the associated automated license plate reader data collected by the system the agency operates.
+(3) It is unlawful for any agency, as described in RCW 
+43.17.425
+, to use an automated license plate reader system for immigration investigation or enforcement, or both, in accordance with RCW 
+10.93.160
+, or for any protected health care services under chapter 
+7.115
+ RCW, or to track or otherwise monitor activity protected by the Washington state Constitution and the first amendment to the United States Constitution.
+(4)(a) It is unlawful for any agency to collect automated license plate reader data on the premises or immediate surroundings or access to or from facilities that provide protected health care, as described in chapter 
+7.115
+ RCW, or at facilities conducting an immigration matter as defined in RCW 
+19.154.020
+, elementary and secondary schools, places of worship, courts, or food banks.
+(b) For the purposes of this subsection, "facilities" includes only the building or buildings used for the purposes described in (a) of this subsection and any immediately adjacent parking lots that are primarily or exclusively used for the purposes described in (a) of this subsection.
+(5) Any agency that intends to use, or currently uses an automated license plate reader system as of March 30, 2026, and intends to continue using the system, shall register it with the office of the attorney general on forms approved by the office for that purpose within 180 days of March 30, 2026. The head of the agency shall certify that the system meets all the requirements of this chapter, and that the agency has a policy or policies in effect governing its use and a documented training process for the officers that will use it. Agencies may not use automated license plate reader systems that have not been properly registered under this section.
+(6) A positive match by an automated license plate reader system alone does not constitute reasonable suspicion as grounds for a state or local law enforcement officer to stop the vehicle. The officer shall develop independent reasonable suspicion for the stop or immediately confirm visually that the license plate on the vehicle matches the image of the license plate displayed on the automated license plate reader system and confirm by other means that the license plate number is in one of the databases specified in subsection (2)(a) of this section.
+[ 
+2026 c 239 s 3
+.]
+Notes:
+Effective date
+—
+2026 c 239:
+ "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 30, 2026]." [ 
+2026 c 239 s 14
+.]

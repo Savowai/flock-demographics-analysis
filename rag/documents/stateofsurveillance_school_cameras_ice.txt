@@ -1,0 +1,237 @@
+TITLE: School Cameras Feeding Data to ICE: An Investigation
+PUBLISHER: State of Surveillance
+DATE: 2026
+URL: https://stateofsurveillance.org/news/school-cameras-ice-flock-safety-immigration-enforcement-2026/
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+TL;DR:
+ An investigation by The 74 obtained Flock Safety audit logs from six Texas school districts. In a single month, more than 3,100 police agencies searched camera data from one district’s eight cameras over 733,000 times. Immigration-related searches appeared 620 times, twice as often as criminal ones. Schools installed these cameras for student safety. Police are using them to track parents at drop-off.
+ 
+ 
+ 
+What the Audit Logs Show
+ 
+The 74 (an education news outlet) filed records requests with school districts that use Flock Safety cameras. Six Texas districts handed over audit logs. The logs show exactly who searched the cameras, when, and why 
+[1]
+.
+ 
+The numbers from Alvin Independent School District (a 30,000-student district south of Houston that spent $50,000+ on eight Flock cameras since 2023) tell the story:
+ 
+ 
+733,000+
+ searches in one month (December 2025 through early January 2026)
+ 
+3,100+
+ police agencies ran those searches
+ 
+620
+ searches cited immigration-related reasons
+ 
+30
+ law enforcement agencies from states including Florida, Georgia, Indiana, and Tennessee searched the cameras for immigration purposes
+ 
+ 
+Civil immigration searches outnumbered criminal immigration searches roughly 2-to-1 
+[1]
+.
+ 
+Read that again. Cops in Tennessee are searching school cameras in Texas to look for undocumented immigrants. At a school. Where kids go.
+ 
+ 
+ 
+How a School Camera Becomes an ICE Camera
+ 
+Flock Safety sells automated license plate readers (ALPRs). The pitch to schools is simple: cameras at entrances and exits capture license plates to help identify threats. Student safety. Active shooter response. Sex offender alerts 
+[1]
+.
+ 
+But Flock cameras don’t just record plates for the school. Each camera captures 6 to 12 photos of every passing car, including make, model, color, and identifying marks. That data uploads to Flock’s cloud servers. Schools can then opt into Flock’s national network, and most do 
+[2]
+.
+ 
+Once a school is in the network, any of the 4,800+ law enforcement agencies using Flock can search those cameras. A police department in Georgia can run a plate against cameras at a Texas elementary school. A sheriff’s office in Indiana can search school parking lot data for immigration leads.
+ 
+No warrant. No subpoena. No notification to the school.
+ 
+Flock’s own numbers: 90,000 cameras, 7,000 networks, 20 billion license plates scanned monthly 
+[3]
+.
+ 
+ 
+ 
+Flock Says It’s Not Their Problem
+ 
+Flock Safety published a January 2026 blog post clarifying its position: the company does not work directly with the Department of Homeland Security or ICE. Data belongs to its customers. Customers decide how to share it 
+[4]
+.
+ 
+That’s technically true. Flock doesn’t hand data to ICE. Instead, Flock built a system where 4,800+ police departments can search each other’s cameras with zero oversight. Some of those departments have 287(g) agreements (which grew 600% under Trump’s second term) turning local cops into immigration agents. Others simply cooperate voluntarily 
+[1]
+.
+ 
+And Flock’s own platform makes it easy. The search interface includes standardized categories like “Immigration (civil/administrative),” “I.C.E.,” “ERO proactive crim case research,” and “CBP Investigation.” Immigration enforcement isn’t an accident. It’s a dropdown menu 
+[1]
+.
+ 
+The data pipeline works without ICE ever touching a Flock dashboard. Local police search school cameras. Local police share results with ICE. Flock’s hands stay clean.
+ 
+Lt. Blake Hitchcock of the Carrollton, Georgia police described the arrangement bluntly: “no questions asked” 
+[1]
+.
+ 
+ 
+ 
+The Schools That Won’t Talk
+ 
+Alvin ISD Police Chief Michael Putnal directed all questions to district spokesperson Renae Rives. Rives provided records but did not respond to requests for comment. At Huffman ISD (another district in the audit logs) a campus police chief’s administrative assistant granted U.S. Border Patrol direct access to the district’s Flock readers in May 2025. Spokesperson Amanda Fortenberry said the district was “reviewing the matters” 
+[1]
+.
+ 
+None of the six Texas districts whose audit logs were obtained issued a public statement about the findings.
+ 
+Adam Wandt, an attorney and associate professor at John Jay College of Criminal Justice, raised a question none of the districts addressed: does sharing school camera data with thousands of police agencies violate federal student privacy rules? “School districts are in a unique position, they have a unique level of responsibility to protect their students,” he told The 74 
+[1]
+.
+ 
+The silence is the tell. These districts installed cameras marketed for student safety. They either didn’t know or didn’t care that cops across the country were using school cameras to hunt for undocumented parents during morning drop-off.
+ 
+ 
+ 
+The Fallout Is Already Hitting Schools
+ 
+AFT President Randi Weingarten called the findings an “egregious end run around the Constitution” and said “schools are sacred spaces, and ICE knows it needs a judicial warrant to access them” 
+[1]
+. When schools become surveillance points, families stop showing up. In districts across the country, attendance is dropping. One district lost roughly 400 students to remote options as families weigh the risk of driving past a camera that could flag their plates 
+[5]
+.
+ 
+Schools lose funding when students miss more than 15 days. So the surveillance cameras that were supposed to protect students are now driving families away, and defunding the schools that installed them.
+ 
+Minnesota school districts and the state’s teachers’ union filed suit in February 2026, challenging the Trump administration’s decision to revoke the longstanding “sensitive locations” policy that kept immigration enforcement out of schools, churches, and hospitals 
+[6]
+.
+ 
+“We filed so schools remain safe and welcoming places, not targets for warrantless surveillance and militarized raids,” Weingarten said 
+[5]
+.
+ 
+ 
+ 
+Part of Something Bigger
+ 
+The school camera pipeline is just one piece. Flock is embedded across American infrastructure:
+ 
+ 
+Amazon Ring partnered with Flock to connect doorbell cameras to the same law enforcement network. Ring 
+canceled the partnership
+ on February 13 after backlash from the Super Bowl “Search Party” ad 
+[7]
+.
+ 
+Dozens of cities
+ have pulled Flock cameras after discovering unauthorized federal access. Mountain View disabled all 30 of its cameras in February 2026 after an audit found the ATF, Air Force, and GSA had access 
+[3]
+.
+ 
+Security researchers in December 2025 found 
+67 Flock cameras streaming without password protection
+. Login credentials appeared on Russian cybercrime forums 
+[3]
+.
+ 
+Senator Ron Wyden and Rep. Raja Krishnamoorthi asked the FTC in November 2025 to investigate Flock’s “cavalier attitude towards cybersecurity” after the company was found not requiring multi-factor authentication 
+[8]
+.
+ 
+ 
+CBP just signed a 
+contract with Clearview AI
+ for 60 billion scraped face images. ICE uses 
+Mobile Fortify
+ for real-time facial recognition on the street. Now add school cameras to the stack. The surveillance net around immigrant communities gets tighter every week.
+ 
+ 
+ 
+What You Can Do
+ 
+ 
+ 
+Ask Your School Board
+ 
+Find out if your district uses Flock Safety, Motorola, or any ALPR cameras. Ask whether the district opted into a shared law enforcement network. File a records request for audit logs. The 74 proved they’re obtainable.
+ 
+ 
+ 
+Demand Opt-Out Policies
+ 
+Push your school board to opt out of Flock’s national network. Cameras can still function for local security without feeding a searchable database to 4,800 police agencies.
+ 
+ 
+ 
+Know Your Rights
+ 
+ALPR data is collected in public spaces and generally doesn’t require a warrant. But some states restrict how it can be shared. California law 
+prohibits ALPR data sharing
+ with external jurisdictions for immigration enforcement, though enforcement has been weak.
+ 
+ 
+ 
+Support the Legal Fights
+ 
+The AFT, Education Minnesota, and civil liberties organizations are challenging ICE activity near schools in court. The 
+ICE Out of My Face Act
+ in Congress would ban facial recognition for immigration enforcement.
+ 
+ 
+ 
+ 
+ 
+References
+ 
+ 
+The 74 - ICE Taps into School Security Cameras to Aid Trump’s Immigration Crackdown (February 2026)
+ 
+District Administration - Local Police Aid ICE by Tapping School Cameras (February 2026)
+ 
+Independent Sentinel - What the Flock Is This: The Future of Mass Surveillance in the USA (February 2026)
+ 
+Flock Safety - Does Flock Share Data With ICE? (January 2026)
+ 
+Education Week - Educators Sue Over ICE Activity on School Grounds and Nearby (February 2026)
+ 
+Chalkbeat - Minnesota Superintendents Sue to Restore Sensitive Locations Protections (February 11, 2026)
+ 
+CNN - Amazon’s Ring Cancels Controversial Partnership with Flock Amid Privacy Concerns (February 13, 2026)
+ 
+Sen. Wyden - Wyden, Krishnamoorthi Urge FTC to Investigate Flock Safety (November 3, 2025)
+ 
+ 
+ 
+ 
+Related Coverage
+ 
+ 
+“Free” Surveillance Tech Is Never Free. Here’s What It Actually Costs.
+: How federal grants and vendor trials bypass oversight
+ 
+The Flock Rebellion: Cities Pull the Plug on License Plate Surveillance
+: Mountain View, Austin, and dozens more cancel Flock contracts
+ 
+Flock Safety’s Surveillance Network, Explained
+: How 90,000 cameras became a national tracking system
+ 
+Kennesaw State Installed Flock Cameras Across Campus
+: Campus surveillance raises similar questions
+ 
+San Jose Sued Over Flock Camera Data Sharing
+: The legal challenge to unregulated ALPR access
+ 
+Ring + Flock + ICE: How Your Doorbell Camera Enables Deportation
+: The partnership Ring just canceled
+ 
+Congress Says Ban Facial Recognition. CBP Says Buy More.
+: CBP signed a Clearview AI contract the same week Congress tried to ban it
+ 
+Know Your Rights: ICE Encounters
+: What to do if you encounter immigration enforcement

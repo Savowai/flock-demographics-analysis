@@ -1,0 +1,192 @@
+TITLE: Revised motion by Supervisors (LA County Board of Supervisors) on ALPR
+PUBLISHER: Los Angeles County Board of Supervisors
+DATE: 2026
+URL: https://file.lacounty.gov/SDSInter/bos/supdocs/207511.pdf
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+    MOTION 
+ Solis  _______________________________ 
+ Mitchell  _______________________________ 
+ Horvath  _______________________________ 
+ Hahn  _______________________________ 
+ Barger  _______________________________ 
+ The Los Angeles County Automated License Plate Readers (ALPR), managed 
+and operated by the Los Angeles County Sheriff’s Department (LASD), remains a 
+powerful investigative tool for recovering stolen vehicles, identifying violent crime 
+suspects, and finding missing persons. Yet its public support depends on unshakable 
+confidence that the sensitive location data it generates will never be repurposed for 
+impermissible civil-immigration enforcement. 
+ As highlighted in a June 2025 CalMatters article, State of California (State) law 
+enforcement agencies have repeatedly shared license plate reader data with federal 
+immigration authorities, despite State laws intended to prevent such cooperation.1 The 
+database of queries collected by Oakland Privacy revealed that law enforcement 
+agencies across Southern California shared information from automated ALPR with 
+federal agents, including Immigration and Customs Enforcement (ICE).2 3 Among the 
+ 
+1California Police are illegally sharing license plate data with ICE and Border Patrol, 
+https://calmatters.org/economy/technology/2025/06/california-police-sharing-license-plate-reader-
+data/#:~:text=Under%20a%2010%2Dyear%2Dold,listed%20as%20a%20search%20purpose.  
+2Id.  
+3Oakland Privacy ALPR Database, https://oaklandprivacy.org/ca-automated-license-plate-readers-alpr-
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+  
+ 
+ten law enforcement agencies that conducted searches on behalf of ICE, six are in Los 
+Angeles County.4  
+ While LASD was not one of the law enforcement agencies that conducted 
+searches on behalf of ICE, in a place like Los Angeles County, where residents depend 
+on cars for nearly every aspect of daily life, people must feel safe traveling from place to 
+place without fear that their movements are being tracked, stored, and shared in ways 
+that violate their privacy. These ALPR data sharing incidents only help to reignite fear in 
+immigrant communities and further erode public trust in Southern California’s public-
+safety institutions. 
+ The California legislature has already erected guardrails. The California Values 
+Act (SB 54)5 bars local agencies from assisting with most civil-immigration actions, and 
+SB 34 (Civil Code §§ 1798.90.50-.55)6 requires every ALPR operator to publish a public 
+usage-and-privacy policy, train users, and log every query and export. LASD adheres to 
+the logging mandate, but logging alone is insufficient to prevent misuse and restore 
+community confidence. 
+ SB 274 (Cervantes)7 would strengthen Statewide safeguards by capping 
+ 
+and-ice/  
+4Id.   
+5SB 54 text, https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB54  
+6SB 34 text, https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB34  
+7SB 274 text, https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB274   
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+  
+ 
+retention of non-hit plate reads at sixty days, mandating robust authentication, annual 
+State Department of Justice audits, and yearly privacy training for users. Earlier Senate 
+versions of SB 274 went further,8 explicitly prohibiting the collection or sharing of ALPR 
+sensitive geolocation data (such as the location of schools, courthouses, shelters, and 
+health facilities) for civil immigration enforcement purposes. Although that language was 
+removed in the May 23, 2025, Senate amendments, Los Angeles County can lead the 
+State by formally adopting those protections locally, while embracing SB 274’s 
+remaining reforms. 
+ By restoring the bill’s original immigration safeguards, tightening retention limits 
+and access controls, and subjecting the entire program to independent oversight 
+through the Office of Inspector General (OIG) and Civilian Oversight Commission 
+(COC), the County can rebuild public trust and ensure that its ALPR resources are 
+never leveraged for civil-immigration enforcement beyond the narrow limits permitted by 
+State law and County policy. 
+IWE, THEREFORE, MOVE that the Board of Supervisors suspend Section 22.1 
+of the Rules of the Board for the limited purpose of considering this motion. 
+IWE, FURTHER, MOVE that the Board of Supervisors direct the Chief Executive 
+Office’s Legislative Affairs and Intergovernmental Relations branch to support Senate 
+ 
+8SB 274 earlier text, https://legiscan.com/CA/text/SB274/id/3227469  
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+  
+ 
+Bill 274 (Cervantes), and send a 5-signature letter in support of the bill to Governor 
+Newsom should the bill make it to his desk.  
+IWE, FURTHER, MOVE that the Board of Supervisors request Los Angeles 
+Sheriff’s Department (LASD), in consultation with County Counsel, to: 
+1. Within 90 days, amend LASD’s ALPR Privacy Policy to ensure that: 
+a. ALPR data shall not be disclosed, transferred, or otherwise made 
+available for civil immigration-enforcement purposes, except when 
+disclosure is expressly required by State or County law or pursuant to a 
+judicial warrant. 
+b. Any permissible disclosure is subject to documented review and written 
+authorization by a designated Custodian of Records. 
+c. Access controls, authentication requirements, purpose limitations, and 
+retention periods fully comply with SB 34, SB 54, and SB 274, if it is 
+signed into law.  
+2. Ensure the Advance Surveillance and Protection Unit (ASAP), which as the 
+LASD ALPR System and Data Custodian of Records, maintains a record of each 
+data request’s basis and outcome. 
+3. Request LASD to provide the Office of Inspector General (OIG), the Civilian 
+Oversight Commission (COC), and the Board with a semi-annual written report 
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+  
+ 
+summarizing ALPR data or system access logs (redacted for the COC as legally 
+necessary) that identifies the requesting entity, date range, and statutory 
+authority relied upon to disclose information. 
+4. Request that each LASD employee or contractor with ALPR credentials complete 
+training that covers: 
+a. SB 54 restrictions on immigration cooperation, 
+b. SB 34 privacy requirements, 
+c. SB 274, if it is signed into law, restrictions on accessing data for vehicles 
+or persons when either are reasonably suspected of being involved in the 
+commission of a public offense and deleting all ALPR information that has 
+been held for more than 60 days and does not match information on an 
+authorized hot list (lists of license plates of vehicles of interest), 
+d. LASD’s updated ALPR policy, and 
+e. Require that refresher training shall occur annually, and completion 
+records shall be transmitted to the OIG and COC. 
+5. Review all current memoranda of understanding or other data-sharing 
+agreements and terminate or renegotiate any provision that permits ALPR 
+disclosures for civil immigration enforcement beyond what State or County law 
+allows. 
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+  
+ 
+6. Request LASD implement the ALPR related recommendations provided by the 
+Office of Inspector General’s April through June 2025 Reform and Oversights 
+Efforts: Los Angeles County Sheriff’s Department report.   
+7. Request LASD to report back in writing within 120 days on updated ALPR 
+Privacy Policy, implementation status of the above directives, resource needs, 
+and any recommended legislative advocacy to bolster statewide ALPR 
+safeguards. 
+IWE, FURTHER, MOVE that the Board of Supervisors direct that starting January 1, 
+2026: 
+1.  The OIG to:  
+a. Conduct annual compliance reviews of LASD’s ALPR audit-log 
+summaries, training rosters, and any alleged violations.  
+b. Publish an annual report outlining findings, corrective actions, and further 
+policy recommendations. 
+2. The COC to: 
+a. Host at least one multilingual community forum a year on LASD’s ALPR 
+Privacy Policy to gather resident input and share oversight results, 
+ensuring community voices remain central to this process. 
+ 
+#          #          # 
+
+AGN. NO.__________ 
+REVISED MOTION BY SUPERVISORS HILDA L. SOLIS September 16, 2025 
+AND JANICE HAHN 
+Safeguarding Automated License Plate Readers (ALPR) Data to Restore 
+Community Trust and Prevent Improper Civil Immigration Enforcement 
+ 
+  
+ 
+HLS:am

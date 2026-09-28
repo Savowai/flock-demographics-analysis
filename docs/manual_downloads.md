@@ -49,3 +49,21 @@ Anticipated to need manual retrieval when document collection starts:
 - Agency contracts not posted publicly
 
 This list will be updated as Phase 6 runs.
+
+## Phase 6: documents that blocked automated download
+
+Retrieved 2026-09-28. 42 of 45 sources downloaded successfully; these three
+refuse automated requests. Save them by hand into `rag/documents/` as
+`.txt` (any plain text is fine) and add a row to `rag/documents/sources.csv`,
+then re-run `rag/build_index.py`.
+
+| Source | Publisher | Problem | URL |
+| --- | --- | --- | --- |
+| UWCHR releases report on surveillance data in Washington state | The Daily (UW) | HTTP 403 | https://www.dailyuw.com/article/uwchr-releases-report-on-surveillance-data-in-washington-state-used-by-immigration-enforcement-20251105 |
+| Washington moves to limit license plate data retention | Axios Seattle | HTTP 403 | https://www.axios.com/local/seattle/2026/02/19/washington-alpr-bill-sb6002-license-plate-reader-data-retention-21-days-privacy |
+| City Council OKs Contract for Flock Safety Cameras | South Pasadena Review | HTTP 429 (rate limited) | https://outlooknewspapers.com/southpasadenareview/news/city-council-oks-contract-for-flock-safety-cameras/article_c997fa54-9069-58a7-a4e0-e07005371d26.html |
+
+None of these is critical: the UWCHR report itself (8,514 words) is in the
+corpus, SB 6002's full statutory text is in the corpus, and other Pasadena-area
+coverage is included. These are secondary accounts of primary sources already
+held.

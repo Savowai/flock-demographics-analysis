@@ -1,0 +1,90 @@
+TITLE: LASD ALPR Civilian Oversight Commission community presentation
+PUBLISHER: Los Angeles County Sheriff's Department
+DATE: 2026-05-06
+URL: https://file.lacounty.gov/SDSInter/bos/supdocs/LASD-ALPRCOCCommunityPresentation_May6_2026.pdf
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Los Angeles County
+Los Angeles County
+SHERIFF’S DEPARTMENT
+OFFICE OF CONSTITUTIONAL POLICING
+Commander Ernie Bille
+Automated License Plate 
+Recognition (ALPR) System
+
+ALPR Privacy Policy
+LASD maintains a written ALPR Privacy Policy governing system use
+Policy establishes rules for:
+• Collection of ALPR data
+• Use of ALPR technology
+• Data retention and destruction
+• Information sharing
+• Oversight, auditing, and accountability
+Policy requires compliance with all applicable federal, state, and 
+county laws.
+
+Legal and Policy Framework
+• California Civil Code sections 1798.90.5 – 1798.90.55 (SB 34)
+• Government Code sections 7282 – 7284.12 (SB 54)
+• LASD Manual of Policy and Procedures – 5-09/550.00 
+through 5-08/550.50 
+• ALPR Privacy Policy – 5-09/550.05
+• Field Operations Directive 09-004, ALPR System
+• Other Department policies protecting privacy, data privacy, 
+and civil liberties
+Department policies available at LASD.org/Transparency
+
+What Data is Collected
+ALPR systems capture information associated with vehicles
+observed in public locations:
+• License plate number
+• Date and time of capture
+• Geographic location of capture
+• Image of the vehicle and license plate
+This information is stored in the Department’s ALPR database for 
+authorized law enforcement use.
+No personal identifying information is collected.
+
+How ALPR Data is Used
+ALPR data may be used for authorized public safety purposes, including:
+• Criminal investigations
+• Identification and location of wanted persons
+• Crime analysis
+• Recovery of stolen vehicles
+• Investigatory leads in subsequent investigations
+• Missing persons and lifesaving efforts
+ALPR data may NOT be used for: 
+• Personal or non-work-related purposes
+• Civil immigration enforcement
+
+Data Retention
+• Under revised policy, ALPR data will be retained for two 
+years
+• After two years, records are archived and no longer 
+visible to general users
+• Data is permanently deleted after five years
+• Exceptions may apply for ongoing investigations, 
+prosecutions, or legal proceedings such as appeals
+
+Information Sharing
+• ALPR data may only be shared with other public agencies for 
+legitimate law enforcement purposes
+• Data sharing requires an inter-agency agreement
+• Partner agencies must comply with applicable laws (SB 34 and SB 
+54) and privacy protections
+• ALPR data may not be sold or used for commercial purposes
+• ALPR data may not be shared for civil immigration enforcement 
+unless required by law or pursuant to a judicial warrant
+There are no inter-agency agreements with any federal 
+agencies
+
+Oversight and Transparency
+• All ALPR queries and system access are logged
+• Internal audits are conducted at least annually
+• Semi-annual reports will be provided to:
+• Office of Inspector General
+• Civilian Oversight Commission
+• Board of Supervisors
+• Summary reports will be published on the Department’s 
+transparency website

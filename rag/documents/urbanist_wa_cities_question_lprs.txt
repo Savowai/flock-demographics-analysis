@@ -1,0 +1,241 @@
+TITLE: Washington Cities Question Use of License Plate Readers Citing Federal Overreach
+PUBLISHER: The Urbanist
+DATE: 2025-11-13
+URL: https://www.theurbanist.org/2025/11/13/washington-cities-question-use-of-license-plate-readers/
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Washington Cities Question Use of License Plate Readers Citing Federal Overreach » The Urbanist
+
+📰 Support nonprofit journalism
+
+ Donate
+ 
+
+ 
+
+Civics and Culture
+
+Law
+
+Police and Public Safety
+
+Washington Cities Question Use of License Plate Readers Citing Federal Overreach
+
+By 
+
+Amy Sundberg
+
+ - 
+
+November 13, 2025
+
+Share
+
+ Several cities are rethinking their use of automatic license plate readers following revelations about data security issues that has led federal agencies like ICE to get their hands on the data without permission. (Cameramann, CC BY-SA 4.0)
+
+An October surveillance report has been creating waves in law enforcement agencies using automatic license plate readers (ALPRs) in Washington state, including Lynnwood, Redmond, and Stanwood.
+Law enforcement agencies across the state have been purchasing Flock Safety ALPRs, which 
+the company claims
+ will “stop crime in its tracks.” The University of Washington’s (UW) Center for Human Rights’ 
+report
+ highlighted Flock Safety surveillance data being exposed by local law enforcement agencies in order to assist in federal immigration enforcement. 
+In May, 
+404 Media
+ originally broke
+ the news that Flock’s data was being shared with federal agencies including the U.S. Immigration and Customs Enforcement (ICE) for immigration enforcement purposes. Anonymous researchers obtained Flock ALPR audit data through a public records request to the police department in Danville, Illinois. 
+In June, 
+The Urbanist
+ reported
+ that the King County Housing Authority’s (KCHA) Flock camera data had been shared with law enforcement agencies across the country. KCHA’s data appeared to have been used in immigration enforcement searches, as well as in a search for someone who had sought an abortion. This information was likewise discovered through a public records request of Flock audit data. 
+U.S. Senator Ron Wyden (D-Oregon) 
+wrote a letter
+ to Flock stating he’d learned Flock had run a pilot earlier in 2025 that gave data access to U.S. Customs and Border Patrol, Homeland Security Investigations (HSI) (which includes ICE), the Secret Service, and the Naval Criminal Investigative Service without properly informing its law enforcement and other clients. 
+Wyden has also 
+written a letter
+ requesting the Federal Trade Commission investigate Flock for possible negligent cybersecurity practices. 
+The UW report built on this previous work with its researchers filing public records requests with law enforcement agencies across Washington state. Records showed at least eight agencies enabled direct sharing with U.S. Border Patrol (USBP) and at least 10 agencies had “back door” access available to USBP. Researchers also found limited instances of “side door” access with officers across the nation performing searches on USBP’s behalf.
+“This report further confirms that Flock ALPR is ripe for abuse that leads to real harm for the most vulnerable among us, including immigrants,” Electronic Frontier Foundation Senior Policy Analyst Matthew Guariglia said. “Flock provides a constant, warrantless digital dragnet that sweeps up everyone who passes in front of its cameras whether they’re suspected of any crime or not, and in increasingly authoritarian times, that’s a real danger to our freedoms.”
+After the U.S. Supreme Court overturned Roe v. Wade in 2022, advocates have long been sounding the alarm that reproductive rights are in imperil across the U.S. License plate data has occasionally been use to track women seeking abortion services in other states. (Doug Trumm)
+Washington State has no laws regulating the use of ALPR technology. Even states that have such laws have found they are not a panacea. California prohibits state agencies from sharing ALPR data with out-of-state and federal agencies, but agencies 
+all
+ 
+over
+ 
+the
+ 
+state
+ have broken this law. 
+“For me, the shocking finding of our report was not so much just that Border Control had access to systems, because that’s what others had reported and we thought we were going to find, but it was that all these agencies said they didn’t realize either that they were directly sharing with Border Patrol or that Border Patrol was able to access their networks through the national lookup feature in Flock,” said Phil Neff, Research Coordinator for the UW Center for Human Rights. “So the fact that these agencies didn’t even have awareness of the full scope of the systems that they were employing is concerning.”
+Local agencies pause use of Flock
+In the wake of the UW report, several local cities have moved to pause their use of Flock ALPRs.
+Lynnwood City Council approved their Flock cameras in a two-year agreement in January. Following the release of UW’s report in October, Lynnwood Police Department 
+disabled all system access and turned off the cameras.
+ Some residents would like the contract to be 
+canceled altogether.
+ 
+The KCHA told 
+The Urbanist
+ they have discontinued their pilot trial of Flock cameras, which were installed at 5 of their 95 subsidized properties. The cameras were deactivated in mid-September.
+The Redmond Police Department suspended their use of their Flock cameras as of November 5, after a council vote earlier in the week and several ICE arrests made in the city. The city council 
+plans to review the ALPR program’s governance
+ before making a decision about how to move forward. Further council discussions are planned for November 12 and 18, with the opportunity for public comment on November 18.
+In early November, the Redmond City Council voted to suspend use of Flock automatic license plate readers. (City of Redmond)
+“The real-world harms caused by mass surveillance systems like Flock are not merely hypothetical; the repercussions of the abuse of this sensitive data are being seen in the news around the country on a weekly basis,” local anti-surveillance group DeFlock Redmond told 
+The Urbanist
+. “The recent questioning by Redmond City Council Members (based on concerns raised from the community) were very encouraging and their request for this suspension was a welcome first step. It showed us that they are listening and willing to take action to protect the community from the many threats this dragnet exposes us to. We remain optimistic in asking that the council does the right thing and cancels this contract outright.”
+While some cities pull back from their Flock surveillance programs, others remain committed. Just last month, Federal Way voted to 
+expand their use of Flock ALPRs
+ by buying two new cameras.
+Meanwhile, some cities have been waiting for the resolution of a lawsuit to make up their minds.
+Public Records Act case
+In June, the city of Stanwood received a public records request for all ALPR camera footage during a one-hour time window on a specific date. Unlike red-light cameras, ALPR camera footage shows the faces and license plates of all the drivers who pass by as opposed to being limited to people who are suspected of a crime. 
+In response to the request, the cities of Stanwood and Sedro-Wooley 
+filed a motion
+ asking for Flock camera footage to either not be public record or be exempt from the Public Records Act for privacy reasons. State law already exempts red-light camera data from public records.
+While waiting for a ruling, Stanwood and Sedro-Wooley 
+paused their ALPR programs
+. Woodway 
+delayed its vote
+ on whether to enter into a contract with Flock, and Mountlake Terrace delayed installation of its Flock cameras. 
+Last week, Judge Elizabeth Yost Neidzwski of Skagit County Superior Court ruled that images captured by Flock ALPR cameras 
+are public records
+ and must be disclosed. 
+However, the case didn’t address the issue of whether the ALPR audits are public records, which is pertinent since some local agencies are 
+denying public records requests for the audits
+. 
+The Urbanist
+ has obtained attorney-client privileged communications accidentally released and decoded from 
+a public records request
+ made by Rose Terse to the City of Prosser. These communications include an email sent to a records division employee of the City of Prosser from Nikki Thompson, a partner at Thompson, Guildner & Associates, Inc., P.S., which is the law firm that handled Stanwood and Sedro-Wooley’s case.
+“The first question is whether or not you actually ran an audit report that meets the criteria identified by the requestor,” Thompson wrote. “If you did not, you do not have an obligation to create a record in response to a request. If you did run the audit reports before the request date, the general consensus among city attorneys is that the external audit report contains information that does not belong to us. Most cities are denying the request for external audits. The internal audits are somewhat different.”
+The external audit report is the type of audit that shows if out-of-state and federal agencies, including ICE, have accessed the ALPR data. This legal opinion both discourages agencies from running the audits in the first place, preventing them from pro-actively discovering any issues, and tries to limit the transparency these audits can provide the public.  
+Each municipality is creating its own policies around whether it will release the audit reports via public records request, a trend that is likely to continue until the issue is brought to the question via a lawsuit. 
+The landscape ahead
+Trying to provide accountability and transparency around these surveillance tools going forward will be a challenging endeavor.
+“We need access to audits that frankly go beyond what Flock provides you,” Neff said. “And I think it goes back to just a fundamental question of civilian oversight, of law enforcement in particular, and public oversight, which I think becomes more challenging, but also more necessary, when the reach of the technology that they have access to is so broad.”
+Protests have sprung up across the country against the Trump administration brutal immigration enforcement tactics. (Jason Leung via Unsplash)
+While the Flock audit reports have shown widespread sharing of Flock ALPR data with out-of-state and federal agencies such as ICE, there’s no guarantee the audits will continue to provide a window of transparency for the public.
+Not only are cities refusing to fulfill public record requests, but Flock Safety itself has changed its policies. In the summer, the company introduced what it 
+first called
+ “a proactive search term tool” and 
+later
+ a “keyword filter” that can block attempts to search for terms related to immigration enforcement, for example. However, agencies who want to avoid the controversy can simply be vague or dishonest when filling in the “reason” column that is preserved in these audits.
+At the end of October, Flock made a few new changes. It added a “mandatory offense type selection” from a drop-down menu that must be selected before any search is performed, which seems fairly simple to circumvent. More alarmingly, agencies can now choose to 
+remove all search reasons
+ from their public search audits.
+“While Flock’s audit logs have been successful in bringing to light certain abuses, that very fact is likely to deter many officers from honestly describing the purposes of their searches moving forward,” 
+wrote Jay Stanley
+, Senior Policy Analyst at the ACLU Speech, Privacy, and Technology Project. “The bottom line is that the public simply can’t count on these kinds of logs to be a reliable check against the enormous power that its mass surveillance system is placing in the hands of law enforcement.”
+Right now, there isn’t an obvious plan in place to provide that reliable check. As case law begins to accumulate, the Washington State Legislature might also choose to intervene, although as the example of California illustrates, that path is not without its own pitfalls. 
+Of course, individual municipalities and agencies can always choose to discontinue surveillance programs that don’t match their values. 
+“We’re seeing locally, you can turn [surveillance technologies] off, so we don’t have to go necessarily that direction of just subjecting ourselves to increasing surveillance at all times,” said Neff. “We can make decisions about what kinds of technology are appropriate, but that requires us to have access to tools of transparency and democracy.”
+License Plate Readers Proliferate in Washington, Bringing Concerns over ICE Overreach
+
+Previous Article
+
+Wilson Defeats Harrell
+
+Next Article
+
+Harrell Concedes to Wilson, Ushering in a New Era in Seattle
+
+Amy Sundberg
+
+Amy Sundberg publishes Notes from the Emerald City, a weekly newsletter on Seattle politics and policy focusing on public safety, police accountability, and the criminal legal system. She also writes science fiction, fantasy, and horror novels.
+
+ 
+ 
+
+ Recent Posts
+ 
+
+Clyde Hill Brokers Deal to Settle Growth Plan Complaint
+
+Ryan Packer
+
+ 
+
+September 28, 2026
+
+ 
+
+A First Look at the New Amtrak Cascades Fleet
+
+Ryan Packer
+
+ 
+
+September 27, 2026
+
+ 
+
+Sunday Video: Seattle's Link Is Almost Too Good to Be Real
+
+Doug Trumm
+
+ 
+
+September 27, 2026
+
+ 
+
+Join The Urbanist's Pinehurst Station Area Tour on Sept. 30
+
+Diego Batres
+
+ 
+
+September 27, 2026
+
+ 
+
+'Keep Pierce Moving' Campaign Touts Major Bus Service Expansion Plan
+
+Ryan Packer
+
+ 
+
+September 26, 2026
+
+ 
+
+ Events
+ 
+
+ See all
+ 
+
+Join The Urbanist's Pinehurst Station Area Tour on Sept. 30
+
+September 27, 2026
+
+ 
+
+Pinehurst Tour, September Social, and Final Ticket Sales for CityNerd Talk
+
+September 14, 2026
+
+ 
+
+Announcing Special Guests for Our CityNerd Talk, Plus a Call for Volunteers
+
+August 31, 2026
+
+ 
+
+August Social and The Urbanist x CityNerd: Building a Transit-Oriented Puget Sound
+
+August 05, 2026
+
+ 
+
+Upcoming Urbanist Events with Endorsed Candidates
+
+July 20, 2026
+
+ 
+
+July Soccer Social and Endorsement Party
+
+July 01, 2026

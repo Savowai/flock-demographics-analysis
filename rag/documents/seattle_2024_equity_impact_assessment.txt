@@ -1,0 +1,334 @@
+TITLE: 2024 Surveillance Technology Community Equity Impact Assessment and Policy Guidance Report
+PUBLISHER: Seattle Chief Technology Officer
+DATE: 2024
+URL: https://www.seattle.gov/documents/Departments/Tech/Surveillance/Equity%20Reports/2024%20CTO%20Surveillance%20Technology%20Community%20Equity%20Impact%20Assessment%20and%20Policy%20Guidance%20Report.pdf
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+1 
+ 
+ 
+ 
+ 
+2024 
+Surveillance Technology 
+Community Equity Impact 
+Assessment and Policy 
+Guidance Report  
+Seattle Information Technology  
+ 
+  
+
+2 
+ 
+ 
+Purpose ............................................................................................................................................................................. 3 
+Report Organization ......................................................................................................................................................... 3 
+Background ....................................................................................................................................................................... 4 
+The Surveillance Ordinance .......................................................................................................................................... 4 
+Surveillance Impact Report (SIR) Status ....................................................................................................................... 4 
+Community Surveillance Working Group ......................................................................................................................... 4 
+RSJI Goals and Community Impact ................................................................................................................................... 5 
+Recommended Policy and Legal Adjustments ................................................................................................................. 7 
+City Council Considerations for Future Reviews .............................................................................................................. 7 
+Equity Reporting for Technologies on the Master List ..................................................................................................... 7 
+Seattle Department of Transportation: ........................................................................................................................ 7 
+Seattle Police Department: .......................................................................................................................................... 8 
+ 
+ 
+  
+
+3 
+ 
+ 
+Purpose 
+The purpose of the Equity Impact Assessment is to provide analysis about whether the Surveillance Ordinance is 
+meeting its goals and to provide recommendations about changes, adjustments, or new approaches to meet its 
+stated objectives. The Ordinance language definition this required report is as follows: 
+Every year, beginning by no later than September 15, 2019, and continuing by no later than September 15 
+each year thereafter, the Chief Technology Officer shall produce and submit to the City Council a Surveillance 
+Technology Community Equity Impact Assessment and Policy Guidance Report (“equity impact assessment”), 
+to be filed with the City Clerk with an electronic copy to the Council, the Chair of the committee responsible 
+for technology matters, the co-chairs of the Working Group, the City Auditor, the Inspector General for Public 
+Safety, and the Director of Central Staff, and posted to the City’s website.  
+ 
+The equity impact assessment shall address, at a minimum, the following: 
+1. Whether this Chapter 14.18 is effectively meeting the goals of the Race and Social Justice Initiative, 
+including whether any communities and groups in the City are disproportionately impacted by the 
+use of surveillance technologies; 
+2. What adjustments to laws and policies should be made to remedy any disproportionate impacts so 
+as to achieve a more equitable outcome in the future; and 
+3. Any new approaches and considerations the City Council should bring to future reviews of requests 
+for Council approval submitted pursuant to Section 14.18.030. 
+B. The CTO shall consult with the co-chairs of the Working Group in the writing of the equity impact 
+assessment and shall include all Working Group feedback and recommendations in the equity impact 
+assessment; if the CTO disagrees with a recommendation, the CTO shall provide an explanation of the 
+disagreement in the report.  
+ 
+Report Organization 
+This report is organized into six sections: 
+• Ordinance Background 
+• Community Surveillance Working Group 
+• RSJI Goals and Community Impact 
+• Recommended Policy and Legal Adjustments 
+• City Council Considerations for Future Reviews 
+• Equity Reports for Technologies on the Master List  
+
+4 
+ 
+ 
+Background 
+The Surveillance Ordinance 
+The Seattle City Council passed SMC 14.18, known as the “Surveillance Ordinance,” to provide greater transparency 
+to City Council and the public when the City acquires technology that meets the City’s definition of surveillance. The 
+Surveillance Ordinance, which took effect in September 2017, outlines requirements that include surveillance 
+technology review and approval by City Council before acquisition for new technologies; Council review and 
+approval via ordinance for existing technologies; and reporting about surveillance technology use and community 
+impact. The Surveillance Ordinance is meant to protect the information of vulnerable populations who may not 
+understand how information they give to the City could be used. The American Civil Liberties Union and the Seattle 
+Privacy Coalition are active partners in this effort.  
+Surveillance Impact Report (SIR) Status 
+• The 28 retroactive technologies identified on the initial Master List of Surveillance Technologies have 
+completed the SIR process with the City Council.  
+• To date, two SIR Council Bills that were previously passed by the City Council have gone through the material 
+update process. The Surveillance Ordinance requires any material update to an SIR, such as to change the 
+purpose or manner in which a surveillance technology may be used, shall be by ordinance. 
+o Council Bill 120053 (Seattle Police Department Forward Looking Infrared Real-time video (FLIR)) 
+originally passed on May 24, 2021, completed the material update process, with the City Council 
+passing new Council Bill 120518 on March 14, 2023.  
+o Council Bill 120025 (Seattle Police Department Automated License Plate Recognition (ALPR)) 
+originally passed on April 19, 2021, completed the material update process, with the City Council 
+passing new Council Bill 120778 on June 18, 2024. 
+• On August 7, 2024, the Seattle Police Department transmitted to the City Council two new SIR technologies 
+(Closed-Circuit Television Camera System (CCTV) and Real-Time Crime Center (RTCC)) for consideration. This 
+was the first time since the Surveillance Ordinance was enacted where it was not a retroactive technology 
+already in use by a department, but a new technology being proposed. At the time of submittal of this 
+annual report, these two SIR Council Bills are under Council review.  
+Community Surveillance Working Group 
+The adopted Ordinance section 14.18.080 outlines the process of establishing the Community Surveillance Working 
+Group (CSWG):  
+There is established the Community Surveillance Working Group ("Working Group") to advise the Council and 
+Executive on matters of surveillance technology from a community perspective. 
+1. The Working Group shall consist of seven members appointed by the Mayor and Council, including four 
+members by the Mayor and three members by the Council, and shall be finalized by December 1, 2018. This 
+group shall be reevaluated 18 months after its first meeting to review its effectiveness in composition and 
+process. 
+
+5 
+ 
+ 
+2. The Working Group shall elect co-chairs at its initial meeting. The Working Group shall meet at least once 
+per quarter. All meetings of the Working Group shall be open to the public and all final documents and 
+reports to the Council shall be posted by the CTO to the City's website. 
+3. At least five members of the Working Group shall represent equity-focused organizations serving or 
+protecting the rights of communities and groups historically subject to disproportionate surveillance, 
+including Seattle's diverse communities of color, immigrant communities, religious minorities, and groups 
+concerned with privacy and protest. 
+4. The seven positions on the Working Group shall be numbered one through seven. The initial terms of odd-
+numbered positions shall be two years and the initial terms of even-numbered positions shall be three years. 
+All subsequent terms shall be for three years. Working Group members may serve up to two consecutive 
+terms. Any vacancy in an unexpired term shall be filled in the same manner as the original appointment. A 
+member whose term is ending may continue on an interim basis as a member with voting rights until such 
+time as a successor for that position has been appointed. 
+5. The Working Group shall organize itself and adopt such rules and administrative procedures for its own 
+governance, consistent with City Charter and ordinances, as are necessary for its functions and 
+responsibilities. 
+To see the current list of Working Group members, please go to https://seattle.gov/surveillance-advisory-working-
+group/who-we-are. In 2024, several new members to the Working Group were appointed by the Mayor and the City 
+Council. As noted above regarding the two new SIR technologies (Closed-Circuit Television Camera System (CCTV) 
+and Real-Time Crime Center (RTCC)) proposed by the Seattle Police Department, the Working Group completed their 
+Privacy and Civil Liberties Assessment on July 26, 2024. Staff is grateful to the Working Group for their time and 
+commitment in completing the assessment over the eight-week period. Their work can be found in the What We Do 
+section of the public-facing website.  
+ 
+RSJI Goals and Community Impact 
+Whether this Chapter 14.18 is effectively meeting the goals of the Race and Social Justice Initiative, including 
+whether any communities and groups in the City are disproportionately impacted by the use of surveillance 
+technologies. 
+Please consult staff’s previous Equity Impact Assessment reports describing the RSJI review methodology in the SIR 
+process, public engagement, and effects of implementation of the Surveillance Ordinance.  
+Link to 2023 Clerk File 322804 
+Link to 2022 Clerk File 322426 
+Link to 2021 Clerk File 322100 
+Link to 2020 Clerk File 321784 
+Link to 2019 Clerk File 321423 
+ 
+Staff has determined that yes, Chapter 14.18 is effectively meeting the goals of the Race and Social Justice Initiative. 
+The vision of the Seattle Race and Social Justice Initiative (“RSJI”) is to eliminate racial inequity in the community. To 
+do this requires ending individual racism, institutional racism and structural racism. The Surveillance Impact Report’s 
+
+6 
+ 
+ 
+Racial Equity Toolkit (“RET”) provides a framework for answering questions in a way that is sensitive to the historic 
+exclusion of vulnerable and historically underrepresented communities, fulfilling the public engagement 
+requirements, highlighting any impacts on racial equity from the adoption and use of the technology, and mitigating 
+any disparate impacts on individuals or vulnerable communities. 
+In comparison to the previous five annual reports, staff had the opportunity this year for the first time to assess the 
+SIR process as it relates to RSJI for new technologies being proposed rather than reviewing the SIR process for a 
+retroactive technology. Before this year, the SIR process only dealt with the 28 retroactive technologies that were 
+already in use by departments.  
+In 2024, the Seattle Police Department, working with the Mayor’s Office, proposed two new technologies that 
+required review through the SIR process. The City is exploring new technologies to help detect, deter, and interdict 
+crime in discrete locations where gun violence, human trafficking, and violent crime are persistent (i.e., hotspots). 
+The Technology Assisted Crime Prevention Pilot Project is a new public safety program that will combine a Closed-
+Circuit Television (CCTV) System with Real-Time Crime Center (RTCC) software together in one view. These two new 
+technologies meeting the criteria for surveillance are a good example of why the Surveillance Ordinance was 
+enacted with the requirement to complete a Racial Equity Toolkit.  
+The draft SIRs for CCTV and RTCC were posted online on February 2, 2024, with the public comment period open for 
+67 days from February 5th to April 12th. The length of this public comment period was significantly longer than the 
+period for the retroactive technologies. The City’s public engagement and input process included two citywide public 
+meetings, 15 neighborhood meetings, and feedback from organizations such as the NAACP, ACLU, and SPD advisory 
+groups from the pilot areas. More than 1,000 public comments were received for and against the pilot project. In 
+addition, the Mayor’s six Community Safety Forums held across the city in the spring also included opportunities for 
+public comment on the technologies.  
+Seattle IT, the Seattle Police Department, and the Mayor’s Office worked collaboratively with the Community 
+Surveillance Working Group and the public to answer questions that arose during the public comment period and 
+SIR review process. Throughout the public engagement process, the City listened to feedback and concerns from 
+both community members and activists. The public engagement for these new technologies was significant and 
+robust in efforts to engage community perspectives in designing safety efforts to be maximally effective and 
+sensitive to viewpoints.  
+The Mayor’s Office, Police Department, and Information Technology Department understood the concerns raised by 
+the public. To address these, the Technology Assisted Crime Prevention Pilot Program will include several 
+protections addressing privacy concerns and unintended consequences of use. This includes limiting surveillance to 
+public places in specific geographic areas where the identified crimes are concentrated, visible appropriate language 
+signage, prohibiting the use of AI facial recognition, minimizing retention periods, broad neighborhood outreach 
+before and during the pilot project, a rigorous and independent implementation and outcome evaluation led by the 
+Office of Inspector General (OIG) and outside academic subject matter experts, and public reporting via a public-
+facing dashboard that will update frequently and report on the uses of the technologies. Additionally, the SIR and 
+Technology Assisted Crime Prevention Pilot Project work plan will include a number of recommendations from the 
+Working Group and the Office for Civil Rights. 
+The SIR public engagement process and the required completion of the Racial Equity Toolkit answering the impacts 
+on racial equity from the adoption and use of the technology and mitigating any disparate impacts on individuals or 
+
+7 
+ 
+ 
+vulnerable communities for these two new proposed technologies demonstrates the effectiveness of Chapter 14.18 
+in meeting the goals of the Race and Social Justice Initiative. 
+Recommended Policy and Legal Adjustments 
+What adjustments to laws and policies should be made to remedy any disproportionate impacts so as to 
+achieve a more equitable outcome in the future. 
+Please consult the 2023 report to see our previous recommendations.  
+After seven years of continued compliance effort relating to the Surveillance Ordinance, Seattle IT and stakeholder 
+departments have a better understanding of potential improvements to the surveillance approval process and 
+associated policies that would increase efficiency and the public benefits of the law. With emerging technologies like 
+forms of artificial intelligence and new technology requests from departments, Seattle IT welcomes the opportunity 
+to work with the City Council to reexamine and reimagine the surveillance ordinance.  
+As one example, many municipalities across the country now utilize the Community Control Over Police Surveillance 
+(CCOPS) model from the American Civil Liberties Union (ACLU). Results have generally been positive with 
+involvement of law enforcement and communities engaging in discussion on appropriate technology usage. The 
+differences in this model are primarily in the administration and logistics of the ordinance. This includes a clearer 
+definition and list of exemptions, as well as an emphasis on how the auditing and oversight functions shall operate. 
+Additionally, the burdens of compliance are spread across entities rather than solely focused within one department. 
+Other and newer approaches are worth study and consideration.      
+City Council Considerations for Future Reviews 
+Any new approaches and considerations the City Council should bring to future reviews of requests for 
+Council approval submitted pursuant to Section 14.18.030. 
+Staff has no new approaches or considerations to share pursuant to Section 14.18.030 in this year’s report. 
+Equity Reporting for Technologies on the Master List 
+Ordinance amendments have mandated that departments are responsible for providing equity metrics to ITD for 
+evaluation.1 It is important to note that departments are struggling to resource and operationalize equity data 
+collection due to staffing and/or technical limitations of the tools. The technologies themselves are often not 
+designed to collect the data that informs or enables measurement of equity impacts. As part of this year’s annual 
+report, staff has filed a companion updated September 2024 Master List of Surveillance Technologies. The following 
+reporting from departments are only for SIR technologies listed on the updated September 2024 Master List. 
+Seattle Department of Transportation:  
+Closed Circuit Television Equipment "Traffic Cameras" 
+As of the drafting of this report, the City Auditor’s usage review for 2023 is still underway. In the absence of new 
+equity-focused audit findings, staff references the consistency of previous assessments, specifically from the 2021 
+report.  
+ 
+1 In order to access amendments please use this link and search for the technology and its respective amendment  
+
+8 
+ 
+ 
+In the 2021 review, it was noted that determining the civil liberties impacts, particularly concerning CCTV system 
+cybersecurity vulnerabilities, was challenging due to the need for specialized information technology security 
+expertise, which was not readily available. Consequently, the report could not definitively conclude whether CCTV 
+technology had a negative effect on civil liberties or disproportionately affected disadvantaged populations. 
+Regarding the placement of CCTV cameras, SDOT follows a process based primarily on traffic system timing and 
+topography. Cameras are concentrated along major arterials, with the highest density in the broader Downtown 
+area due to these factors. However, the audit highlighted that SDOT does not currently document the rationale 
+behind camera placement decisions in detail. Moving forward, SDOT acknowledges the importance of incorporating 
+equity considerations into our decision-making processes and aims to refine our documentation practices to better 
+address these concerns. 
+Seattle Police Department: 
+Automated License Plate Readers (ALPR) (Patrol) 
+SPD currently has eleven vehicles equipped with ALPR and deployed across all five precincts, based on the size of the 
+jurisdiction. North Precinct has three such vehicles, while South, East, and West Precincts each have two, and the 
+West Precinct has one. There is a single additional unmarked vehicle assigned to a Citywide follow-up unit. 
+Deployment is spread evenly across all precincts. An SIR material update was approved by Council in June of 2024 
+that expands ALPR cameras to the entire SPD fleet of approximately 350 vehicles. At the time of writing, the ALPR 
+expansion has not yet been deployed. 
+Deployment of these limited resources could lead to disproportionality based on census demographics for each 
+precinct, but the distribution is spread evenly across all precincts.  
+Parking Enforcement Systems (including ALPR) 
+ALPR is content-neutral; it does not identify the race of the driver or the registered owner of the vehicle. However, 
+SPD must continue to follow its policy of limiting use of the technology to strictly routine parking enforcement as 
+well as continuing to delete all data collected by the parking enforcement ALPR vehicles at the end of a parking 
+enforcement officer’s shift. SPD must also continue to ensure that all ALPR data collected by the ALPR scofflaw 
+vehicles is used for legitimate law-enforcement purposes.  
+Forward Looking Infrared Real-time video (FLIR) 
+The Forward Looking Infrared Systems (FLIR) camera technology is housed within King County Sheriff’s Office 
+helicopters and provides an enhanced video of incident scenes by layering heat signature capabilities with aerial 
+video. The FLIR technology allows for subjects to be detected even when obscured by clouds, haze, and/or darkness. 
+In their 2022 review, the Office of the Inspector General evaluated addresses where KCSO helicopter 
+disproportionately responded to communities already considered at the greatest disadvantage. However, because 
+Guardian One typically responds to incidents already in progress, OIG could not draw conclusions about disparity in 
+use of the helicopter without a broader review of police deployment and responses. 
+Situational Awareness Cameras 
+The SPD SWAT Unit uses two types of Situational Awareness Cameras: Robot Mounted Cameras and Pole Cameras.  
+SWAT’s written log mentions operations were conducted pursuant to a warrant. All other instances where a warrant 
+was not specified in the SWAT narrative appeared to be exigent circumstances and did not appear to unreasonably 
+infringe upon individuals’ civil liberties. Suspects and subjects in incidents where Situational Awareness Cameras are 
+
+9 
+ 
+ 
+deployed are unlikely to be affected by the technology itself. When this technology is deployed in compliance within 
+SPD policy and as described in the SIR, it is more likely to reduce the likelihood of violence by better informing SWAT 
+personnel decision-making.  
+At this time SPD is unable to provide any metrics for analysis, as the SWAT Unit does not currently collect the 
+requested material on individual deployment basis. This should be improved in the future. 
+Audio Recording Systems 
+Audio recording systems are used exclusively during the investigation of crimes and only with consent and/or court-
+ordered warrant, having established probable cause. There is no distinction in the levels of service SPD provides to 
+the various and diverse neighborhoods, communities, or individuals within the city.  
+At this time SPD is unable to provide any metrics for analysis, as the Intelligence Unit does not currently collect the 
+requested material on individual deployment basis. This should be improved in the future. 
+Camera Systems – Images or Non-Auditory Video Recordings  
+At this time SPD is unable to provide any metrics for analysis, as the department does not currently collect the 
+requested material on an individual deployment basis. 
+Tracking Devices 
+Tracking devices are used exclusively during the investigation of crimes and only with consent and/or court-ordered 
+warrant, having established probable cause. There is no distinction in the levels of service SPD provides to the 
+various and diverse neighborhoods, communities, or individuals within the city.  
+At this time SPD is unable to provide any metrics for analysis, as the Intelligence Unit does not currently collect the 
+requested material on an individual deployment basis. This should be improved in the future. 
+Remotely Operated Vehicles 
+The decision to use ROVs is made on a case-by-case basis. SPD does not deploy these devices proactively, but rather 
+as a result of a call for service or pre-planned operation in response to a specific action. Absent exigent 
+circumstances, or consent, a signed warrant is obtained prior to the use of this technology in any protected area. 
+At this time SPD is unable to provide any metrics for analysis, as the department does not currently collect the 
+requested material on an individual deployment basis. This should be improved in the future. 
+Computer/Cellphone and Mobile Device Extraction Tools 
+Data extraction tools are used exclusively during the investigation of crimes and only with consent and/or court-
+ordered warrant, having established probable cause. There is no distinction in the levels of service SPD provides to 
+the various and diverse neighborhoods, communities, or individuals within the city.  
+At this time SPD is unable to provide any metrics for analysis, as the Intelligence Unit does not currently collect the 
+requested material on an individual deployment basis. This should be improved in the future. 
+Hostage Negotiation Throw Phones 
+The hostage negotiation throw phone is a phone in a hardened case that is part of a communications system for use 
+in police hostage/crisis negotiations with subjects. The phone case includes microphones and speakers to enable 
+two-way communication in an overt or covert manner. It includes hidden cameras to support threat and tactical 
+assessments. Hostage Negotiation Throw Phones are used during a hostage, crisis, or barricaded person 
+
+10 
+ 
+ 
+situation. There is no distinction in the levels of service SPD provides to the various and diverse neighborhoods, 
+communities, or individuals within the city.  
+At this time SPD is unable to provide any metrics for analysis, as the Intelligence Unit does not currently collect the 
+requested material on an individual deployment basis.

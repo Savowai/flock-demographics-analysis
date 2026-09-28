@@ -1,0 +1,183 @@
+TITLE: Does Flock Share Data With ICE? Here's Flock's Answer
+PUBLISHER: Flock Safety
+DATE: 2025
+URL: https://www.flocksafety.com/blog/does-flock-share-data-with-ice
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+blog
+Latest News
+video
+Does Flock Share Data With ICE?
+No. Flock does not work with U.S. Immigration and Customs Enforcement (ICE). Communities control federal data access. ICE does not have direct access to Flock cameras, systems, or data, unless the agencies that control their data expressly and deliberately allow it.
+
+by
+,
+July 24, 2026
+15 minutes to read
+No items found.
+Published:
+January 6, 2026
+
+Does Flock Share Data With ICE?
+No. Flock Does Not Work With ICE.
+No. Flock does not work with U.S. Immigration and Customs Enforcement (ICE).
+Flock does not partner with ICE. Communities control federal data access. By default, sharing with federal agencies is disabled.
+ICE does not have
+ direct access to Flock cameras, systems, or data
+.
+Why do critics claim otherwise?
+Flock does have established federal customers, including National Parks, Veterans Affairs hospitals, and military bases. These organizations can establish 1:1 sharing relationships with any other legal law enforcement agency on the Flock Safety platform, where applicable laws allow it, and only when communities explicitly allow federal data access.
+Federal agencies are not a part of a statewide or national lookup.
+Pilot Projects
+‍
+Historically, prior to executing a contract, Flock offered a pilot project to prospective customers, effectively enabling them to test the product before committing to it. Below is a full timeline of all our federal pilot projects (all now concluded):
+2021
+FBI: July 21, 2021 to July 14, 2023
+National Park Service (Tennessee): September 17, 2021 to December 4, 2024
+2022
+ATF Louisville: August 23, 2022 to May 19, 2025
+2023
+ATF Nashville: February 2023 to June 23, 2025
+2025
+NCIS Pilot: January 2, 2025 to April 5, 2025
+HSI Pilot: March 3, 2025 to May 1, 2025
+CBP Pilot: May 9, 2025 to August 24, 2025
+In August of 2025, Flock publicly announced it would no longer conduct pilot projects with federal agencies.
+Customers Own and Control Their Data
+Every piece of data collected by Flock license plate readers is
+ owned and controlled by the customer
+, whether that customer is a city, county, school district, or private organization.
+Customer ownership
+ is foundational to how Flock operates.
+Decisions about whether, when, and how data is shared are made by the customer that owns the data, not by Flock. There is no hidden back-door access in Flock technology.
+If a local agency chooses not to collaborate with any federal entity, including ICE, Flock has no ability to override that decision. Similarly, if a community chooses to work with a federal agency, Flock has no ability to change that decision.
+In practice, this means:
+Flock never shares data on its own
+Flock never sells customer data
+Customers control who they share their data with, and may limit, revoke, or deny data access at any time
+Agencies control:
+Whether to share data at all
+Whether to share one-to-one
+Whether to share with broader agencies
+Whether to revoke access at any time
+Whether to collaborate with federal agencies, which is governed by local law, agency policy, and community values, not by Flock.
+Flock Does Not Share Data on Customers’ Behalf and Has No Contract With ICE
+Flock does not have a contract with ICE.
+Flock does not share customer data on behalf of customers with any entity, federal or otherwise, without their permission, and does not grant access to customer data without a customer’s explicit choice and control.
+Local public safety agencies sometimes collaborate with federal partners on serious crimes such as human trafficking, child exploitation, or multi-jurisdictional violent crime. Decisions about participation in that collaboration are made locally.
+Can ICE Access Flock Cameras?
+ICE cannot directly access Flock cameras or customer data.
+Any access to customer data by a
+ federal agency
+, if it occurs at all, must be explicitly granted by a local customer and must comply with applicable law. 
+Safeguards That Limit Federal Access
+Over time, and especially throughout 2024–2026, Flock dedicated hundreds of engineering hours and implemented additional structural, technical, and
+ compliance safeguards
+ to ensure
+ federal access remains limited
+, transparent, and controlled locally. Flock has continuously strengthened its safeguards, not because the law required it, but because local control is a core design principle.
+In June 2024, Flock implemented the Illinois policy attestation requirement in response to new state legislation. This ensured agencies formally acknowledged and complied with Illinois-specific legal standards inside the platform itself.
+In March 2025, Flock disabled National Lookup for all California agencies.
+In April 2025, Flock released a new warning label on the National Lookup enrollment screen to clarify functionality before an agency chooses to opt in.
+In June 2025, Flock created and deployed automatic keyword blocks for immigration- and reproductive-health-related searches, which meant that blocked searches do not query or return data. We applied this to Illinois and Colorado agencies in June.
+In June 2025, Flock also blocked out-of-state agencies from creating new sharing relationships with California agencies.
+In July 2025, Flock blocked federal agencies from discovering or requesting sharing relationships with Virginia agencies, per a new state law. Additionally, all out-of-state sharing was revoked, and a case number became required for every search in Virginia.
+In July 2025, Flock also introduced platform-wide enhancements, including:
+Agency administrators can now require a Case Number for searches.
+Agencies can create custom Search Reason drop-downs.
+Agencies can create custom Hotlist Reason drop-downs.
+‍
+In July 2025, Flock deployed the Immigration and Reproductive Care search filters for California agencies.
+August 2025 marked a structural change for federal organizations.
+Flock established a separate organization type for federal agencies with different tools and stricter limitations than local agencies.
+All federal organizations were removed from statewide and national lookup networks. Federal agencies can no longer access those search tools.
+Federal agencies are limited to one-to-one sharing relationships only.
+‍
+In August 2025, the immigration filters expanded to New Jersey, Oregon, Vermont, and Washington. The reproductive care filters expanded to Connecticut, Hawaii, Maine, Maryland, Massachusetts, Nevada, New Jersey, New Mexico, New York, Vermont, Washington, and Washington D.C.
+In August 2025, Flock also blocked federal agencies from discovering or requesting sharing relationships with California agencies.
+In November 2025, any agency nationwide could self-enroll in
+ Immigration and/or Reproductive Care
+ search filters. And Flock reviewed sharing relationships with California agencies and, with customer consent, revoked the remaining one-to-one out-of-state shares.
+In December 2025, Flock introduced a NIBRS-based offense type, which became required for every search, improving audit precision and guarding against prohibited use. Moreover, sensitive fields were masked in Network Audits to protect officer safety and active investigations from exposure through public records requests.
+In January 2026, Flock introduced a new administrative safeguard: any law enforcement agency using Flock can now turn off all Federal Sharing with a single toggle in Admin Settings.
+In February 2026, Flock launched a new post-login disclaimer for all law enforcement users that aligns with CJIS requirements and calls out relevant state-level Immigration and Reproductive Care laws and orders.
+Audit Reports and Transparency
+Flock provides audit reports that allow agencies and oversight bodies to review system usage. These reports support accountability and public trust by making usage patterns visible and reviewable.
+In Summary: What This Means Today
+As of early 2026:
+Flock does not work with ICE.
+Flock does not sell to or share data with ICE.
+Federal agencies are not part of statewide or national lookup networks.
+Federal agencies cannot discover or broadly request sharing in California or Virginia.
+Sharing with federal agencies is default off.
+Agencies can disable all federal sharing with one toggle.
+Immigration and reproductive-care searches are automatically blocked where required by law and available nationwide by administrator activation.
+Every search requires a standardized NIBRS offense type for consistent auditability.
+Federal pilot programs have concluded, and no new federal pilots are being conducted.
+‍
+Flock does not provide open or unrestricted federal search access.
+Flock continues to implement structural guardrails that go beyond baseline legal requirements to ensure
+ local control, legal compliance, and transparency
+.
+Does Flock Work With Palantir?
+Flock does not work with Palantir
+. Palantir has no relationship with Flock and has no access to any Flock customer data. Unlike predictive policing platforms, Flock is purpose-built for local agencies with strict data ownership, 30-day default retention, and full auditability.
+Community Impact on Crime
+Across the country, communities are demonstrating that technology can play a meaningful role in
+ improving public safety
+ while respecting civil rights and community priorities. 
+Cities such as Oakland, California, demonstrate that license plate readers can advance both safety and equity.
+ This outcome has been recognized by the Oakland NAACP
+.
+The organization cited evidence of crime reduction, improved accountability, and reduced discretionary stops by focusing investigations on vehicles linked to crimes rather than individuals.
+During Oakland’s pilot deployment, Flock-assisted investigations contributed to dozens of arrests, higher violent crime clearance rates, and progress in homicide and human trafficking cases.
+“This approach demonstrates how technology can support safer, fairer outcomes while aligning with the lived realities and priorities of Communities of Color,” said Oakland NAACP President Cynthia Adams.
+That same focus on accountability and outcomes extends to protecting the most vulnerable when a child goes missing.
+ Through its partnership with the National Center for Missing and Exploited Children (NCMEC)
+, Flock helps law enforcement respond faster in moments where time can mean the difference between recovery and tragedy. 
+By integrating with NCMEC’s AMBER Alert system, agencies receive real-time notifications when vehicles associated with endangered or abducted children are detected. Flock technology has helped reunite more than 2,000 missing people with their families. 
+Flock also works alongside Mothers Against Drunk Driving (MADD)
+ to address impaired driving and hit-and-run crashes, which are two of the most preventable causes of death in the United States. Flock license plate readers help law enforcement accurately and timely identify vehicles involved in serious incidents.  
+“We believe that any technology that increases post-crash responsiveness and accountability will help to raise awareness and change behaviors to avoid impaired driving,” said MADD CEO, Stacey D. Stewart.
+All of this work matters, and we must protect the efficacy of these tools to impact crime, while also ensuring that each community can use these tools in accordance with their values.
+Learn More
+Flock Safety partners with more than 6,000 communities nationwide to help them make informed, transparent decisions about public safety technology, without compromising
+ privacy
+, local autonomy, or the rule of law.
+If you’d like to learn more about how Flock approaches data ownership, sharing controls, and compliance safeguards, we recommend the following resources:
+Privacy & Ethics
+‍
+How Flock’s Search Filters Work
+‍
+‍
+Related blog:
+ For Real Communities, Public Safety is Not Hypothetical
+‍
+Communities are proving every day that when technology and local governance work hand in hand, it’s possible to enhance safety while respecting the values and laws that protect people’s rights.
+Featured content
+Explore More
+
+Latest news
+Video
+September 22, 2026
+Flock Security Testing 2026: What the Bishop Fox Penetration Test Found — Critical and High Findings Fixed and Independently Verified
+READ MORE
+READ MORE
+
+Latest news
+Video
+September 8, 2026
+What Is Traffic Analytics?
+READ MORE
+READ MORE
+
+Latest news
+Video
+September 2, 2026
+California SB34: What Private Organizations Using ALPR Need to Know
+READ MORE
+READ MORE
+Protect What Matters Most. 
+Discover how communities across the country are using Flock to reduce crime and build safer neighborhoods.
+Talk with an expert

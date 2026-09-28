@@ -1,0 +1,1009 @@
+TITLE: Surveillance Technology Usage Review: Automated License Plate Reader, Patrol (2021 and 2022)
+PUBLISHER: Seattle Office of Inspector General
+DATE: 2023
+URL: https://www.seattle.gov/documents/departments/oig/audits/surveillancetechnologyusagereview-automatedlicenseplatereader-patrol(2021and2022).pdf
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+As Required by Seattle Municipal Code 14.18.060 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+September 29, 2023 
+ 
+Office of Inspector General 
+City of Seattle 
+PO Box 94764 
+Seattle, WA 98124-7064 
+oig@seattle.gov 
+(206) 684-3663 
+
+ 
+ 
+ 
+1 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+Purpose 
+ 
+Surveillance Ordinance Requirements 
+Per Seattle Municipal Code 14.18.060, OIG is required to annually review the Seattle Police 
+Department (SPD) use of surveillance technology to assess compliance with the 
+requirements of Chapter 14.18.  
+  
+Non-Audit Statement  
+This review was not conducted under Generally Accepted Government Auditing Standards 
+(GAGAS); however, OIG has followed GAGAS standards regarding the sufficiency and 
+appropriateness of evidence.  
+ 
+Table of Contents 
+ 
+Executive Summary ................................ ................................ ................................ .......................  2 
+Technology Description ................................ ................................ ................................ ................ 4 
+A.   2021 and 2022 Surveillance Technology Usage ................................ ................................ .... 5 
+B.   Data Sharing with External Partners and Other Entities ................................ ......................  9 
+C.   Data Management and Safeguarding of Individual Information ................................ ...... 10 
+D.   Impact on Civil Liberties and Disproportionate Effects on Disadvantaged Populations 10 
+E.   Complaints, Concerns and Other Assessments ................................ ................................ .. 15 
+F.   Total Annual Costs ................................ ................................ ................................ ................. 15 
+ 
+ 
+Contents  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+ 
+ 
+2 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023  
+ 
+ 
+ 
+The summary below highlights significant audit findings and recommendations regarding 
+compliance with SMC 14.18.060.   
+ 
+14.18.060 Provision Compliance 
+Determination Auditor’s Findings         Recommendations 
+A. How surveillance 
+technology has 
+been used, usage 
+frequency, and 
+whether usage 
+patterns have 
+changed. 
+  
+Yes  
+ 
+Observed use of ALPR 
+conformed to SPD policy 
+on authorized and 
+prohibited uses of ALPR. 
+     No recommendations. 
+B. How often 
+surveillance 
+technology or its 
+data is shared 
+with other 
+entities, including 
+government 
+agencies.  
+  
+Needs Work 
+  
+Sharing of ALPR records 
+in response to a Public 
+Records Request did not 
+adequately de-identify 
+license plate numbers 
+from locations and times 
+they were scanned.  
+     Recommendation 1 
+     SPD should develop a process    
+     for de-identifying ALPR  
+     records released through  
+     public disclosure, to the  
+     extent allowable under the  
+     Washington State Public  
+     Records Act. 
+C. How well data 
+management 
+protocols 
+safeguard 
+individual 
+(personal) 
+information. 
+  
+Yes 
+ 
+Records are being purged 
+after 90 days in 
+accordance with the SIR.  
+     No recommendations. 
+Executive Summary 
+
+ 
+ 
+ 
+3 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+14.18.060 Provision Compliance 
+Determination Auditor’s Findings         Recommendations 
+D. How deployment 
+of surveillance 
+technologies 
+impacted or 
+could impact civil 
+liberties or have 
+disproportionate 
+effects on 
+disadvantaged 
+populations, and 
+how those 
+impacts are being 
+mitigated. 
+  
+Needs Work 
+  
+Disproportionality in the 
+collection of data creates 
+risks, especially for 
+historically marginalized 
+communities, and East 
+Precinct deployments are 
+disproportionately high. 
+ 
+SPD generally complied 
+with policy to verify “hits” 
+before acting. However, 
+inaccurate or outdated 
+information may still lead 
+to erroneous vehicle 
+stops. 
+ 
+     Recommendation 2: 
+     SPD should develop a  
+     strategy for deployment of  
+     ALPR-equipped vehicles that  
+     takes disproportionality of  
+     data collection into account. 
+E. A summary of 
+any complaints 
+or concerns 
+about the 
+surveillance 
+technology and 
+results of 
+internal audits or 
+assessments of 
+code 
+compliance.  
+  
+Yes 
+ 
+No complaints or 
+concerns noted for 2021 
+or 2022. 
+     No recommendations. 
+F. Total annual 
+costs for use of 
+surveillance 
+technology, 
+including 
+personnel and 
+other ongoing 
+costs. 
+  
+Yes 
+ 
+Maintenance and 
+licensing costs were 
+$3,395. 
+     No recommendations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+4 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023  
+ 
+Technology Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scans are views of 
+numbers captured 
+by ALPR.  
+  
+A valid read is a 
+scan of a license 
+plate.   
+  
+Hotlist is a list of 
+vehicles and license 
+plates wanted in 
+connection with 
+crimes.   
+  
+Hit is a potential 
+match between a 
+valid read and an 
+item on the hotlist.  
+  
+A misread is a valid 
+read that initially 
+registers as a hit but 
+is a false positive. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Automated License Plate Reader (ALPR) surveillance technology is 
+a high-definition, infrared digital camera system. SPD has this system 
+installed in eleven SPD patrol cars. Each system has three mounted 
+cameras, allowing for a greater field of vision. SPD policy and the SIR 
+state that SPD utilizes ALPR-equipped patrol vehicles to locate and 
+recover stolen vehicles and license plates, to identify vehicles wanted 
+in conjunction with felonies, to enforce protective orders, and to 
+canvass the area around a crime scene.  
+  
+ALPRs recognize and scan strings of letters and numbers as they come 
+into view; however, not all scans are of license plates. The ALPR may 
+scan numbers printed on the side of a vehicle or even a building. Valid 
+reads are scans of letter and number series the ALPR system 
+recognizes as license plate numbers. Whenever the ALPR system 
+registers a valid read, it compares that read against items on a hotlist, 
+sourcing license plate information from the Washington Crime 
+Information Center, the FBI’s National Crime Information Center, 
+Washington Department of Licensing, and SPD investigations. Both the 
+hotlist and all scans are routed into a back-end system called Neology 
+BOSS.  
+  
+Approximately 0.1% of valid reads are unverified “hits,” which are 
+cases when the ALPR matches a license plate to a known item from the 
+hotlist. Not all hits are true matches and require the officer to confirm. 
+In some cases, the ALPR system may misread a digit (e.g., mistaking a 
+“1” for an “I” or an “8” for a “B”). In other cases, the license plate 
+contains the same digits as a known stolen vehicle but is from a 
+different state.  For example, the ALPR may register a hit for the 
+hypothetical license plate “1234 ABC.” In this scenario, the ALPR 
+system indicates “1234 ABC” is from a stolen vehicle registered in 
+Oregon; however, the plate read by the ALPR is from Washington 
+state. The officer must visually confirm each hit by comparing the read 
+and potential match to ensure that the digits and the issuing state 
+match the hotlist record. When the officer confirms a match, the 
+officer must verify it via radio dispatch or their mobile data computer 
+(MDC) before taking any action.  
+ 
+ 
+ 
+
+ 
+ 
+ 
+5 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A deployment is the 
+unique instance 
+where an officer (or 
+two-officer team) 
+signs into service on 
+an ALPR-equipped 
+patrol vehicle during 
+a shift. 
+ 
+Data Limitation 
+SPD retains ALPR read and hit data for 90 days. Accordingly, data from 
+deployments during this review period (2021 – 2022) had already been 
+purged when this review began. SPD provided OIG with the ALPR 
+Patrol Reads Statistics dataset, but these data were aggregated by day 
+and could not be disaggregated to each deployment. As such, this 
+review of 2021 and 2022 usage relies on Computer-Aided Dispatch 
+(CAD) records to identify where and when ALPR-equipped vehicles 
+were deployed over the review period.   
+  
+For the purposes of this report, OIG uses “deployment” to refer to the 
+first time an officer (or two-officer team) signs into service on an ALPR-
+equipped patrol vehicle during a shift; because officers may sign in 
+multiple times during a single shift, OIG counted only the first sign in 
+for each shift. This measurement is sufficient to provide a general 
+picture of use but is not exact.  A vehicle may deploy to a certain sector 
+or precinct but respond to events outside of that assigned area. 
+Deployments also do not account for whether a vehicle is stationary or 
+whether an officer has the ALPR system active while on patrol.1  
+  
+To improve future analyses, OIG is working with SPD on developing a 
+means to capture de-identified data about ALPR hits and reads which 
+may be preserved longer than 90 days.  
+ 
+ 
+A.   2021 and 2022 Surveillance Technology Usage 
+ 
+SMC 14.18.060, § A: 
+How surveillance 
+technology has 
+been used, how 
+frequently, and 
+whether usage 
+patterns are 
+changing over time.  
+ 
+ 
+ 
+ 
+ 
+In 2021 and 2022, SPD had eleven ALPR systems equipped to vehicles. 
+These vehicles include ten marked patrol cars allocated to precincts, 
+and an unmarked vehicle. The unmarked vehicle was assigned to an 
+SPD Captain and used primarily for demonstrations of the ALPR 
+system, training, and troubleshooting purposes. This Usage Review 
+examines deployments of the ALPR-equipped marked patrol vehicles.  
+ 
+ 
+ 
+ 
+ 
+1 Additionally, the same officer may sign into their vehicle multiple times in the same shift and in the same 
+general location (i.e., the same or a different sector within the same precinct). OIG removed these duplicates 
+and counted the number of unique deployment sign-ins for each day in the 2021 and 2022 review period. 
+
+ 
+ 
+ 
+6 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+  
+Patterns of Use Across Seattle  
+SPD reported that ALPR-equipped vehicles are assigned to precincts 
+based on the size of the jurisdiction; however, there is not a strategy or 
+schedule for deployments within a given precinct. Use of the vehicles 
+was described as first-come, first-serve for trained officers. This 
+technology is used daily in a widespread manner in Seattle. Across the 
+five precincts, SPD had at least three deployments every day in 2021 
+and in 2022. In total, there were 3,561 and 3,330 deployments in 2021 
+and 2022, respectively. 
+ 
+Table 1: SPD’s ALPR Read Statistics, 2021 – 2022  
+  
+Year  Deployments  Total Scans  Valid Reads  Misreads  Hits  
+2021  3,561  5,894,748  5,888,081  976  5,691  
+2022  3,330  4,595,145  4,589,514  948  4,683  
+ 
+ 
+Figure 1 depicts a scatterplot of all deployments of ALPR-equipped patrol vehicles. Each dot represents a 
+date between January 1, 2021, and December 31, 2022, and the corresponding y-axis value depicts the 
+number of deployments across all precincts for that date. The monthly average line indicates the rolling 
+30-day average number of deployments. 
+
+ 
+ 
+ 
+7 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Citywide deployment frequency of ALPR-equipped vehicles varied 
+throughout the two-year review period. Over the course of multiple 
+months, the average number of deployments followed an alternating 
+pattern of increasing then decreasing and so on.  
+ 
+Allocation of ALPR-Equipped Vehicles 
+During the 2021 through 2022 review period, North Precinct had three 
+ALPR-equipped vehicles, South and Southwest precincts had two 
+vehicles each, and West Precinct had one vehicle. East Precinct had 
+three vehicles in 2021 and two vehicles in 2022.  
+ 
+ 
+Figure 2 depicts the distribution of overall deployments by precinct for 2021 and 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purpose of Use  
+ALPR-equipped patrol cars identify vehicles associated with criminal 
+activity or missing persons. SPD Policy 16.170-POL-2 General Policy 3 – 
+Authorized and Prohibited Uses states: 
+ 
+ALPR systems will only be deployed for official law enforcement purposes. 
+These deployments are limited to:  
+• Locating stolen vehicles;  
+• Locating stolen license plates;  
+• Locating wanted, endangered or missing persons; or those violating 
+protection orders;  
+• Canvassing the area around a crime scene;  
+• Locating Vehicles under SCOFFLAW; and  
+
+ 
+ 
+ 
+8 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+• Electronically chalking vehicles for parking enforcement purposes.  
+ 
+[…] ALPR will not be used to intentionally capture images in a private area 
+or areas where a reasonable expectation of privacy exists, nor shall it be 
+used to harass, intimidate, or discriminate against any individual or 
+group.  
+ 
+To assess compliance with this policy, OIG identified 286 unique 
+reports from both 2021 and 2022 that reference use of this technology 
+and randomly selected 35% (100 reports) for review. Eighty-nine of the 
+100 reports pertained to SPD ALPRs.2 In all eighty-nine cases involving 
+SPD ALPRs, SPD use of this technology conformed to their purpose of 
+use policy – see Figure 3 below.  
+ 
+ 
+Figure 3 illustrates the distribution of ALPR purposes of use in a randomly selected sample of 89 reports 
+from 2021 and 2022. 
+ 
+  
+ 
+2 OIG omitted eleven of the 100 cases because those cases involved Parking Enforcement ALPRs. 
+
+ 
+ 
+ 
+9 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023  
+ 
+B.   Data Sharing with External Partners and Other Entities 
+ 
+SMC 14.18.060, § B: 
+How often 
+surveillance 
+technology or its 
+data are being 
+shared with other 
+entities, including 
+other governments 
+in particular.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RCW 42.56.050 
+protects against 
+disclosure of 
+information about a 
+person is highly 
+offensive or of no 
+legitimate interest to 
+the public. 
+ 
+SPD reported it does not have a centralized method for sharing ALPR 
+records with the entities listed below; therefore, it was not possible to 
+assess how often SPD shared ALPR records with other government 
+entities. However, Section 6 of the SIR allows SPD to share ALPR data 
+with the following entities:  
+ 
+• Seattle City Attorney’s Office   
+• King County Prosecuting Attorney’s Office   
+• King County Department of Public Defense   
+• Private Defense Attorneys   
+• Seattle Municipal Court   
+• King County Superior Court   
+• Similar entities where prosecution is in Federal or other State 
+jurisdictions   
+• Other law enforcement agencies   
+• Insurance companies   
+• Members of the public pursuant to the Washington Public 
+Records Act, Chapter 42.56 RCW  
+ 
+In 2021 and 2022, SPD received and responded to one public 
+disclosure request for Patrol ALPR data, which resulted in SPD 
+producing 93,497 individual records of valid reads, including license 
+plate numbers, date, time, address, and zip code. 
+In accordance with the spirit of RCW 42.56.050, SPD split the data into 
+two documents: in one, license plate numbers were redacted while in 
+the other, dates/times were redacted. Despite the redactions, placing 
+the documents side-by-side allowed each license plate, location, and 
+date/time to be associated. In this instance the requestor was an 
+academic researcher, however future requests may come from 
+entities seeking to use this expansive record of vehicle locations within 
+the city in ways that impact civil liberties.3 
+ 
+Recommendation 1: SPD should develop a process for de-identifying 
+ALPR records released through public disclosure, to the extent 
+allowable under the Washington State Public Records Act.  
+ 
+ 
+3 ALPRs’ potential impacts on civil liberties are discussed further in Section D of this report. 
+
+ 
+ 
+ 
+10 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+C.   Data Management and Safeguarding of Individual Information 
+ 
+SMC 14.18.060, § C: 
+How well data 
+management 
+protocols are 
+safeguarding 
+individual 
+information.  
+ 
+ 
+Data Retention  
+Neology BOSS is the back-end system that stores all scans and hits 
+from ALPR systems. This system is located on-premises in a datacenter 
+located at the Seattle Justice Center. OIG found that SPD maintains this 
+system in accordance with the SIR. BOSS automatically purges patrol 
+ALPR data including scans and hits after 90 days.    
+  
+Authentication and Authorization   
+Logins to the BOSS system are controlled with Active Directory Single 
+Sign-On. Access is only possible from within the SPD internal network. 
+To gain access to this network, the user must successfully complete a 
+multi-factor authentication challenge requiring a physical token as a 
+second factor.   
+ 
+Backups   
+Seattle ITD personnel responsible for system backups identified that 
+the City IT department is backing up only the system and operating 
+system configurations. The Neology BOSS database, which contains 
+the actual records of reads and hits captured by patrol vehicles, are 
+not backed up. This is necessary to avoid accidentally retaining data 
+beyond the 90-day retention limit set in the SIR.  
+ 
+  
+D.   Impact on Civil Liberties and Disproportionate Effects on Disadvantaged 
+Populations 
+ 
+SMC 14.18.060, § D: 
+How deployment of 
+surveillance 
+technologies 
+impacted or could 
+impact civil liberties 
+or have  
+disproportionate 
+effects on 
+disadvantaged 
+populations […]. 
+ 
+ 
+Potential Impacts on Civil Liberties  
+Data collected by SPD ALPR systems constitute a limited record of 
+vehicle locations within the city over a rolling 90-day period. The 
+completeness of this record can be expected to vary based on how 
+frequently a license plate is scanned by an ALPR. Thus, vehicles on a 
+street frequently travelled by an ALPR-equipped car will be expected to 
+have a higher incidence of scans stored in SPD systems. While license 
+plates themselves are publicly viewable, they may be associated with a 
+particular individual. Automated collection of such records at high  
+ 
+ 
+
+ 
+ 
+ 
+11 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+volumes could result in a detailed log of a person’s movement 
+throughout the city and create the potential for misuse. 
+ 
+Potential Disproportionate Effects 
+As noted in Section A of this review, SPD does not have a deployment 
+strategy that takes historic over-policing into account. Accordingly, SPD 
+does not take steps to ensure equivalent surveillance throughout the 
+city by ALPR-equipped vehicles. 
+ 
+Disproportionality of Deployments by Precinct  
+As discussed in the Technology Description section of this report, 
+disaggregated data on ALPR hits per deployment were not available 
+for the period under review. Such data would provide the most 
+accurate picture of any potential geographic disproportionality.4 In the 
+absence of data capturing hits for each deployment, OIG compared 
+the proportions of deployments to precinct size to understand 
+whether the current allocation of ALPR-equipped vehicles creates 
+disproportionate levels of surveillance between precincts. 
+ 
+ 
+Figure 4 depicts the number of deployments per square mile in each precinct. Note: Figure 2 from Section 
+A illustrates the total number of deployments per precinct, which results from the allocation of ALPR-
+equipped patrol vehicles. The deployment rates shown in Figure 4 adjust those totals to account for the 
+number of square miles in each precinct to estimate the likelihood of repeat scans. 
+ 
+4 OIG is currently in the process of collecting data on the locations of ALPR hits for 2023 to better inform any 
+future analysis and recommendations in this area. 
+
+ 
+ 
+ 
+12 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Precincts vary greatly in geographic size but likely have a cumulative 
+amount of roadway that is proportionate to its area in square miles. 
+The East Precinct is geographically the smallest precinct and has the 
+highest per-square mile deployment rate. This means that ALPR-
+equipped patrol vehicles likely scanned a higher proportion of visible 
+vehicles within the precinct and created more repeat-reads of the 
+same vehicles on different days or from separate deployments relative 
+to other precincts. Furthermore, East Precinct contains a high 
+concentration of historically marginalized communities: approximately 
+40% of East Precinct residents live in a census tract categorized by 
+Seattle’s Race and Social Equity Index to be the highest or second 
+highest equity priority. Additionally, Capitol Hill is a historic LGBTQIA+ 
+neighborhood center.  
+ 
+OIG did not observe misuse or improper sharing of ALPR data; 
+however, disproportionality in data collection presents an ongoing risk 
+to some disadvantaged populations. OIG recommends SPD take the 
+following proactive steps to mitigate this risk in the future. 
+ 
+Recommendation 2: SPD should develop a strategy for deployment of 
+ALPR-equipped vehicles that takes disproportionality of data collection 
+into account. 
+ 
+Verification of Hit Accuracy Prior to Action  
+While ALPR systems greatly expand the capabilities to identify 
+potentially stolen vehicles and license plates, the systems also present 
+risk of erroneously identifying vehicles and license plates that are not 
+actually stolen. An additional risk for SPD ALPRs is not identifying the 
+issuing state of a plate. Based on the annual summary statistics 
+(shown in Table 1 in Section A), there was one misread for every five 
+unverified hits recorded in 2021 and 2022.5 These risks are mitigated 
+by SPD Policy requiring verification of a potential hit prior to action. 
+SPD Policy 16.170-POL-2 General Policy 4 states: 
+ 
+• ALPR operators will compare the digital image of the license to the 
+Hotlist information to verify the Hit for both the state and 
+characters on the plate.  
+• ALPR operators will confirm the ALPR information by radio or 
+Mobile Data Computer (MDC) to immediately confirm the Hit prior  
+ 
+5 This is likely an undercount because officers do not always log all misreads appropriately.  
+
+ 
+ 
+ 
+13 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to taking enforcement or other type of police action (absent exigent 
+circumstances).  
+• ALPR operators will enter a disposition for all ALPR Hits by selecting 
+either “Accept” or “Misread” before removing the Hit from the 
+computer screen.  
+ 
+In the sample of 89 cases OIG reviewed, SPD officers complied with the 
+verification policy 82 times. Officers double verified using both SPD 
+radio dispatch and their MDC on 25 occasions. On four occasions in 
+the sample, there was no evidence that a verification occurred prior to 
+action.6 On two occasions, officers took no action, and on one 
+occasion, officers acted prior to verification due to exigent 
+circumstances, which conforms to SPD policy.7  
+ 
+ 
+Figure 5 illustrates the distribution of verification methods ALPR-trained officers used from a sample of 
+89 reports of incidents between 2021 and 2022. 
+ 
+  
+ 
+6 For cases not conforming to SPD policy, OIG reviewed the written narratives, CAD event logs, and body-worn 
+video to assess conformance. 
+7 In the case of exigent circumstances, an officer driving an ALPR-equipped patrol vehicle encountered a vehicle 
+that returned an unverified hit for a stolen vehicle. Before the officer could verify the hit, the occupant of the 
+vehicle drove away at a high speed. The officer disengaged pursuit after the occupant struck another vehicle. 
+
+ 
+ 
+ 
+14 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023 
+ 
+ 
+High Risk Vehicle 
+Stops occur 
+whenever an officer 
+stops a vehicle on 
+reasonable 
+suspicion, probable 
+cause, or a warrant 
+and when such a 
+stop may threaten 
+the safety of the 
+officer. 
+Because the ALPR hotlist acquires criminal justice information from 
+various sources, there will inevitably be a small number of 
+administrative errors or outdated information automatically imported 
+into ALPR systems. Though OIG observed a high rate of officers 
+verifying hits prior to action, the risk of initiating high risk vehicle 
+stops (HRVS) without proper justification still exists. In two incidents 
+reviewed, SPD officers verified hits due to outdated or misleading 
+hotlist information, which led to erroneous stops. 
+ 
+In one instance, SPD officers verified an ALPR hit with dispatch, 
+confirming that the license plate and vehicle matched that of a stolen 
+vehicle. Officers conducted a stop of the vehicle with firearms drawn 
+and detained the driver. Only after officers compared the VIN on the 
+stopped vehicle with the VIN of the stolen vehicle, did they realize the 
+stolen license plate had been swapped onto a car of the same make, 
+model, and color. The detained driver complied with officers’ 
+instructions throughout the incident but was visibly upset and 
+confused by his detainment. Although he and his vehicle were 
+released, he was still subject to the stress of a HRVS.  
+ 
+In another instance, SPD officers stopped a pair of men in a parking lot 
+following a stolen vehicle hit. Officers did not appear to validate the hit 
+before initiating the stop in this case, but the hit was nonetheless 
+accurate. Officers in this case did not draw their firearms or detain the 
+subjects. The subjects explained that the vehicle had been stolen, but 
+recently recovered and that recovery had not yet been reported. After 
+investigation, the officers allowed the men to leave in their vehicle. 
+ 
+Incidents like those described are rare and not attributable to the 
+ALPR system, 911 dispatch, or responding officers. However, they 
+highlight a risk that as ALPR greatly increases an officer’s ability to 
+identify potentially stolen vehicles, it also increases the likelihood that 
+upstream administrative issues or license plate swaps will result in 
+vehicle stops that subject innocent individuals to significant risk. 
+ 
+  
+
+ 
+ 
+ 
+15 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+September 29, 2023  
+ 
+E.   Complaints, Concerns and Other Assessments 
+ 
+SMC 14.18.060, §  E: 
+A summary of any 
+complaints or 
+concerns received 
+by or known by 
+departments about 
+their surveillance 
+technology and 
+results of any 
+internal audits or 
+other assessments 
+of code compliance . 
+ 
+ 
+Office of Police Accountability (OPA) Complaints 
+No complaints or concerns were submitted to OPA in 2021 or 2022.  
+ 
+City of Seattle Customer Service Bureau Complaints 
+No complaints were submitted to the City of Seattle Customer Service 
+Bureau during 2021 or 2022.  
+ 
+Internal Audits or Assessments 
+No internal audits or assessments were conducted in 2021 or 2022. 
+  
+ 
+ 
+F.   Total Annual Costs 
+ 
+SMC 14.18.060,  § F: 
+Total annual costs 
+for use of 
+surveillance 
+technology, 
+including personnel 
+and other ongoing 
+costs. 
+ 
+SPD reported that Seattle IT did not have cost records for 2021; 
+however, in 2022, SPD recorded $3,395 in licensing costs for this 
+technology. It was not feasible to calculate personnel costs for this 
+technology for either year, given the high number of officers trained to 
+operate ALPR-equipped vehicles and the number of deployments.   
+ 
+
+ 
+ 
+Surveillance Technology Usage Review 
+Automated License Plate Reader – Patrol (2021 and 2022) 
+Recommendations Response 
+ 
+1. SPD should develop a process for de-identifying ALPR records released through 
+public disclosure, to the extent allowable under the Washington State Public 
+Records Act. 
+ 
+SPD Management Response 
+☒ Concur ☐ Do Not Concur 
+ 
+Estimated Date of Implementation: Q2 2024 
+ 
+Proposed Implementation Plan: SPD will work with the City Attorney’s office to develop 
+a process to respond to these requests in a way that complies with the law, and 
+addresses this recommendation. 
+ 
+ 
+ 
+2. SPD should develop a strategy for deployment of ALPR-equipped vehicles that 
+takes disproportionality of data collection into account. 
+ 
+SPD Management Response 
+☒ Concur ☐ Do Not Concur 
+ 
+Estimated Date of Implementation: 2025 
+ 
+Proposed Implementation Plan: Establish a working group that incorporates DEI 
+advisor to develop and then operationalize a strategy.

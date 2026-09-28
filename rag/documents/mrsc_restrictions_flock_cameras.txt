@@ -1,0 +1,629 @@
+TITLE: What to Know About the New Restrictions on Flock and Similar Camera Systems
+PUBLISHER: Municipal Research and Services Center (MRSC)
+DATE: 2026-04
+URL: https://mrsc.org/stay-informed/mrsc-insight/april-2026/restrictions-flock-cameras
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+skip navigation
+
+Share this:
+
+What to Know About the New Restrictions on Flock and Similar Camera Systems
+
+April 27, 2026  
+
+ by 
+
+Harry Boesche
+
+Category: 
+
+Law Enforcement 
+
+,  
+
+New Legislation and Regulations
+
+,  
+
+Law Enforcement Records Disclosure
+
+Agency use of Automated License Plate Readers (ALPRs) is on the rise. ALPRs can be an effective investigative and enforcement tool given their ability to quickly capture and transmit vehicle data to enforcement personnel, and many communities and enforcement agencies support using ALPRs in their efforts to detect violations and promote public safety. One popular ALPR vendor boasts that over 5,000 law enforcement agencies and over 6,000 communities across the county use their technology.
+
+ALPRs also raise concerns about warrantless surveillance, individual privacy, and the potential for misuse, leading some to call for regulation on their use. The state legislature’s recent passage of 
+SB 6002
+ seeks to address these concerns by enacting Washington’s first legal restrictions on ALPR access and use. This blog examines these new ALPR restrictions and how they will affect current and future ALPR use by Washington agencies.
+
+Background: What Are ALPRs and How Do They Work?
+
+ALPRs are camera systems affixed to stationary locations (like streetlights or utility poles) or mounted in agency vehicles that can quickly scan vehicle license plates and obtain, analyze, and store various types of vehicle information—including images identifying a vehicle and information about its physical characteristics or travel.
+
+Importantly, the formal ALPR definition in 
+SB 6002
+ excludes other 
+public safety camera systems
+ like the automated traffic safety cameras (known commonly as “speed cameras” or “red light cameras”) that are regulated by different authorities.
+
+An ALPR works by reading a vehicle’s license plate and comparing the details gathered with other databases or information to alert police about the vehicle and its location or its connection to illegal activity (such as whether it has been stolen).
+
+ALPRs can also connect vehicle information to individuals with arrest warrants or those reported missing, and they can be used for other public safety purposes, such as parking control or traffic management.
+
+Concerns About Agency ALPR Use
+
+While it is an effective tool in detecting and preventing crimes or traffic issues, unregulated ALPR use raises concerns about warrantless surveillance. For examples, proponents of ALPR restrictions note that ALPRs can capture data from vehicles that are not connected to unlawful activity.
+
+Further, a 
+2025 study from the Center for Human Rights
+ at the University of Washington revealed that the U.S. Border Patrol accessed and searched ALPR databases in numerous Washington localities for federal immigration enforcement purposes, potentially contravening authorities like 
+RCW 10.93.160
+, the Keep Washington Working Act.
+
+The legislature responded to these and other concerns by passing 
+SB 6002
+, which became effective March 30, 2026. This new law places restrictions on how agencies can use ALPR technology and, once codified, will appear as a new chapter in 
+RCW Title 10
+.
+
+The requirements and restrictions contained in 
+SB 6002
+ are summarized below.
+
+SB 6002, Section 3: Limits Permissible ALPR Use
+
+Under 
+Section 3
+, agencies can only use ALPRs to capture vehicle data for certain law enforcement activities, to enforce parking restrictions, and for certain activities related to transportation.
+
+Law enforcement
+
+There are now only two ways that law enforcement agencies (defined in 
+RCW 10.116.010
+(1)) can use ALPR data.
+
+First, law enforcement agencies can compare collected ALPR data with information in the department of licensing (DOL) or state criminal justice information system databases, or with the FBI’s 
+Kidnappings and Missing Persons
+ list, the 
+National Center for Missing and Exploited Children
+ list, or the Washington 
+missing persons
+ list.
+
+Second, police can compare collected ALPR data against vehicle license plate numbers or characteristics in a state or local ALPR database, but only if the comparison is relevant and material to investigating a vehicle that is:
+
+Stolen;
+
+Associated with a missing or endangered person;
+
+Registered to a person with an active felony or gross misdemeanor warrant; or
+
+Related or involved in a felony or gross misdemeanor.
+
+SB 6002
+ does not define “relevant” or “material,” but 
+Washington ER 401
+ essentially defines “relevant” as evidence tending to prove or disprove a fact in dispute, and Black’s Law Dictionary defines “material” as evidence with “some logical connection with the consequential facts.” See, e.g., 
+Chang v. Xie
+ 
+(2024).
+
+Importantly, 
+Section 5
+(4) adds that agencies must have a “valid, court-issued probable cause warrant” to obtain ALPR data collected by private entities (like retail establishments).
+
+Parking enforcement
+
+Agencies can use ALPRs to enforce vehicle parking restrictions or to identify vehicles for impoundment or immobilization under local ordinances enacted pursuant to 
+RCW 46.55.240
+. If used for the latter purpose, the ALPR information database can only include vehicle license plate numbers.
+
+Transportation studies
+
+Agencies can use ALPRs to give the public real-time traffic information or to conduct traffic modeling or studies (like those measuring construction delays or route usage). They can also use ALPRs to enforce commercial vehicle restrictions at Washington State Patrol enforcement sites and weigh stations.
+
+SB 6002, Section 3: Prohibits ALPR Use for Certain Activities
+
+Section 3
+ also specifically prohibits 
+state agencies
+ described in 
+RCW 43.17.425
+ from using ALPR data in the following ways:
+
+Consistent with 
+RCW 10.93.160
+, they cannot use ALPRs for immigration investigation or enforcement.
+
+They cannot use ALPR data to obtain information about “protected health care services.”  
+RCW 7.115.010
+(4) defines these services as “gender-affirming treatment and reproductive health care services that are lawful in the state of Washington.”
+
+They cannot use ALPRs to track or monitor activity protected by the Washington State Constitution or the First Amendment to the U.S. Constitution.
+
+Section 3
+ also prohibits 
+all 
+agencies from using ALPRs to collect vehicle license plate data at the following locations:
+
+Facilities (including their premises, immediate surroundings and access points) that provide protected health care services defined in 
+RCW 7.115.010
+(4);
+
+Facilities conducting immigration matters defined in 
+RCW 19.154.020
+(2);
+
+Elementary and secondary schools;
+
+Places of worship;
+
+Courts; and
+
+Food banks.
+
+For this purpose, “facilities” means a location’s building(s) and its immediately adjacent parking lot(s) used primarily and exclusively for the above purposes.
+
+SB 6002, Sections 4 and 5: Places New Restrictions on ALPR Data Sharing and Retention
+
+Sections 4 and 5
+ strictly limit how all agencies can share or disclose their collected ALPR data. First, any sharing or disclosure must be for an authorized 
+Section 3
+ purpose as described above.
+
+Second, the sharing or disclosure must be required in a “judicial proceeding.” For example, agencies can share their collected ALPR data “in discovery in accordance with applicable court rules.”
+
+Third, agencies cannot accomplish ALPR data sharing by giving others direct access to their ALPR systems unless:
+
+The access recipient is also an agency allowed to use ALPR data in 
+Section 3
+ above, or
+
+The recipient is an ALPR vendor that has been given access only “to the extent necessary to fulfill a specific agency-authorized purpose.”
+
+Section 4
+ also imposes the following ALPR data retention requirements on agencies:
+
+In civil or criminal court cases
+: Agencies can retain their ALPR data for the duration of a civil or criminal case pursuant to valid probable cause felony or gross misdemeanor warrant or a subpoena, or as otherwise ordered by the court. The agency must delete the data when the case concludes.
+
+In parking enforcement
+: Agencies can retain ALPR data used for parking enforcement until 12 hours after final disposition of the case (including exhaustion of all appeals), and they must thereafter delete the data.
+
+In traffic studies
+: Agencies must delete ALPR data collected for traffic studies within 30 days of collection.
+
+In commercial vehicle enforcement
+: Agencies must delete ALPR data collected to enforce commercial vehicle systems within six months of collection.
+
+In law enforcement evidence
+: Law enforcement agencies that collect ALPR data (following restrictions under 
+Section 3
+ as outlined above) can retain it for as long as it is needed as evidence of specific unlawful conduct described in 
+Section 3
+.
+
+In all other cases
+: Agencies must delete collected ALPR data 21 days after collection.
+
+Other Requirements and Provisions
+
+SB 6002
+ also contains a number of other requirements, such as ALPR system registration, the local adoption of a model ALPR use policy, the establishment of data audits, penalties, and more.
+
+System registration
+
+Section 3
+(5) requires agencies using or intending to use ALPRs on or after 
+SB 6002
+’s passage to register their ALPR system with the Washington Attorney General (AG) within 180 days of the bill’s effective date (basically on or before September 30, 2026).
+
+The registration includes certification from the agency head that the agency’s system meets 
+SB 6002
+ requirements and that the agency has a documented training process for the officers that use it.
+
+Policy adoption
+
+Section 7
+ requires the AG to adopt model policies on ALPR use by July 1, 2027. Any agency using ALPRs must then adopt its own use policy on or before December 1, 2027, and provide the AG with a copy. The agency’s adopted policy must either be consistent with the AG’s model policy, or the agency must explain any discrepancies and how their policy nonetheless complies with 
+SB 6002
+.
+
+Audits
+
+Section 8
+ requires agencies that use or access ALPR systems to keep certain minimum “audit trail data,” which includes (among other items) the identity of those accessing the system and the date, time, and purpose of the access. Agencies must keep audit trail data for two years.
+
+Law enforcement investigative use of ALPR data
+
+Section 3
+(6) provides that police cannot stop a vehicle based only on an ALPR “positive match.” Instead, police must either:
+
+Develop reasonable 
+“Terry”
+ suspicion to stop a vehicle independently of an ALPR match; or
+
+Immediately confirm visually that the vehicle plate matches the ALPR’s image of it and confirm “by other means” that the vehicle is in fact included in a database or list identified in 
+Section 3
+(2)(a).
+
+Penalties for violations
+
+Penalties are found in sections 6, 10, and 11. 
+Section 6
+ renders any information obtained in knowing violation of 
+SB 6002
+ inadmissible in court (with limited exception). 
+Sections 10 and 11
+ also impose civil and criminal penalties for improper ALPR system access or unauthorized dissemination of ALPR data.
+
+Unanswered Questions
+
+SB 6002
+ is new legislation that has yet to be tested and applied by courts, leaving many unanswered questions about its interpretation, a few of which are explored below.
+
+How will this impact existing criminal investigations/prosecutions?
+
+A significant question is whether and how 
+SB 6002
+’s recent passage affects pending criminal investigations and prosecutions.
+
+Laws generally provide that legislation applies prospectively (from its effective date forward) unless the legislature expresses a different intent. 
+SB 6002
+ includes no clear “retroactive” legislative intent, so presumably its restrictions will only apply from March 30, 2026, onward. Nonetheless, the spirit and intent of 
+SB 6002
+ could affect how courts view ALPR evidence obtained 
+before
+ the bill, and the data’s admissibility in court will ultimately turn on specific facts that must be resolved on a case-by-case basis.
+
+What are the data-sharing implications?
+
+SB 6002
+’s data-sharing restrictions could pose new law enforcement and prosecution challenges because it restricts agencies (defined as 'units of government') from sharing their collected ALPR data with outside agencies or entities unless a judicial proceeding requires it.
+
+SB 6002
+ does not define “judicial proceeding,” but assuming that it means a filed court case, the restrictions could prohibit ALPR data sharing in scenarios with only a potential for future court proceedings. For example, the restrictions could prohibit a city police department from sharing its ALPR data with outside police agencies for investigative purposes, or with county prosecutors for felony filing decisions. Acoordingly, agencies may need to adjust certain aspects of their investigative information-sharing practices in the wake of the bill’s passage.
+
+How will this impact public records management?
+
+Many agencies have also questioned how the passage of 
+SB 6002
+ will affect public records responsibilities, particularly those related to pending public records requests. My colleague Sarah Doar has tackled those questions in 
+Closing the Blinds: New Public Records Act Exemption Limits Disclosure of ALPR Data
+, providing agencies with much needed helpful guidance in that area.
+
+Conclusion
+
+Lingering questions about 
+SB 6002
+ have prompted several agencies to suspend their ALPR operations until they can better understand the legal effects that the new law will have on their ALPR systems and programs. Agencies with specific questions about compliance are encouraged to consult their legal advisors for further guidance.
+
+MRSC is a private nonprofit organization serving local governments in Washington State. Eligible government agencies in Washington State may use our free, one-on-one 
+Ask MRSC service
+ to get answers to legal, policy, or financial questions.
+
+About Harry Boesche
+
+Harry Boesche joined MRSC as a legal consultant in 2024. Prior to this, he was the Deputy City Attorney for the City of Auburn for 17 years.
+
+His municipal law practice includes advising elected officials and appointed board and commission members on public records act and open government issues.
+
+VIEW ALL POSTS BY HARRY BOESCHE
+
+More
+Hide
+
+Blog Archives
+
+September 2026
+
+August 2026
+
+July 2026
+
+June 2026
+
+May 2026
+
+April 2026
+
+March 2026
+
+February 2026
+
+January 2026
+
+December 2025
+
+November 2025
+
+October 2025
+
+September 2025
+
+August 2025
+
+July 2025
+
+June 2025
+
+May 2025
+
+April 2025
+
+March 2025
+
+February 2025
+
+January 2025
+
+December 2024
+
+November 2024
+
+October 2024
+
+September 2024
+
+August 2024
+
+July 2024
+
+June 2024
+
+May 2024
+
+April 2024
+
+March 2024
+
+February 2024
+
+January 2024
+
+December 2023
+
+November 2023
+
+October 2023
+
+September 2023
+
+August 2023
+
+July 2023
+
+June 2023
+
+May 2023
+
+April 2023
+
+March 2023
+
+February 2023
+
+January 2023
+
+December 2022
+
+November 2022
+
+October 2022
+
+September 2022
+
+August 2022
+
+July 2022
+
+June 2022
+
+May 2022
+
+April 2022
+
+March 2022
+
+February 2022
+
+January 2022
+
+December 2021
+
+November 2021
+
+October 2021
+
+September 2021
+
+August 2021
+
+July 2021
+
+June 2021
+
+May 2021
+
+April 2021
+
+March 2021
+
+February 2021
+
+January 2021
+
+December 2020
+
+November 2020
+
+October 2020
+
+September 2020
+
+August 2020
+
+July 2020
+
+June 2020
+
+May 2020
+
+April 2020
+
+March 2020
+
+February 2020
+
+January 2020
+
+December 2019
+
+November 2019
+
+October 2019
+
+September 2019
+
+August 2019
+
+July 2019
+
+June 2019
+
+May 2019
+
+April 2019
+
+March 2019
+
+February 2019
+
+January 2019
+
+December 2018
+
+November 2018
+
+October 2018
+
+September 2018
+
+August 2018
+
+July 2018
+
+June 2018
+
+May 2018
+
+April 2018
+
+March 2018
+
+February 2018
+
+January 2018
+
+December 2017
+
+November 2017
+
+October 2017
+
+September 2017
+
+August 2017
+
+July 2017
+
+June 2017
+
+May 2017
+
+April 2017
+
+March 2017
+
+February 2017
+
+January 2017
+
+December 2016
+
+November 2016
+
+October 2016
+
+September 2016
+
+August 2016
+
+July 2016
+
+June 2016
+
+May 2016
+
+April 2016
+
+March 2016
+
+February 2016
+
+January 2016
+
+December 2015
+
+November 2015
+
+October 2015
+
+September 2015
+
+August 2015
+
+July 2015
+
+June 2015
+
+May 2015
+
+April 2015
+
+March 2015
+
+February 2015
+
+January 2015
+
+GO
+
+
+Weekly E-News 
+
+Get the latest local government news, analysis, and training opportunities in Washington State with MRSC’s 
+Weekly Insights
+.
+
+SIGN UP
+
+Related Materials
+
+BLOG
+
+2020 Legislative Update — The Big List 
+
+IN THE NEWS
+
+Judge pauses WA’s new law creating standards for sheriff candidates 
+
+ASK MRSC
+
+A terminated police officer has filed an appeal with the civil service commission, and the union has filed a case with Washington State Public Employment Relations Commission (PERC) on their behalf. Which of these should come first, or can they run concurrently? The city’s Collective Bargaining Agreement (CBA) does allow both avenues of appeal. 
+
+TOPICS
+
+Disclosure of Law Enforcement Traffic Accident and Vehicle Records 
+
+
+  Back to top

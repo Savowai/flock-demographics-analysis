@@ -1,0 +1,299 @@
+TITLE: Reported: ICE using ALPR cameras for immigration enforcement via state/local police
+PUBLISHER: Immigration Policy Tracking Project
+DATE: 2025
+URL: https://immpolicytracking.org/policies/reported-ice-accessing-flock-automated-license-plate-reader-cameras-via-local-law-enforcement/
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Skip to main content
+
+2.0
+
+Reported: ICE using automated license-plate-reader cameras for immigration enforcement via state/local police
+
+Overview
+
+Documents (1)
+
+Send Feedback
+
+Sort timeline by:
+
+Date (Oldest First)
+
+Date (Newest First)
+
+Original Date Announced
+
+May 27, 2025
+
+404 Media
+ reports that ICE is using data from a license-plate-scanning tool "that is primarily marketed as a surveillance solution for small towns to combat crimes like car jackings or finding missing people."
+ICE agents do not have an official contract with Flock, the company providing the AI-powered automatic license-plate-reader (ALPR) system, but according to data reviewed by 
+404 Media
+, ICE officials have asked state/local law enforcement offices to search Flock cameras on their behalf. Reportedly more than 4,000 lookups have been conducted at the behest of the federal government for immigration purposes, "giving federal law enforcement side-door access to a tool that it currently does not have a formal contract for." When conducting a Flock lookup, state/local law enforcement is reportedly not only able to "search their own Flock cameras, but also those in other states or even nationwide."
+Trump 2.0 [ID #1777]
+
+ 2025.05.27_Reported: ICE Taps into Nationwide AI-Enabled Camera Network, Data Shows - 404 Media
+ 
+ 
+
+Effective Date
+
+May 27, 2025
+
+Subsequent Trump and Court Action
+
+July 16, 2025
+
+2025.07.16 Reported: Federal license plate reader searches raise surveillance questions - VPM News
+
+According to 
+VPM News
+, a Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) analyst improperly accessed Richmond, Virginia's Flock Safety license-plate reader system to aid an immigration investigation after individuals escaped an ICE detention center. In response, Richmond police blocked federal access, emphasized they do not enforce immigration law, and confirmed the employee who allowed access is no longer with the department. Other Virginia localities have also restricted automated license- plate reader data-sharing due to similar concerns.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+August 25, 2025
+
+2025.08.25 Ensuring Local Compliance - Flock Safety Statement on Immigration Cooperation
+
+Garrett Langley, CEO of Flock Safety, which operates ALPRs in jurisdictions nationwide, put out a statement admitting that "[w]hile it is true that Flock does not presently have a contractual relationship with any U.S. Department of Homeland Security agencies, we have engaged in limited pilots with U.S. Customs and Border Protection (CBP) and Homeland Security Investigations (HSI), to assist those agencies in combatting human trafficking and fentanyl distribution . . . . As of last week, all ongoing federal pilots have been paused." Langley stated that "to ensure users are able to determine, in compliance with local laws, regulations, and community norms, whether and when to share their data . . . [m]oving forward, federal users will not be added to Statewide or Nationwide lookup. Any sharing request, audit or display of these agencies will clearly delineate that an organization is federal."
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+October 9, 2025
+
+2025.10.09 Reported: Virginia surveillance network tapped thousands of times for immigration cases - Virginia Center for Investigative Journalism
+
+The 
+Virginia Center for Investigative Journalism
+ (VCIJ) reports that "law enforcement conducted nearly 3,000 searches related to immigration enforcement on Virginia’s Flock Safety network over a recent 12-month period . . . . Although Virginia police and sheriffs’ departments stated they would not use their systems for immigration enforcement, their systems’ connection to a national network allowed thousands of outside law enforcement agencies to surveil Virginians’ traffic routines and access license plate and vehicle data." According to VCIJ, "the network audit logs from both Bridgewater and Mecklenburg County reveal that agencies that had access to the automatic license plate reader system conducted nearly 3,000 searches with the terms 'ICE,' 'ERO,' 'immigration,' and 'deportee.'"
+In July 2025, a new state law took effect limiting the sharing and public disclosure of data collected by traffic- surveillance networks.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+October 21, 2025
+
+2025.10.21 Reported: Flock Surveillance Systems Expose Washington Data to Immigration Enforcement - UWCHR
+
+The University of Washington Center for Human Rights (UWCHR) reports that Flock Safety ALPR networks have enabled access to license plate data in Washington by federal immigration enforcement agencies through "front door," "back door," and "side door" access. Public records requests reveal that "at least eight Washington state law enforcement agencies enabled direct, 1:1 sharing of their networks with U.S. Border Patrol at some point during 2025; effectively opening the 'front door' for searches potentially related to civil immigration enforcement activities." Additionally, CBP had "back door" access to license plate data captured by ALPRs operated by at least ten local law enforcement agencies that had not explicitly authorized sharing with CBP. There are also limited cases of "side door" access, which are searches by authorized network users on behalf of other agencies without direct access to the network.
+UWCHR states that the federal government's access to data obtained by local agencies raises concerns about compliance with state law regarding private data and constitutional protections against unreasonable searches and seizures.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+November 13, 2025
+
+2025.11.13 Reported: Woodburn pauses use of Flock cameras citing concerns around ICE - USA Today
+
+USA Today
+ reports that the City of Woodburn, Oregon, voted to suspend the use of Flock safety cameras for 60 days due to concerns that the program could be used for ICE operations. Woodburn contracted with Flock Safety in 2024 to install 24 license plate reader cameras in the city. According to the Woodburn Flock portal, Flock data may not be used for immigration enforcement. Mayor Frank Lonnergan stated there is no proof the system has been abused, but that the decision was made to be proactive.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+February 10, 2026
+
+2026.02.10 Reported: ICE Taps into School Security Cameras to Aid Trump’s Immigration Crackdown, 74 Investigation Finds - The 74
+
+The 74
+ reports that police departments across the U.S. are using school-district security cameras to aid immigration enforcement. An investigation by 
+The 74
+ revealed police searching a national license-plate-reader database that includes data from school cameras made by Flock.
+Flock devices have been installed by more than 100 public-school systems nationally, and collect license-plate and location data that can be widely shared with law enforcement including DHS. The practice has raised concerns that surveillance technology intended for student safety is being repurposed for immigration enforcement.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+August 9, 2026
+
+2026.08.09 Reported: Local officials say the backlash against Flock cameras is becoming bipartisan - Politico
+
+Politico
+ reports that more than 20 jurisdictions moved to cancel their contracts with Flock in July 2026, the highest number in a single month since DeFlock, an activist group, began mapping the company in 2021. Over 50 cities and counties have cut ties with Flock in 2026.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+August 10, 2026
+
+2026.08.10 Reported: Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.- New York Times
+
+The New York Times
+ reports that Flock Safety now operates more than 120,000 license-plate-reader cameras under contracts with 7,000 law enforcement agencies. Despite bipartisan concerns over privacy and misuse, including officers using the cameras to investigate abortions and track romantic partners, Flock’s growth has continued largely unabated in states like Texas.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+September 1, 2026
+
+2026.09.01 Reported: Florida orders removal of Flock cameras from state highways - The Hill
+
+The Hill
+ reports that the Florida Department of Transportation (FDOT) is halting the use of Flock cameras and other automated license plate readers. FDOT's order applies to cameras on the state's highway systems, but the use of such cameras on city and county roads remains up to the discretion of local officials. Sheriffs' offices in Putnam and Clay counties have taken steps to remove all automatic license plate readers from their jurisdictions' roadways.
+
+ View Document
+ 
+ 
+
+Subsequent Trump and Court Action
+
+September 18, 2026
+
+2026.09.19 Reported: Texas agency suspends Flock camera approvals - The Hill
+
+The Hill
+ reports that the Texas Department of Transportation suspended issuing approvals for Flock cameras and similar devices amid "growing security and privacy concerns." Governor Abbott ordered all state agencies in August to halt funding for Flock cameras.
+
+ View Document
+ 
+ 
+
+Current Status
+
+None
+ 
+ 
+
+Original Trump Policy Status
+
+Status:
+
+Reported
+
+Final/Actual
+
+Trump Administration Action:
+
+Change in Practice
+
+Subject Matter:
+
+Interior
+
+Agencies Affected:
+
+ICE
+
+State & Local Entities
+
+Associated or Derivative Policies
+
+December 22, 2017
+
+ICE gains access to nationwide license plate reader database
+
+Commentary
+
+2026.01.29 Washington Post - The powerful tools in ICE’s arsenal to track suspects - and protesters
+
+The Washington Post
+ reports that federal immigration officers across Minnesota and beyond are equipped with an expanded arsenal of advanced surveillance technologies such as facial recognition, biometric trackers, license-plate readers, cell-phone location data, spyware, and drones. ICE has thereby broadened its enforcement scope, asserting authority to use these tools not only for immigration enforcement, but also to monitor and investigate anti-ICE protest networks including U.S. citizens. Reports document real-time facial scans of citizens, expanded data purchases from commercial brokers, deployment of cell-site simulators and digital forensics tools, and growing use of drones for surveillance of protests and enforcement operations.
+
+ Go to article
+ 
+ 
+
+2026.02.10 EFF - California Covert and Checkpoint ALPRs Map
+
+The Electronic Frontier Foundation (EFF) published a map of more than 40 ALPRs in San Diego and Imperial County believed to be used by federal immigration-enforcement agencies. EFF is leading a California campaign to convince the Governor and Caltrans to "Revoke Permits for Federal License Plate Reader Surveillance." See https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance
+
+ Go to article
+ 
+ 
+
+2026.02.26 CalMatters - He saw an abandoned trailer. Then, he uncovered a surveillance network on California’s border
+
+CalMatters
+ reports that CBP and DEA have deployed a network of covert ALPRs along Southern California border highways.
+
+ Go to article
+ 
+ 
+
+Documents
+
+Trump-Era Policy Documents
+
+Subsequent Action
+ 
+
+Original Source:
+
+ 2025.08.25 Ensuring Local Compliance - Flock Safety Statement on Immigration Cooperation
+
+ To provide information, corrections, or feedback, please email
+ 
+
+ IPTP.feedback@gmail.com
+ 
+
+Glossary
+
+ Policies by Current Status
+ 
+
+Reflects degree to which the Trump-era policy remains in effect today.
+
+ Fully in Effect
+ 
+
+Trump-era policies that have not been altered or eliminated.
+
+ Partially in effect
+ 
+
+Policies that have not been fully eliminated but are not in effect in their original substance. They may have been amended, updated with changes, or eliminated or enjoined in some jurisdictions or with respect to some affected parties but not others.
+
+ Not in effect
+ 
+
+Policies that have expired or been fully rescinded, replaced, enjoined, etc., or that were proposed but never were finalized.
+
+ Action on Policies by
+ 
+
+Indicates the entity that caused the action reflected in Type of Action. "Others" may include the Trump administration, Congress, unions, etc.--i.e., any actor other than the courts or the Biden Administration.
+
+ Type of Action Affecting Trump-era Policies
+ 
+
+Indicates the process or action by which a policy ceased to be in effect or became partially in effect. If no such action or process has take place, or if the policy has been ratified, it is fully in effect.
+
+© 2026 Immigration Policy Tracking Project
+
+About
+
+In the News
+
+Privacy Policy
+
+Sign In

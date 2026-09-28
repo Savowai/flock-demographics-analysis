@@ -1,0 +1,154 @@
+TITLE: Local police adjust to Washington's new mass surveillance law
+PUBLISHER: Cascadia Daily News
+DATE: 2026-04-26
+URL: https://www.cascadiadaily.com/2026/apr/26/local-police-adjust-to-washingtons-new-mass-surveillance-law/
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+News
+ | 
+State
+ | 
+Government
+
+ 
+
+Local police adjust to Washington’s new mass surveillance law
+ 
+
+Flock Safety provides departments compliance tools, critics say it’s not enough
+ 
+
+ April 26, 2026 9:00 p.m. 
+
+ 
+A Flock camera placed on the outer edges of the Meridian Village Home Depot remains vigilant at all hours of the day, cataloguing the vehicle information of customers. 
+(
+Santiago Ochoa
+/Cascadia Daily News)
+
+ 
+
+
+ By 
+
+Isaac Stone Simonelli
+
+Enterprise/Investigations Reporter
+
+ 
+
+ 
+
+ 
+
+ 
+
+No Q&A content found.
+
+Local law enforcement agencies have 180 days from March 30 to comply with Washington’s first law regulating automated license plate readers (ALPRs). Any steps required to ensure compliance depend on the agencies’ current reliance on the mass-surveillance technology.
+
+The day after the Driver Privacy Act was signed into law, the Bellingham Police Department, which does not operate its own ALPRs, ended its agreements with Lowe’s and Home Depot to access the Flock Safety cameras in their parking lots. 
+
+Mount Vernon Police Chief Dan Christman, a staunch supporter of the technology, told Cascadia Daily News on April 15 that his department’s policies are being updated and deputies are undergoing new training to ensure compliance when using data collected by their six ALPRs.
+
+The law changes the landscape for ALPRs in the state by limiting the use of the data to investigate felonies and gross misdemeanors, exempting the data from public record requests, shortening the time period agencies are allowed to retain the data, closing immigration enforcement loopholes from being exploited by agencies outside the state and requiring agencies to obtain a warrant to get private ALPR data, such as those found in HomeDepot and Lowe’s parking lots. 
+
+Additionally, cameras must be removed from sensitive locations, such as health care facilities and places of worship.
+
+Flock Safety, the most well-known company providing ALPRs, has nearly 100 law enforcement clients in Washington state, as well as more than 100 private businesses and homeowners associations. The company declined to share the number of cameras deployed in the state.
+
+Infrared LEDs around the Flock camera’s lens emit light invisible to the human eye in order to record the license plates of Home Depot visitors in Meridian Village. 
+(
+Santiago Ochoa
+/Cascadia Daily News)
+
+“We are very happy to be regulated,” Holly Beilin, a spokesperson for Flock, told CDN.
+
+Beilin said Flock was working with agencies to ensure compliance with the law, which includes adding software filters to prevent immigration related searches from being performed on cameras in the state. 
+
+“In line with the law, we have blocked the ability for Washington agencies to share LPR data out of state,” Beilin said, noting that it can only be shared with other Washington-based agencies.
+
+Advertisement
+
+Critics of the technology, however, question the effectiveness of such guardrails.
+
+Dave Maas, the director of investigations at the Electronic Frontier Foundation, called the filters “not even a Band-Aid,” more like “putting makeup” on the problem.
+
+Groundbreaking investigations
+ by The Electronic Frontier Foundation last year revealed law enforcement outside Washington state using ALPRs to track participation in political demonstrations and women seeking abortions.
+
+That same year, researchers at University of Washington’s Center for Human Rights found federal agencies had accessed some Washington state and local law enforcement Flock data, potentially supporting 
+immigration enforcement in the state
+, against state law.
+
+“It’s good that we now have some regulations around ALPR use,” said Tee Sannon, the Technology Policy Program director for ACLU Washington, which played a significant role in shaping the law. “Before this law, there were no regulations.”
+
+The cameras take between six and 12 time-stamped images of each car that passes them, allowing law enforcement to create a detailed database of when and where vehicles are, according to 404 Media, which has done 
+extensive reporting
+ on the company.
+
+Sannon was quick to point out that the vast majority of the data collected is on people who are not associated with any wrongdoing; they’re simply driving by the cameras as they go about their lives.
+
+Striving for compliance
+
+Mount Vernon Police Department was not among the departments cited for sharing ALPR data with U.S. Customs and Border Protection by University of Washington researchers. The team did uncover eight agencies that enabled direct sharing with the Border Patrol in 2025.
+
+Mount Vernon Police Chief Christman said his department stayed out of the limelight because he had strict safeguards in place when first implementing the technology in the city last year. All six cameras are set to be fully operational by June.
+
+“Where other agencies were shutting down their cameras, we were able to keep ours going because we had guardrails and safety pieces in place to protect our data,” Christman said.
+
+Beilin told CDN that Flock was now using software filters in Washington to prevent agencies outside the state from accessing Washington cameras, as well as preventing searches that might be related to immigration enforcement. The filters were first developed in June 2025 and implemented in California that July to allow law enforcement to comply with a 2016 law that prevented the sharing of immigration and other data with out-of-state and federal agencies in that state.
+
+Investigative reporting by 
+404 Media
+ and 
+The San Francisco Standard
+ has revealed that police departments across the nation, including the San Francisco Police Department, have allowed 
+ICE access to their ALPR networks
+.
+
+Beilin explained that while agencies are ultimately responsible for ensuring they are complying with the law, Flock’s goal is to provide tools to make that oversight more effective and manageable.
+
+Maas argues agencies need more robust systems in place, such as having a second person review any search, as well as someone internally reviewing any search from an outside agency before approving it. Ultimately, though, he advocates for the requirement of warrants before analyzing any of the data collected.
+
+“That way, you’ve gone to a judge. You’ve got something legitimate, it’s been reviewed,” Maas said. “It’s not just you sitting at a desktop running whatever you want through it.”
+
+Earlier this month, Flock announced its “Audit Assistance” tool to help law enforcement identify searches misaligned with its policies. 
+
+“The tool automatically flags unusual activity and notifies agency administrators, enabling them to proactively review, document and address potential concern,” Beilin said, noting that the system continuously monitors activity to identify “search patterns that fall outside an agency’s typical usage.”
+
+ALPR data retention was a key point of contention as the Driver Privacy Act bill was taking shape. Ultimately, the law cuts the amount of time the data exists from 30 days to 21 days; still longer than the initial proposal of three days.
+
+Christman said 21 days was a good compromise between the needs of law enforcement and privacy concerns. However, Sannon said the time period provided no “meaningful protection.”
+
+After the bill was signed into law, Flock Safety set the retention period for all agencies in Washington state at 21 days, Beilin confirmed, noting it was among the shorter retention periods across the country.
+
+Limit set at felonies, gross misdemeanors
+
+Christman was happy to rattle off ALPR success stories, noting incidents where Flock cameras provided key insights into solving crimes, including a deadly drive-by shooting. The department has also used Flock for less serious crimes, such as graffiti. The new law puts a stop to that, though, the police chief noted.
+
+The restriction for only using the data for investigations into gross misdemeanors and felonies will have the most significant impact on Mount Vernon Police Department’s patrol operations, Christman said.
+
+“We have been so understaffed for so long that we had to use technology to help as a force multiplier,” Christman said, noting that the department had 46 commissioned officers in 1996 and still only had 46 in 2025. The city has grown from a population of about 28,000 in 2000 to more than 35,000 in 2024.
+
+“The Flock camera really helps because in a matter of seconds, we can put in a little bit of information into the search engine and filter down how many cars meet the description,” he explained.
+
+Maas said the discussion around the use of ALPRs is really about convenience for law enforcement. He noted that more precise location data is available via telephone companies. However, that data requires officers to obtain a search warrant.
+
+The new law does require officers to obtain a warrant before accessing privately held ALPR data, such as that collected in Bellingham by Home Depot and Lowe’s.
+
+Christman said if the type of crime was “important enough,” such as a fatal hit-and-run, then his department would seek a warrant to access relevant, private ALPR data.
+
+For Sannon, even the use of ALPR data for gross misdemeanors is too much.
+
+“It really normalizes the use of this really powerful surveillance tool,” she said, noting that the regulations put in place are just the start of the conversation. “We don’t think that the protections are enough.”
+
+Isaac Stone Simonelli
+ is CDN’s enterprise/investigations reporter; reach him at 
+isaacsimonelli@cascadiadaily.com
+; 360-922-3090 ext. 127. For confidential tips, email 
+isimonelli@proton.me
+.
+
+Advertisement

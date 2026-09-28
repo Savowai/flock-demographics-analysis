@@ -1,0 +1,56 @@
+TITLE: Attorney General Bonta advises California law enforcement on legal uses of ALPR data
+PUBLISHER: California Attorney General
+DATE: 2023-10-30
+URL: https://oag.ca.gov/news/press-releases/attorney-general-bonta-advises-california-law-enforcement-legal-uses-and
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Skip to main content
+
+ 
+
+ 
+
+Attorney General Bonta Advises California Law Enforcement on Legal Uses and Management of Automated License Plate Recognition Data
+
+Press Release
+
+Attorney General Bonta Advises California Law Enforcement on…
+
+ 
+
+Monday, October 30, 2023
+Contact: (916) 210-6000, agpressoffice@doj.ca.gov
+OAKLAND
+ – California Attorney General Rob Bonta today issued two legal bulletins to California state and local law enforcement agencies providing guidance and model policies regarding the use of data collected or accessed through an Automated License Plate Recognition (ALPR) system. Attorney General Bonta reminds agencies of their obligation to ensure that the storage, collection, sharing, and use of this information is consistent with California law.
+
+“As technology that helps us protect the public continues to advance, it is important that we put in place safeguards to ensure that this technology is used appropriately and lawfully,” 
+said Attorney General Bonta
+. “While this technology may be a helpful investigative tool, Californians must be able to trust that their information is being kept safe. Today, we remind law enforcement of their responsibility to safeguard this data and ensure its use is consistent with state law.”
+
+The data collected from ALPR systems capture images of license plates and use the image to find the plate numbers as well as their owner’s information. According to a recent survey and report issued by the California State Auditor, the majority of California law enforcement agencies collect and use images captured by ALPR cameras, but few have appropriate usage and privacy policies in place.
+
+California law governs the collection, storage, sharing, and use of this data. In particular, Senate Bill 34 (2015) (SB 34) imposes requirements to protect data collected through an ALPR system, including limiting with whom this information may be shared. Additionally, Senate Bill 54 (SB 54), also known as the Values Act, provides strict guidelines in the use of these databases to ensure information shared for immigration enforcement purposes is limited to the fullest extent practicable and consistent with federal and state law.
+
+In the bulletins shared today, Attorney General Bonta provides law enforcement agencies with resources to ensure that their collection, storage, sharing, and use of ALPR information complies with California law. The bulletin reminds agencies that SB 34 requires that agencies provide to the public a written usage and privacy policy to ensure that the access, use, sharing, and dissemination of ALPR information is consistent with respect for individuals' privacy and civil liberties. Additionally, Attorney General Bonta provides updated guidance to California state and local law enforcement agencies regarding the governance of databases under SB 54 to ensure information shared for immigration enforcement purposes does not violate the civil liberties of Californians.
+
+The bulletins include:
+
+Information about SB 34, and law enforcement agencies’ handling of ALPR information
+,
+ to ensure that the storage, collection, sharing, and use of this information is consistent with California law.
+
+Information about SB 54, regarding the governance of specific data and databases — including ALPR data — under the Values Act, to ensure the use of ALPR information is limited for immigration enforcement purposes to the fullest extent practicable and consistent with federal and state law.
+
+Policy for California law enforcement agencies.
+
+The bulletin outlining requirements under SB 34 is available 
+here.
+
+The bulletin outlining requirements under SB 54 is available 
+here
+.
+
+ 
+
+# # #

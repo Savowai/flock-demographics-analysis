@@ -1,0 +1,76 @@
+TITLE: Federal immigration agencies access WA license plate data
+PUBLISHER: MyNorthwest
+DATE: 2025
+URL: https://mynorthwest.com/local/flock-safety-immigration-data/4145569
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+MYNORTHWEST NEWS
+
+At least 10 WA police agencies had data unknowingly accessed by Border Patrol, UW study finds
+
+Oct 22, 2025, 12:46 PM | 
+Updated: 
+5:24 pm
+
+BY
+ 
+LUKE DUECY
+
+KIRO Newsradio Reporter
+
+A new report from the University of Washington (UW) Center for Human Rights is raising alarm over how federal immigration agents may be accessing local police databases and what that means for privacy across Washington state.
+
+Under WA’s Keep Washington Working Act, local agencies are prohibited from assisting federal immigration enforcement. However, researchers said at least eight local law enforcement agencies, including the Benton County Sheriff’s Office and police departments in Arlington, Auburn, Lakewood, Richland, Sunnyside, Wenatchee, and Yakima, shared automated license plate reader (ALPR) data directly with U.S. Border Patrol at some point this year.
+
+More alarmingly, the report revealed federal agents accessed data through direct data sharing and through what researchers call “back door” access from at least 10 police departments that never granted explicit permission, between May and August 2025.
+
+According to UW, those local agencies included Black Diamond, Centralia, Chehalis, East Wenatchee, Eatonville, Ellensburg, Grandview, Mukilteo, Prosser, and Renton. In other cases, local officers reportedly conducted searches on behalf of federal immigration agencies.
+
+RELATED STORIES
+City of Auburn condemns U.S. Border Patrol's unauthorized use of Flock camera system
+Tacoma expands camping ban to parks, playgrounds, libraries
+Sexual abuse and corruption uncovered at Green Hill School
+
+Flock Safety data used by U.S. Border Patrol
+
+The data comes from Flock Safety, a private company whose cameras automatically record license plates to help track stolen vehicles and identify suspects. But the UW study found that the technology, increasingly used by police, school districts, and even homeowners’ associations, is also being tapped by federal immigration authorities in ways that may violate state law.
+
+“Both locally and nationwide, the rapid expansion of Flock ALPRs has generated controversy; many have expressed concerns related to privacy impacts and the systems’ possible use for civil immigration enforcement and/or to criminalize access to reproductive healthcare,” the report stated. “Similarly, ALPR data is among the forms of surveillance that could be used to criminalize those seeking gender affirming healthcare, as privacy advocates have warned.”
+
+The Electronic Frontier Foundation (EFF) said Flock Safety and the Johnson County Sheriff’s Office in Texas used Washington state license plate data to investigate people seeking reproductive healthcare, including, EFF claims, a woman’s self-managed abortion.
+
+EFF alleges deputies accessed Flock’s system under the guise of a “missing person” search, but EFF claimed records they obtained show they were pursuing an abortion-related case.
+
+Since then, Johnson County Sheriff Adam King has denied any link to Texas’s abortion ban, and Flock Safety called the media reports “false” and “misleading.”
+
+City of Auburn condemns U.S. Border Patrol’s use of Flock Safety system
+
+On Tuesday, 
+MyNorthwest
+ reported
+ that the City of Auburn publicly condemned the U.S. Border Patrol’s use of its Flock camera system, including a post on the city’s Facebook page, after it discovered agents used it without permission.
+
+However, new information shows city officials and the police department may not have fully understood how to prevent access to their data. On their Facebook page, the city explained it was aware the U.S. Border Patrol gained direct access to their Flock camera system, and added, “We want to state clearly: this access occurred unknowingly to us.”
+
+The issue is also raising questions about the transparency of Flock’s technology, whether local police fully understand who can access their data, and whether local agencies understand how to set up the technology according to their departments’ policies.
+
+Further down in their post, they said, “After learning via the report that Flock’s ‘National Lookup’ feature may have allowed unintended access through a shared national network, Auburn Police leadership immediately acted and has since turned off that feature…”
+
+Flock’s systems are now deployed in at least 80 cities, six counties, and three Tribal governments in Washington. UW researchers said that as the network expands, so does the risk that local data could be used for surveillance or immigration enforcement, despite state protections.
+
+Across the country, many lawmakers have embraced the use of technologies like Flock as a powerful tool to help federal agents investigate specific, legally justified operations — from immigration enforcement to organized crime and trafficking.
+
+Florida is considered by many as the poster state for teaming up with federal officials. It recently received a boost in federal funding, including $38 million, after entering into what Governor Ron DeSantis called a “historic agreement” with ICE through the 287(g) program, which empowers state and local law enforcement agencies to help federal agents. The funding is part of $1.7 billion being distributed nationwide under President Trump’s “Big, Beautiful Bill.”
+
+According to UW, the findings in their report deserve serious attention. The reports concluded Washington residents have a right to know whether police agencies using Flock and other surveillance systems are complying with state law, including the Keep Washington Working Act.
+
+“The proliferation of these technologies impacts the rights of all Washingtonians. And at a time when many of our neighbors are being subjected to raids by federal immigration authorities, which may result in fates as dire as their being forcibly disappeared, Washingtonians expect that our government exercise particular caution in sharing data with the federal agencies involved in such abuses,” researchers said. “And on the basis of that information, Washingtonians deserve a robust public discussion about the degree to which we authorize the use of these technologies in our communities.”
+
+Follow Luke Duecy on 
+X.
+ Read more of his stories 
+here
+. Submit news tips 
+here
+.

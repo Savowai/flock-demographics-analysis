@@ -1,0 +1,79 @@
+TITLE: Independent Audit Finds Pasadena Police's Flock Camera Program Complies With State Law
+PUBLISHER: Pasadena Now (Pasadena, CA)
+DATE: 2026
+URL: https://pasadenanow.com/main/independent-audit-finds-pasadena-polices-flock-camera-program-complies-with-state-law-department-policy
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+File photo of license plate reader cameras mounted on a Pasadena police vehicle. [James Macpherson/Pasadena Now]
+An independent review of the Pasadena Police Department’s use of Flock Safety automated license plate recognition cameras found the program is operating in compliance with state law and department policy, with no evidence the technology has been used for immigration enforcement.
+
+The review, conducted by Independent Police Auditor Teresa Magula and scheduled for presentation Thursday before the Community Police Oversight Commission (CPOC), concluded the department’s automated license plate recognition (ALPR) program is being used primarily to support criminal investigations and includes safeguards designed to limit access, document searches and protect against misuse.
+
+“PPD provided full access to all searches, policy, and system,” Magula wrote in her presentation to the commission. “The ALPR program appears to be operating consistent with California law and Department policy. The review found legitimate law enforcement uses tied to criminal investigations within California.”
+
+According to Magula, the system includes multiple controls intended to limit access and support accountability, and continued oversight remains important as the program expands.
+
+The Pasadena Police Department provided unrestricted access to its policies, search logs and system during the audit.
+
+The auditor found searches were overwhelmingly tied to legitimate criminal investigations involving offenses such as auto theft, burglary, robbery, assault, homicide, domestic violence and missing persons.
+
+Approximately 70% of searches targeted a specific license plate associated with an investigation, while broader searches based on vehicle characteristics were used far less frequently and generally only when a license plate was unknown.
+
+The audit also found no evidence that camera locations were selected based on race or ethnicity, although it acknowledged community concerns about the concentration of cameras in certain neighborhoods and recommended continued transparency as the system expands.
+
+The department’s use of Flock cameras has come before the Public Safety Committee several times, leaving the City Council committee split on the technology.
+
+Jess Rivas leans toward ending the city’s use of Flock without replacing it, while Councilmember Steve Madison supports the camera but is open to adjusting data sharing and retention. Meanwhile, Councilmembers Tyron Hampton and Justin Jones said the city should consider moving away from Flock while preserving license plate reader technology.
+
+The review comes as the city expands its use of Flock Safety cameras following the receipt of grant funding for additional units and amid growing scrutiny across the state over whether automated license plate reader data could be accessed for federal immigration enforcement or shared through regional intelligence networks.
+
+Those concerns prompted the Community Police Oversight Commission to request an independent assessment of the department’s compliance with state law, data-sharing practices and camera deployment.
+
+The city began deploying Flock cameras in 2023 and currently operates 61 fixed cameras throughout the city.
+
+Eleven additional cameras are planned, bringing the total to 72. The cameras are intended to assist criminal investigations, deter crime and improve coordination with other California law enforcement agencies.
+
+To complete the review, Magula examined the department’s internal audit of more than 5 million ALPR searches conducted during 2025, analyzed search records independently, interviewed department personnel responsible for the system and received direct access to observe how searches are conducted and documented.
+
+The report identified only two searches associated with a federal entity. Those searches were conducted by the Veterans Affairs Police in connection with a criminal investigation at a federal medical facility in Loma Linda and were determined by the department to have no connection to immigration enforcement.
+
+The review found no evidence that Pasadena’s ALPR system had been used to enforce federal immigration laws or that search justifications referenced immigration status or civil immigration enforcement.
+
+The audit also addressed concerns surrounding regional data sharing. During much of the review period, the Northern California Regional Intelligence Center (NCRIC) had authorized access to Pasadena’s ALPR data.
+
+However, the report notes Pasadena disabled NCRIC’s access effective June 18 after questions emerged statewide about indirect access through regional fusion centers. The auditor said the move reduces the risk of unintended data sharing while stressing that continued oversight remains necessary as technology and regional practices evolve.
+
+While finding the department’s camera placement strategy was based on traffic corridors, crime patterns and vehicle entry and exit routes rather than demographic characteristics, the auditor acknowledged the resulting distribution has raised legitimate concerns among residents because cameras are more concentrated in some council districts than others.
+
+The report recommends periodic reviews of camera placement, greater public communication about expansion decisions and continued monitoring of system use through regular audits and improved documentation requirements.
+
+ Get our daily Pasadena newspaper in your email box. Free.
+
+Get all the latest Pasadena news, more than 10 fresh stories daily, 7 days a week at 7 a.m.
+
+Top of the News
+ 
+ 
+
+Community News
+
+Pasadena Tournament of Roses Names Seven to 2027 Rose Court
+
+Government
+
+By ANDRÉ COLEMAN, MANAGING EDITOR
+
+Police Seek Approval For Explosive Entry Technique, Expanded Drone Use
+
+Government
+
+By ANDRÉ COLEMAN, MANAGING EDITOR
+
+City Council to Consider Updated Security Plan for Electric Facilities
+
+Government
+
+By ANDRÉ COLEMAN, Managing Editor
+
+Plans for North Fair Oaks, Orange Grove Corridors Go Before Council Tuesday

@@ -1,0 +1,79 @@
+TITLE: Automatic License Plate Readers: Legal Status and Policy Recommendations for Law Enforcement Use
+PUBLISHER: Brennan Center for Justice
+DATE: 2020
+URL: https://www.brennancenter.org/our-work/research-reports/automatic-license-plate-readers-legal-status-and-policy-recommendations
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Americans drive. According to one survey, 83 percent of U.S. adults drive a car at least several times a week. 
+1
+ In jurisdictions with limited or no public transportation, driving may even rival cell phone use as a modern necessity. Cars connect people with work, love, school, prayer, and protest.
+
+They also leave a data trail. Historically, it would have been virtually impossible for law enforcement to routinely surveil all drivers. However, with the growing use of automatic license plate readers (ALPRs), police can now receive alerts about a car’s movements in real time and review past movements at the touch of a button. ALPRs could prove valuable in police investigations and for non–law enforcement uses like helping government agencies to reduce traffic and curb environmental pollution. But legal and policy developments have failed to adequately address the risks posed by this highly invasive technology. 
+2
+
+Recent events crystalize ongoing concerns. With Black Lives Matter demonstrations taking place across the United States in the wake of the George Floyd and Breonna Taylor murders, law enforcement agencies large and small are deploying their expansive surveillance arsenals to monitor protesters. For many agencies, those surveillance tools include ALPRs, which have heightened relevance in localities where people must drive to protests, or if protests themselves are occurring by car, as is increasingly happening during the ongoing Covid-19 pandemic. 
+3
+
+The pandemic adds an additional dimension for consideration, as states look for creative ways to control the virus’s spread. With car travel expected to increase as states begin slowly loosening restrictions, ALPRs may play a larger role in law enforcement. 
+4
+ States such as Rhode Island have already directed law enforcement to look for New York license plates in order to identify people who should be directed to self-quarantine. 
+5
+ Law enforcement agencies may look to automate this process by using ALPR devices to alert officers any time an out-of-state license crosses into their localities.
+
+This white paper explains how ALPR technology works, focusing on its use by law enforcement agencies. It then analyzes both the legal and policy landscapes, including how courts have ruled on the use of ALPRs, and how they can be expected to rule in the future. Next, it outlines a series of concerns, ranging from high error rates to the impact on civil liberties and civil rights. Finally, it concludes with a set of recommendations for law enforcement, lawmakers, and technology vendors to enhance transparency and accountability and mitigate the impact of this technology on individuals’ civil liberties and civil rights.
+
+Endnotes
+
+ 1
+ 
+
+ See Megan Brenan, “83% of U.S. Adults Drive Frequently; Fewer Enjoy It a Lot,” 
+Gallup
+, July 9, 2018, 
+https://news.gallup.com/poll/236813/adults-drive-frequently-fewer-enjoy-lot.aspx
+.
+ 
+
+ 2
+ 
+
+ The focus of this report is law enforcement use of ALPR. Although there is an important discussion and analysis to be had regarding non–law enforcement applications, such as ALPR use to help institute congestion pricing or to automate toll collection, they are outside the scope of this report.
+ 
+
+ 3
+ 
+
+ See, e.g., Katie Schoolov, “As Protests over the Killing of George Floyd Continue, Here’s How Police Use Powerful Surveillance Tech to Track Them,” CNBC, June 18, 2020, 
+https://www.cnbc.com/2020/06/18/heres-how-police-use-powerful-surveillance-tech-to-track-protestors.html
+; Benjamin Wofford, “The Genius of Protesting in Car Caravans,” 
+Washingtonian
+, June 1, 2020, 
+https://www.washingtonian.com/2020/06/01/the-genius-of-protesting-in-car-caravans/
+; Caroline Haskins and Ryan Mac, “Here Are the Minneapolis Police’s Tools to Identify Protesters,” 
+BuzzFeed News
+, May 29, 2020, 
+https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology
+; and Catherine E. Shoichet, “They Can’t March in the Streets. So They’re Protesting in Their Cars Instead,” CNN, April 14, 2020, 
+https://www.cnn.com/2020/04/14/us/coronavirus-car-protests/index.html
+.
+ 
+
+ 4
+ 
+
+ See Haixia Wang, “41 Percent of Americans Say First Trip Will Be by Car within 100 Miles: Skift Research Travel Tracker,” 
+Skift
+, May 1, 2020, 
+https://skift.com/2020/05/01/41-percent-of-americans-say-first-trip-will-be-by-car-within-100-miles-skift-research-travel-tracker
+.
+ 
+
+ 5
+ 
+
+ Prashant Gopal and Brian K. Sullivan, “Rhode Island Police to Hunt Down New Yorkers Seeking Refuge,” 
+Bloomberg
+, March 27, 2020, 
+https://www.bloomberg.com/news/articles/2020–03–27/rhode-island-police-to-hunt-down-new-yorkers-seeking-refuge
+.

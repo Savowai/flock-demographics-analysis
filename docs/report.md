@@ -318,7 +318,55 @@ retailers, whatever the mechanism.
 
 ---
 
-## 5. Limitations
+## 5. What the documents add
+
+A 42-document corpus (168,249 words, 1,125 indexed passages) was assembled from
+statutes, agency policies, audits, public-records-based research and reporting.
+It answers the question coordinates cannot: who can search what these cameras
+collect. Sources are listed in `rag/documents/sources.csv`; the search tool is
+`rag/query.py`.
+
+**The spatial findings and the document record converge on the same cities.**
+
+King County's highest-camera cities are Renton (63 cameras, 15.9% Hispanic),
+Auburn (42, 22.6%), Tukwila (42, 25.8%), Kent (37, 17.5%) and SeaTac (34,
+23.3%) — the county's most Hispanic municipalities, and the statistical result
+in section 4.3.
+
+Independently, the University of Washington Center for Human Rights obtained
+Flock network audits by public records request and found (as quoted in
+`uwchr_leaving_door_wide_open.txt`):
+
+- **Auburn** is among the agencies that "enabled 1:1 sharing of their Flock
+  Network with Border Patrol at some point during 2025."
+- **Renton** is among agencies where Border Patrol had "apparent 'back door'
+  access to license plate data … which had not explicitly authorized sharing
+  with Border Patrol, from at least May to August 2025."
+
+So the two cities with the densest camera deployments in King County, both
+well above the county's 11% Hispanic average, appear in the federal-access
+findings — one by authorisation, one apparently without it.
+
+**The legal position differs sharply between the two states.**
+
+- **California**: the Attorney General's Information Bulletin 2023-DLE-06
+  states that "SB 34 does not permit California LEAs to share ALPR information
+  with private entities or out-of-state or federal agencies, including
+  out-of-state and federal law enforcement agencies."
+- **Washington** had no ALPR statute until SB 6002 (the Driver Privacy Act),
+  signed 2026-03-30 — after the sharing documented above. It now requires
+  deletion of most scans within 21 days, bans collection at health-care
+  facilities, immigration proceedings, schools, places of worship, courts and
+  food banks, requires registration with the Attorney General, and mandates
+  two-year audit trails.
+
+This is a caution against reading the LA and King County results as equivalent:
+during the period the UWCHR examined, California had a sharing prohibition on
+the books and Washington had none.
+
+---
+
+## 6. Limitations
 
 **Crowdsourced camera data is the binding constraint.** DeFlock volunteers map
 what they notice. Coverage likely varies with the density of privacy-minded
@@ -354,7 +402,7 @@ the small tracts where camera counts are most volatile.
 
 ---
 
-## 6. Thesis
+## 7. Thesis
 
 **The data does not support a general claim that Flock cameras are aimed at
 Latino neighbourhoods, and it does not refute one. It supports something more
@@ -392,15 +440,22 @@ with large immigrant populations. It is being bought nearly everywhere — which
 means the relevant question shifts away from who installs cameras and toward
 **who can query the resulting network**.
 
-That last point is where this analysis reaches its limit and hands off. A
-camera's coordinates cannot tell you who searches its records. Whether a
-Hispanic neighbourhood is over- or under-covered matters less if every network
-is queryable by agencies far outside the jurisdiction that installed it. That
-question is documentary rather than spatial, and it is what the document-search
-component of this project (Phase 6) addresses: the record of federal and
-immigration-agency access to Flock data, including the University of Washington
-Center for Human Rights findings on federal access to Washington state Flock
-systems.
+That last point is where the spatial analysis hands off to the documents, and
+where the two lines of evidence meet. A camera's coordinates cannot tell you
+who searches its records. But the public-records work summarised in section 5
+can: during 2025, Border Patrol had authorised sharing with Auburn's network
+and apparent back-door access to Renton's — the two densest camera deployments
+in King County, both in cities well above the county's Hispanic average, and
+both in the state that had no ALPR statute at the time.
+
+Neither finding alone carries much weight. A camera-density disparity without
+evidence of who queries the data is a pattern in search of a mechanism. A
+federal-access finding without placement data says nothing about who is
+disproportionately captured. Together they describe something concrete: in one
+of the two counties studied, the neighbourhoods with the most cameras were
+disproportionately Latino, and the networks covering them were reachable by
+federal immigration agencies — in at least one case without the operating
+agency's explicit authorisation.
 
 **The honest summary:** placement disparity exists in one of two counties
 studied and points the other way in the other; proximity to day-labor hiring
@@ -410,7 +465,7 @@ risk concentrates.
 
 ---
 
-## 7. Reproducing this
+## 8. Reproducing this
 
 ```bash
 python3.13 -m venv .venv && source .venv/bin/activate

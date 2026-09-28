@@ -1,0 +1,1107 @@
+TITLE: Leaving the Door Wide Open: Flock Surveillance Systems Expose Washington Data to Immigration Enforcement
+PUBLISHER: UW Center for Human Rights
+DATE: 2025-10-21
+URL: https://jsis.washington.edu/humanrights/2025/10/21/leaving-the-door-wide-open/
+RETRIEVED: 2026-09-28
+----------------------------------------------------------------------
+
+Skip to main content
+
+Leaving the Door Wide Open: Flock Surveillance Systems Expose Washington Data to Immigration Enforcement
+
+October 21, 2025
+ 
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+Summary
+
+Flock Safety automated license plate reader (ALPR) networks have become increasingly common in Washington state.
+
+Records obtained by UWCHR researchers via public records requests reveal that at least eight Washington state law enforcement agencies enabled direct, 1:1 sharing of their networks with U.S. Border Patrol at some point during 2025; effectively opening the “front door” for searches potentially related to civil immigration enforcement activities.
+
+Flock audits reveal apparent “back door” access by U.S. Border Patrol to the networks of at least ten Washington police departments which did not explicitly authorize Border Patrol searches of their network data.
+
+Flock audits reveal limited cases of law enforcement agencies in Washington state conducting “side door” searches on behalf of federal immigration enforcement agencies, as well as numerous similar searches by other law enforcement agencies nationwide with access to Flock networks in Washington state.
+
+Discrepancies between Flock audits and other documentation make it impossible for independent researchers to determine the current scope of local organizations’ access and exposure to searches by other Flock users nationwide.
+
+Introduction
+
+Download the PDF
+
+In recent months, amidst a national campaign of mass deportation, concerns have spread among Washington state residents about local and state authorities’ improper sharing of their personal data with federal government agencies involved in immigration enforcement. Some of these concerns revolve around license plate data, which UWCHR researchers have found are frequently cited in Immigration and Customs Enforcement (ICE) records as a tool used in the identification and location of targets. In July, a reporter from King 5 News discovered that Immigration and Customs Enforcement and other federal agencies had made thousands of searches of the Driver and Plate Search (DAPS) database from Washington state’s Department of Licensing (DOL), resulting in immigration arrests.
+[1]
+ While the DOL has said that it has now suspended fourteen federal agencies’ access to the DOL’s DAPS database,
+[2]
+ surveillance technology such as automated license plate readers (ALPRs) offer another source of information about Washington drivers. And in recent months, UWCHR researchers have learned that ALPR data collected by local law enforcement agencies across our state is being frequently accessed by federal agencies involved in immigration enforcement, despite the protections embedded in Washington’s Keep Washington Working law.
+
+Read the 2022 report
+
+In December 2022, UWCHR published a report, 
+“Who’s Watching Washington?”
+, which discussed rights concerns raised by ALPRs and related technologies, including their potential uses for immigration enforcement and the criminalization of reproductive healthcare access. While DOL’s DAPS database makes it possible to identify a vehicle’s registered owner by searching a full or partial license plate number,
+[3]
+ ALPRs make it possible to pinpoint that vehicle’s location as it moves through the world; they even enable automatic notifications when a vehicle included on a “hot list” drives by a device in the user’s network. They may be a potent tool for law enforcement,
+[4]
+ but as UWCHR warned in 2022, their misuse can undermine the reproductive and migrant rights which Washington state has committed itself to defending.
+[5]
+
+Since that time, usage of ALPRs by local governments and private parties alike has continued to expand, and one company, Flock Safety, has come to dominate the market. While there is no comprehensive data on the proliferation of Flock Safety systems, a recent report by The Urbanist suggests that the systems are used by at least 80 cities, six counties, and three Tribal governments in Washington state.
+[6]
+ Agencies employing these systems include local police and sheriffs, school districts, public housing authorities, and more;
+[7]
+ in addition to public entities, private businesses and neighborhood associations are part of the Flock network, often sharing images captured by their devices with law enforcement.
+
+Both locally
+[8]
+ and nationwide,
+[9]
+ the rapid expansion of Flock ALPRs has generated controversy; many have expressed concerns related to privacy impacts and the systems’ possible use for civil immigration enforcement and/or to criminalize access to reproductive healthcare. Similarly, ALPR data is among the forms of surveillance that could be used to criminalize those seeking gender affirming healthcare, as privacy advocates have warned.
+[10]
+
+Based on analysis of records received from 31 of the law enforcement agencies in Washington state known to be Flock customers,
+[11]
+ as well as our review of patterns emerging from Flock use in other states, UWCHR researchers conclude that these concerns about Flock Safety systems are well founded. Specifically, our research shows that, in Washington state in 2025:
+
+At least eight local law enforcement agencies appear to have enabled 1:1 sharing of their Flock Network with Border Patrol at some point during 2025, including Benton County Sheriff’s Office and police departments in the cities of Arlington, Auburn, Lakewood, Richland, Sunnyside, Wenatchee, and Yakima.
+
+The Border Patrol had apparent “back door” access to license plate data captured by ALPRs operated by at least ten local law enforcement agencies across our state which had not explicitly authorized sharing with Border Patrol, from at least May to August 2025.
+
+In a limited number of cases, local law enforcement agencies in Washington state conducted searches of Flock ALPR data on behalf of Immigration and Customs Enforcement (ICE) or Border Patrol. In addition, law enforcement agencies outside of Washington state conducted numerous “side door” searches of Washington data gathered by Flock networks in our state.
+
+Serious questions remain about the transparency and accuracy of Flock’s descriptions of its own technology, and about users’ ability to control and understand its potential impacts.
+
+Background
+
+Founded as a startup in 2017, Flock Safety has expanded rapidly by offering low-cost, solar-powered cameras that connect wirelessly to a nationwide network;
+[12]
+ Forbes has described the company’s growth as “explosive.”
+[13]
+ Today, Flock reportedly has more ALPRs in service across the country than any of its competitors.
+[14]
+ The company boasts more than 80,000 AI-powered cameras across 49 U.S. states, and it is now rolling out a complementary new product: surveillance drones.
+[15]
+
+Flock ALPRs capture images of all cars that pass the camera; those images are then read by AI, generating text which is stored in Flock’s centralized database. Via Flock’s user interface, users are able to tap into this database to perform searches—by license plate number, color and make of car, or even details about the car’s physical condition such as bumper stickers, a roof rack, or a broken window.
+[16]
+ The software also reportedly contains features giving users the ability to analyze patterns of movement, to flag repeat visitors to a given area, project information onto maps, analyze vehicles frequently seen in proximity to one another, and generate lists of vehicles that have visited specific locations of interest.
+[17]
+
+According to Flock, the breadth of data to which a given user has access when doing a search depends on the settings inputted by other users of the system. Each organization that connects to the system has its own network (defined as its own cameras and software), and can choose whether to share the data generated by that network with other law enforcement agencies located in the same state, located within a given geographic radius, or nationwide. It can also identify specific law enforcement agencies with which it chooses to share its data. It could also choose to not share data outside its own network at all.
+[18]
+
+Besides law enforcement, many businesses, neighborhood associations, and other groups also use Flock. These private customers can opt to have the data generated by their cameras automatically shared with law enforcement, and many do—including major retailers like Home Depot and Lowe’s,
+[19]
+ or Simon Properties, the nation’s largest network of shopping malls
+[20]
+—but according to Flock, private customers are not able to search data generated by law enforcement ALPRs. (Significantly, unlike all its major competitors in the ALPR market, Flock has refused to allow independent security analysts to test its devices to ensure that claims made by the company are accurate.
+[21]
+)
+
+ 
+
+Screenshots from Flock Safety promotional videos reviewing features of Flock tools including phone, plate, or address lookup across systems and jurisdictions, public and private network sharing, AI-powered search and alert systems, geospatial mapping, and more.
+[22]
+
+Although concern about the use of Flock’s products for immigration enforcement is not new, it spiked following 404 Media’s revelations in May 2025 that local police around the country were performing searches of Flock’s database on behalf of Immigration and Customs Enforcement (ICE).
+[23]
+ These “side door” searches were performed by authorized law enforcement users on behalf of ICE, and were only discovered because the person performing the search had typed “ICE,” “illegal immigration,” or other similar descriptors in the required field where users must input the reason for their search. Of course, in some jurisdictions, local law enforcement collaboration with ICE is perfectly legal; in others, such as Washington, the practice of conducting a search to assist ICE in civil immigration enforcement would run afoul of state law. And what happens when a law enforcement agency in a state that collaborates with ICE gives federal immigration agents access to data, obtained through Flock’s network, which was generated by law enforcement ALPRs from a state that bans such collaboration?
+
+Also in May, 404 Media also revealed that a police officer in Texas had conducted nationwide searches of Flock’s networks in an effort to track down a woman who had self-administered an abortion; in October 2025, further reporting showed that law enforcement had considered bringing criminal charges against her.
+[24]
+ Among the data searched was that generated by Flock ALPR networks in Yakima and Prosser, Washington.
+[25]
+ Reproductive rights advocates expressed alarm that law enforcement in a state where almost all abortions are illegal was using data generated by publicly-operated ALPR systems in Washington, a state committed to ensuring access to abortions for all who need them.
+[26]
+
+An excerpt from a Flock Network Audit from Prosser Police Department shows a May 9, 2025 search of the department’s network by a user from the Johnson County Texas Sheriff Office, listing the reason for search as “had an abortion, search for female.” 
+
+In response to this controversy, Flock’s founder and CEO issued a statement in June 2025 in which he emphasized that decisions about with whom to share data, and how they might use it, were up to users themselves: “It is a local decision. Not my decision, and not Flock’s decision.”
+[27]
+ He emphasized the importance of using audits to ensure that users are aware of the data-sharing choices they have enabled on their network. Flock provides customers with two monthly audits: an Organization Audit which reports searches by users internal to the organization of both the local network and any networks shared with it; and a Network Audit, which reports searches of the organization’s network by external users. Both of these reports include the same fields of information,
+[28]
+ including the identity of the user making the search, the organization to which they belong, the date and timeframe of the search, the number of networks and devices searched, the specific license plate number (or partial number) searched for, the “reason” asserted for the search, associated case number, and search filters such as vehicle make or state. The audits only report the contents of each search, not its results; and local agencies make their own determinations about how long to retain the results of searches. In addition, Flock allows users to generate a Network Sharing report which lists networks shared by and with the organization on a 1:1 basis; and maintains Transparency Portals, through which organizations can choose to publicly report various characteristics of their network, including its sharing settings and a limited public audit.
+
+Flock users can access various forms of audits and reports, including Organization Audits, which report searches by users internal to the organization of both the local network and any networks shared with it; and Network Audits, which report searches of the organization’s network by external users.
+
+In August 2025, however, a local news outlet in Colorado discovered that Customs and Border Protection (CBP) had accessed ALPR data in Flock’s database generated by customers who had not intended to share with federal authorities.
+[29]
+ Flock responded that this had occurred through a previously-undisclosed “pilot program,” suggesting that despite not having a Flock contract, CBP had sent requests for 1:1 data sharing to multiple jurisdictions and many had accepted, implying the practice had been limited.
+[30]
+ Yet 404 Media notes, “functionally, there is no difference between Flock’s ‘nationwide network’ and the network of cameras that CBP has access to,”
+[31]
+ suggesting instead that CBP had effectively been granted “back door” access to the entire system. This included data from police departments in Washington state. As 404 Media reported, “Data obtained in separate requests from the Prosser Police Department and Chehalis Police Department, both in Washington state, also show CBP searching a huge number of networks and devices.”
+[32]
+
+Flock responded by acknowledging it had “communicated poorly” and “inadvertently provided inaccurate information,” and stressing that it would now designate all federal users as part of a separate “Federal” category in order to make it easier for users to distinguish them, and would not include them in “statewide” or “nationwide” lookup categories.
+[33]
+ However, privacy watchdogs at the Electronic Frontier Foundation criticized such measures as ineffective, noting that “The possibility of human workarounds at every level undermines any technical safeguards Flock may claim.”
+[34]
+ Specifically, the reliance on user-inputted “reasons” for a search as a means to determine its legitimacy is inherently problematic, especially when users frequently input cryptic abbreviations or vague terms like “investigation” into that field.
+
+The growing controversy around Flock prompted a growing number of law enforcement jurisdictions to cancel or suspend their contracts with the company in recent months, including Austin, TX,
+[35]
+ Syracuse, NY,
+[36]
+ Berkeley, CA,
+[37]
+ Scarsdale, NY,
+[38]
+ Evanston, IL,
+[39]
+ Oak Park, IL,
+[40]
+ and Sedona, AZ.
+[41]
+
+Research methodology
+
+In July 2025, UWCHR set out to investigate the human rights implications of Flock ALPR use in our state today. Researchers filed public records requests with 48 law enforcement agencies in Washington known to use Flock systems. To date, we have received and reviewed records pursuant to these requests from 35 jurisdictions. We have also reviewed public records requests filed by other researchers using open portals;
+[42]
+ local and national reporting on Flock systems; and Flock documentation, promotional, and public relations materials.
+
+From each jurisdiction, UWCHR researchers requested copies of Flock Organizational Audits, Network Audits, and Network Sharing settings. In several cases, local public records officers expressed that such records had not previously been requested and appeared not to understand how to access Flock audits or Network Sharing reports. In others, agencies denied UWCHR’s public records requests. The city of Sedro-Wooley denied requests for both Flock Organizational Audits and Network Audits, stating: “We have not run reports for either an organization audit or a network audit in Flock, therefore no records exist.”
+[43]
+ Similarly, the cities of Arlington, Everett, Kent, Medina, and Tukwila denied UWCHR’s requests for disclosure of Flock Network Audits, arguing that the reports had not been reviewed by their agencies and do not constitute public records. UWCHR is in the process of appealing these determinations.
+[44]
+
+Findings
+
+Each jurisdiction that employs Flock technology creates its own “network”: cameras capture images about passing cars, which Flock software then converts into data for storage, analysis and sharing. There are multiple ways for Flock organizational customers to share their data; here, we refer to them as “front door” (direct sharing of data through a 1:1 relationship with another network); “back door” (access to networks without explicit authorization by the network owner); and “side door” (searches by authorized network users on behalf of other agencies without access to the network, potentially including federal immigration enforcement agencies). For an overview of findings by agency, see the Appendix to this report.
+
+Flock audits reveal multiple forms of access to local automated license plate reader systems by federal agencies and out of state law enforcement, including “front door” access via 1:1 sharing; “back door” access, in which records reveal searches despite direct sharing not being explicitly enabled; and “side door” access, in which local users make searches of networks to which they have access on behalf of federal immigration agencies, with keywords such as “ICE” or “immigration”.
+
+ 
+
+Across Washington state, a review of Flock audits by UWCHR researchers during 2025 revealed multiple forms of access to data on Washington state residents by federal immigration enforcement agencies and out-of-state law enforcement. The majority of agencies were exposed to one or more of these forms of access to their networks. The map does not depict all agencies surveyed or known to use Flock systems.
+
+“Front door” access
+
+Flock Network Sharing settings allow organizations to share access to their networks, and/or receive access to other networks on a 1:1 basis. These sharing settings are documented in Network Sharing reports; a list of “External organizations with access” may also appear on organizations’ Flock Transparency Portals.
+
+Screenshot of Arlington PD Flock Network Sharing report dated July 29, 2025, detailing local networks shared with other Flock users, designated by “Organization Name”. Highlighted rows show that the network had been shared with “US Border Patrol [Federal]” and “US Postal Inspection Service [Federal]”, as well as hundreds of other local law enforcement organizations nationwide.
+
+Of the agencies whose records have been reviewed to date by UWCHR, at least eight appear to have enabled 1:1 sharing with organizations identified as “U.S. Border Patrol” or “U.S. Border Patrol [Federal]” at some point during 2025. These include the Benton County Sheriff’s Office and police departments in the cities of Arlington, Auburn, Lakewood, Richland, Sunnyside, Wenatchee, and Yakima.
+[45]
+ All the Flock Network Audits received from these agencies show evidence of searches by U.S. Border Patrol during at least May through August 2025, as described in further detail below.
+
+“Back door” access by Border Patrol to Flock Networks
+
+As noted above, in August 2025, Colorado journalists discovered that the Border Patrol had been granted access to the data generated by jurisdictions in their state who had declined to share their data with federal agencies. Flock’s statements in response made it unclear whether users had opted in to sharing with the Border Patrol without realizing it, or whether the Border Patrol had been effectively granted access to the national system via a “back door.”
+
+Here in Washington, UWCHR review of Flock Network Audits uncovered similar problems. From at least May 9, 2025 through August 24, 2025, local organizations’ networks were subject to thousands of searches by “US Border Patrol [Federal]”. These searches were made by dozens of different users, who identified the reason for their search with terms such as “USBP”, “USBP/HSI”, and “immigration.” While in some cases users listed search reasons that were suggestive of federal criminal investigations, such as “narcotics trafficking” or “money laundering”, in others they cited exceedingly vague reasons, such as “investigation” or “targeting”. According to the network audits, these searches were applied to thousands of networks and tens of thousands of devices, with searches increasing in frequency starting in May and peaking in July and August.
+
+These searches appear in the Network Audits of at least ten Washington police departments that did not explicitly authorize Border Patrol searches of their network data: Black Diamond, Centralia, Chehalis, East Wenatchee, Eatonville, Ellensburg, Grandview, Mukilteo, Prosser, and Renton.
+
+An excerpt from Renton Police Department’s Flock Network Audit, obtained by UWCHR through public records requests, showing two instances of searches conducted by “US Border Patrol [Federal]” on June 23, 2025, with reason listed for search “usbp” for U.S Border Patrol. A corresponding Network Sharing report (not pictured) shows that Renton Police Department had not explicitly authorized sharing with Border Patrol.
+
+In total, Flock Network Audits show that the Border Patrol searched the ALPR data of at least 17 Washington agencies. These include sheriff’s offices in Benton and Yakima counties, and police departments in the cities of Auburn, Black Diamond, Centralia, Chehalis, Eatonville, Ellensburg, Grandview, Lakewood, Mukilteo, Prosser, Renton, Richland, East Wenatchee, Wenatchee, and Yakima.
+
+In at least six cases, including Douglas County and Kittitas County Sheriff’s Offices, and the Lynnwood, Mount Vernon, and Olympia Police Departments, Flock Network Audits during 2025 do 
+not
+ contain any searches by Border Patrol, suggesting that at least some local agencies were not exposed to this “back door” access.
+
+The details of how the Border Patrol obtained access to data generated by ALPRs in so many Washington jurisdictions remain unclear; was this the result of national “back door” access to Flock data, as 404 Media concluded, or the result of local police departments opting in to sharing with the federal agency by activating the “National Lookup” feature, as reportedly occurred in Syracuse, NY?
+[46]
+ According to Flock documentation, it is activated by checking a single box in system settings, but the records released to UWCHR did not reveal whether that box had been checked by Washington jurisdictions.
+[47]
+ In either case, the fact that the searches occurred raises important questions about compliance with Washington’s Keep Washington Working law, which bars law enforcement agencies across the state from dedicating local resources for purposes of civil immigration enforcement.
+
+“Side door” searches on behalf of federal immigration enforcement agencies
+
+UWCHR research also uncovered a third means by which local law enforcement provided ALPR data to federal immigration enforcement agencies. In other states, researchers have found that local law enforcement agencies may undertake “side door” searches on behalf of ICE or other federal agencies; this is revealed by Flock audit records listing keywords such as “ICE” or “immigration” in the system’s “Reason” field.
+[48]
+ In such cases, the search is conducted by the local law enforcement officer as an informal favor or act of assistance to a federal colleague. For example, in Washington, DivestSPD has reported on its blog that in June 2025, agents from Homeland Security Investigations and other agencies sent emails to law enforcement listservs asking other officers on the list to run a search on their behalf of Flock data—and that officers from multiple Western Washington jurisdictions responded by conducting the searches as requested.
+[49]
+
+Public records reviewed by UWCHR researchers also uncovered one case of a “side door” search by a local law enforcement agency on behalf of ICE:
+[50]
+
+On May 23, 2025, a user with Yakima County Sheriff’s Office made two searches for a timeframe of just over the preceding 24 hours with reason listed as “ICE,” presumably referring to U.S. Immigration and Customs Enforcement. An Organization Audit reports that the search was applied to 89 networks. The search appears in the Network Audit records of at least 10 other local agencies including Benton County Sheriff’s Office, and police departments in the cities of Auburn, Chehalis, Eatonville, Grandview, Lakewood, Mukilteo, Renton, Richland and Wenatchee.
+
+A Yakima County Flock Organization Audit showing a list of network searches made by local users. Highlighted are two examples with “ICE” listed as the reason for searching the data. In each of these examples the user querying the system is an employee of Yakima Sheriff’s Office. The searches were applied to 89 networks to which Yakima County Sheriff’s Office had access; the identities of these networks are not specified, but corresponding searches appear in the audits of at least 10 other Washington state law enforcement agencies.
+
+The primary function of ICE is immigration enforcement; Washington state law restricts local and state agencies from sharing information with federal agencies for purposes of civil immigration enforcement.
+[51]
+ As such, Washington law enforcement officers’ active assistance of ICE in this case almost certainly constitutes a violation of Keep Washington Working.
+[52]
+
+Furthermore, several other agencies made requests to other federal agencies which are not primarily involved in civil immigration enforcement, but which are currently known to be collaborating with immigration investigations and enforcement:
+
+Kent Police Department made searches for “HSI assist” on 1/30/25 in its own network as well as the networks of at least the Auburn, Black Diamond, Lakewood, and Renton Police Departments; and on 7/24/25 in its own network and at least the networks of the Chehalis, Centralia, Mount Vernon, and Grandview Police Departments.
+
+Renton Police Department made three searches in two networks on 5/13/2025 on behalf of “Special Agent Michael R. Bonner”; according to news reports
+[53]
+ and court documents
+[54]
+ reviewed by UWCHR, the name matches that of an HSI Special Agent.
+
+Richland Police made two searches for “HSI Investigation – Intel” on 4/17/2025, one targeting a single network and the other targeting 82 networks.
+
+Tukwila Police Department made searches for “USPIS” on 3/30/25 in its own network as well as the networks of at least the Chehalis, Mukilteo, Renton, and Auburn police departments; as well as the networks of sheriff’s offices in Benton County, Yakima County, and Douglas County.
+
+Puyallup Police Department made searches for “USPIS” on 7/16/25 in Chehalis Police Department’s Flock network and on 7/17/25 in the networks of Douglas County Sheriff’s Office, Lakewood Police Department, and Renton Police Department.
+[55]
+
+Homeland Security Investigations (HSI) is a DHS agency that has historically been primarily involved in investigations of crimes including terrorism, child exploitation, and drug and human trafficking, though it has also engaged in workplace raids and other acts of immigration enforcement;
+[56]
+ since January 2025, however, HSI’s entire investigations division—reportedly some 90% of its staff—has been diverted to assisting with deportation efforts.
+[57]
+
+Similarly, the U.S. Inspection Service (USPIS), the law enforcement branch of the U.S. Postal Service, is not primarily responsible for immigration enforcement, but has reportedly been enlisted as a source of targeting for immigration enforcement in recent months.
+[58]
+,
+[59]
+
+In addition, because of data-sharing across networks, Washington drivers’ data has been exposed to numerous “side door” searches by law enforcement agencies across the country, including thousands of searches with “Reason” listed as “immigration”, “ICE”, “ERO”, “criminal alien”, and other similar terms. Such searches appear in the Network Audits of the sheriff’s offices in Benton, Douglas, and Yakima Counties; and of police departments in the cities of Auburn, Black Diamond, Centralia, Chehalis, East Wenatchee, Eatonville, Ellensburg, Grandview, Lakewood, Lynnwood, Mukilteo, Prosser, Renton, Richland, Wenatchee, and Yakima from January through August, 2025.
+
+ 
+
+Screenshot of a May, 2025 Network Audit for Renton Police Department’s Flock system, depicting dozens of searches of the local network for reasons including “ICE” and “immigration” by Yakima County Sheriff’s Office and law enforcement agencies from around the country.
+
+Only three jurisdictions appear to have maintained Flock networks without any documented exposure to either “back door” searches by U.S. Border Patrol or “side door” searches by other local law enforcement agencies: Kittitas County Sheriff’s Office,
+[60]
+ Mount Vernon Police Department, and Olympia Police Department. These jurisdictions appear to share the common characteristic of restricting network access to law enforcement agencies in Washington state only.
+
+Discrepancy between Flock audits and access settings
+
+In addition to the specific concerns noted above, UWCHR researchers have noted broad discrepancies between the contents of Flock audits and documentation of organizations’ network access settings.
+
+In many cases, Flock Network Audits revealed thousands of searches of local organizations’ networks by other organizations which do not appear in either their Network Sharing report lists of “Networks I’m Sharing With” or Transparency Portal lists of “External organizations with access”. As noted above, this may be explained if local organizations have opted in to Flock’s “National lookup” capability, but if so, this is not clearly delineated by the contents of the Network Audits themselves.
+
+In addition, Flock users appear to have the ability to search more networks than those identified as having been directly shared with their organizations. In all but two cases among those reviewed by UWCHR, Flock Organization Audit reports record agencies making searches across a greater number of networks than those listed in their respective Network Sharing reports. For example, Renton Police Department’s Network Sharing report lists 91 other organizations in its “Networks shared with me” column, while the department’s Flock Organization Audit reports searches across up to 6511 networks and tens of thousands of devices. Flock’s Organization Audit reports do not offer any information about the identity of the networks searched by a given organization, only the number of networks and devices searched. For example, it is impossible to determine whether these include public or private networks.
+
+In just one case, Yakima Police Department, the agency’s Flock Network Sharing report included additional columns not present in records disclosed by other agencies, including “Organization Owner Type” and the dates that networks were first shared. This is also the only Network Sharing report reviewed by UWCHR which includes private and business networks among those shared with a local law enforcement agency, including several operated by a local property management company, and 92 Lowe’s hardware stores, including out of state locations.
+[61]
+ It is not clear whether Yakima Police Department’s access to these private networks is an outlier, or whether such access is more common but other jurisdictions have failed to disclose these categories in their Flock Sharing reports.
+
+An excerpt from Yakima Police Department’s Flock network sharing settings, dated May 19, 2025, listing the hardware store Lowe’s as a business organization that shares Flock network data for locations nationwide with Yakima Police Department.
+
+For these reasons, it is currently impossible for independent researchers to definitively determine the scope of local Flock network users’ access to, or exposure to, other organizations with Flock network access, and it may be challenging for system administrators themselves to understand the implications of the settings they have activated on their network. This is particularly worrisome given the shifting and sometimes inaccurate statements made by Flock about its product’s sharing features.
+
+Conclusions
+
+Washington currently has no law regulating the appropriate use of ALPR technology, though some other states have passed related laws. California, for example, bars ALPR data sharing across state lines;
+[62]
+ Virginia restricts ALPR use to investigations in a limited set of criminal matters;
+[63]
+ and Illinois requires that out-of-state law enforcement agencies seeking to access data collected in Illinois first attest in writing that the data would not be used to enforce other states’ laws on abortion or immigration.
+[64]
+ However, research suggests all three of these laws are regularly violated.
+[65]
+
+Privacy advocates warn that the proliferation of ALPR technology threatens the rights protected by the Fourth Amendment to the U.S. Constitution, which bars unreasonable searches and seizures.
+[66]
+ While promoters of ALPRs, on the other hand, suggest there is no reasonable expectation of privacy for activities, like driving, which are conducted in public space, and therefore that searching data generated by such movements is not an undue infringement on anyone’s rights, the reach of new technology allows law enforcement to amass an astounding degree of information about individuals’ lives.
+
+The Electronic Frontier Foundation warns, “By matching your car to a particular time, date, and location, and then building a database of that information over time, law enforcement can learn where you work and live, what doctor you go to, which religious services you attend, and who your friends are.” And by applying algorithms to this data, “systems can reveal regular travel patterns and predict where a driver may be in the future.”
+[67]
+
+The proliferation of these technologies impacts the rights of all Washingtonians. And at a time when many of our neighbors are being subjected to raids by federal immigration authorities, which may result in fates as dire as their being forcibly disappeared,
+[68]
+Washingtonians expect that our government exercise particular caution in sharing data with the federal agencies involved in such abuses. On September 29, Governor Ferguson issued an Executive Order affirming the importance of handling immigrant Washingtonians’ private data with care.
+[69]
+ The order is primarily directed at state-level agencies, whereas the ALPRs discussed here are owned by local governments, but the order reaffirms the importance of responsible management of data and establishes an Immigration Sub-Cabinet “tasked with coordinating on immigration and related issues such as data privacy, health care, the bipartisan Keep Washington Working Act, and other programs or services concerning immigrant rights and interests.”
+[70]
+
+In this context, the findings shared here are important to take seriously. At minimum, Washingtonians deserve to know whether law enforcement agencies using Flock ALPRs—as well as surveillance technology offered by other companies—are complying with state law, including Keep Washington Working. We deserve full information about whether the businesses we patronize and the governments we elect are selling data about us to private companies, or sharing it with federal agencies and out-of-state law enforcement who may use it to target us or our neighbors. And on the basis of that information, Washingtonians deserve a robust public discussion about the degree to which we authorize the use of these technologies in our communities.
+
+Appendix
+
+Table: Flock audit findings
+
+Agency
+
+Non-WA organizations in Shared Networks report?
+
+Federal orgs. in Shared Networks report?
+
+Network Audit months
+
+USBP searches in Network Audits?
+
+Other immigration-related searches in Network Audits?
+
+Benton County Sheriff’s Office
+
+Yes
+
+USBP, USPIS
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Douglas County SO
+
+Yes
+
+None
+
+March – July 2025
+
+No
+
+Yes
+
+Kittitas County SO
+
+Yes
+
+USPIS
+
+July 2025
+
+No
+
+No
+
+Auburn Police Department
+
+Yes
+
+USBP, USPIS
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Black Diamond PD
+
+Yes
+
+USPIS
+
+Jan. – August 2025
+
+Yes
+
+Yes
+
+Centralia PD
+
+Yes
+
+None
+
+Jan. – August 2025
+
+Yes
+
+Yes
+
+Chehalis PD
+
+Yes
+
+None
+
+Jan. – August 2025
+
+Yes
+
+Yes
+
+East Wenatchee PD
+
+Yes
+
+USPIS
+
+July – August 2025
+
+Yes
+
+Yes
+
+Eatonville PD
+
+Yes
+
+None
+
+Dec. 2024 – July 2025
+
+Yes
+
+Yes
+
+Ellensburg PD
+
+Yes
+
+USPIS
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Grandview PD
+
+Yes
+
+USPIS
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Lakewood PD
+
+Yes
+
+USPIS, USBP
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Lynnwood PD
+
+No
+
+None
+
+July – mid-August 2025
+
+No
+
+Yes
+
+Mount Vernon PD
+
+No
+
+None
+
+Jan. – July 2025
+
+No
+
+No
+
+Mukilteo PD
+
+Yes
+
+None
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Olympia PD
+
+No
+
+None
+
+Jan. – July 2025
+
+No
+
+No
+
+Prosser PD
+
+No
+
+None
+
+Dec. 2024 – May 2025
+
+Yes
+
+Yes
+
+Renton PD
+
+No
+
+None
+
+Jan. – August 2025
+
+Yes
+
+Yes
+
+Richland PD
+
+Yes
+
+USBP, USPIS
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Wenatchee PD
+
+Yes
+
+USBP
+
+Jan. – August 2025
+
+Yes
+
+Yes
+
+Yakima PD*
+
+Yes – Including private networks
+
+USBP, USPIS, HSI
+
+Dec. 2024 – May 2025
+
+Yes
+
+Yes
+
+* 
+“U.S. Border Patrol” and “Homeland Security Investigations [Federal] [Inactive]” are listed as organizations with which Yakima PD shared Flock Network in a detailed “Network Sharing” report, which specifies that sharing with these networks began on May 19, 2025 at 6:03PM. These organizations are not listed on a less-detailed “Shared Networks” report also dated May 19, 2025; nor are they listed on an updated “Shared Networks” report dated August 30, 2025.
+
+Agencies for which UWCHR lacks complete data
+
+Kitsap County SO
+
+No
+
+None
+
+No local Flock hardware
+
+Yakima County SO
+
+Shared Networks report disclosure pending
+
+Jan. – July 2025
+
+Yes
+
+Yes
+
+Arlington PD
+
+Yes
+
+USPIS, USBP
+
+Network Audits denied
+
+Everett PD
+
+Yes
+
+None
+
+Network Audits denied
+
+Kent PD
+
+Yes 
+(per Transparency Portal; Shared Networks not disclosed)
+
+USPIS, USMS 
+(Per Transparency Portal)
+
+Network Audits denied
+
+Medina PD
+
+Yes
+
+None
+
+Network Audits denied
+
+Monroe PD
+
+No
+
+None
+
+No local Flock hardware
+
+Sedro-Wooley PD
+
+Yes
+
+USPIS
+
+Network Audits pending
+
+Sunnyside PD
+
+Yes
+
+USBP, USPIS
+
+Network Audits not disclosed
+
+Tukwila PD
+
+Yes
+
+None
+
+Network Audits denied
+
+UWCHR requests for public records are pending from the following agencies: Napavine PD, Puyallup PD, Snohomish County Sheriff’s Office, Spokane County Sheriff’s Office, Spokane PD, Airway Heights PD, and King County Sheriff’s Office (King County Sheriff’s Office itself does not have a Flock contract, but is responsible for public disclosure for the police departments of Covington, Newcastle, and SeaTac, which do employ Flock systems). UWCHR researchers also consulted and are grateful for the following public records requests filed by Rose Terse and made public via Muckrock: 
+Prosser PD
+, 
+Medina PD
+, 
+Tukwila PD
+, 
+Yakima PD
+ (published on May 14, 2025); and 
+Ellensburg PD
+, 
+Centralia PD
+ (published on May 22, 2025).
+
+Notes
+
+[1]
+ Kristin Goodwillie, “Washington state agency under fire for sharing drivers’ data with ICE,” 
+King 5
+, July 21, 2025, 
+https://www.king5.com/article/news/investigations/investigators/washington-state-license-agency-under-fire-for-sharing-drivers-data-with-ice/281-c38e5569-b500-4f19-9a2c-660af77a4fc9
+
+[2]
+ In a September 19, 2025 meeting with community advocates, the DOL’s Alejandro Sánchez said that 14 federal agency accounts had been suspended due to their failures to submit materials certifying that they had complied with the database’s permissible use standards. It is important to note that these accounts have been suspended, rather than terminated; it is unclear, should agencies now assert they are in compliance, whether they would be reinstituted on the basis of those assertions.
+
+[3]
+ DAPS also permits address searches, which allow the user to obtain data about all residents of a given address who have drivers licenses.
+
+[4]
+ Their actual effectiveness at helping solve or prevent crimes is disputed, however. See Jonathan Hofer, 
+Efficacy of Automated License Plate Reader Hits in Piedmont, California
+, Secure Justice and Independent Institute, August 3, 2022, 
+https://static1.squarespace.com/static/5edeeebc3032af28b09b6644/t/64a46a417c2a6637212e1ce3/1688496710563/2021_11_30_alpr.pdf
+; Gowri Saini Balasubramaniam, Clara Belitz, and Anita Say Chan, “Bridging Informational Divides: A Community-Centered Analysis of ‘Public Safety’ Surveillance Technology,” 
+Association for Computing Machinery, 
+May 2024, 
+https://dl.acm.org/doi/10.1145/3613905.3644046
+; and John Shjarback and James Sarkos, J. A, “An Evaluation of a Major Expansion in Automated License Plate Reader (ALPR) Technology,” 
+Justice Evaluation Journal
+, March 6, 2025, 
+https://doi.org/10.1080/24751979.2025.2473363.
+ On the other hand, representatives of Flock offer their own analysis which finds the systems to be very effective: see Adam Snow et al, “Flock Safety Technologies in Law Enforcement: An Initial Evaluation of Effectiveness in Aiding Police in Real-World Crime Clearance,” 
+Research Gate
+, January 2024, 
+https://www.researchgate.net/profile/Johnny-Nhan/publication/377845222_Flock_Safety_Technologies_in_Law_Enforcement_An_Initial_Evaluation _of_Effectiveness_in_Aiding_Police_in_Real-World_Crime_Clearance/links/65c1020d7900745497673897/Flock-Safety-Technologies-in-Law-Enforcement -An-Initial-Evaluation-of-Effectiveness-in-Aiding-Police-in-Real-World-Crime-Clearance.pdf
+
+[5]
+ On Washington state protections for reproductive rights, Washington law recognizes protection for abortion as a fundamental right (see Wash. Rev. Code § 9.02.100 (1992), https://app.leg.wa.gov/rcw/default.aspx?cite=9.02.100); other, more recent legislation has instituted further protections, including Washington’s Shield Law (HB 1469), passed in 2023, which protects those providing or seeking reproductive and gender-affirming healthcare from civil or criminal actions in other states (see Washington State Office of the Attorney General, “Reproductive and Gender-Affirming Care: Shielding Providers, Seekers, and Helpers From Out-of-State Legal Actions”, 
+https://www.atg.wa.gov/reproductive-and-gender-affirming-care-shielding-providers-seekers-and-helpers-out-state-legal
+); and additional measures described here: Jerry Cornfield, “Washington’s bold new abortion protections in spotlight at White House,” 
+Washington State Standard
+, June 15, 2025, 
+https://washingtonstatestandard.com/2023/06/15/washingtons-bold-new-abortion-protections-in-spotlight-at-white-house/
+. On the matter of immigrant rights, the Keep Washington Working Act (2020), implemented in
+ Wash. Rev. Code § 10.93.160, 
+https://app.leg.wa.gov/RCW/default.aspx?cite=10.93.160
+, is the best known of a series of laws passed in recent years to ensure Washington remains welcoming to migrants, though recent years have seen the passage of multiple other laws to strengthen this commitment; see Jacquelyn Jimenez Romero, “Trio of immigrant rights laws signed by WA governor,” 
+Washington State Standard
+, May 14, 2025, 
+https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/
+.
+
+[6]
+ Amy Sundberg, “License Plate Readers Proliferate in Washington, Bringing Concerns over ICE Overreach,” 
+The Urbanist
+, June 19, 2025, 
+https://www.theurbanist.org/2025/06/19/license-plate-readers-proliferate-in-washington-ice-overreach/
+
+[7]
+ EFF’s Atlas of Surveillance lists 75 Washington state agencies with Flock contracts 
+https://www.atlasofsurveillance.org/
+; DeFlock, an organizing initiative that opposes the use of the technology, has published a map of the locations and characteristics of 776 ALPR devices (not all of which are Flock Safety devices) in Washington state, see 
+https://deflock.me/map#map=12/47.306241/-121.956825
+.
+
+[8]
+ On the expansion of surveillance technology including Flock Safety in Washington state, see Brandon Block, “Federal aid is supercharging local WA police surveillance tech,” 
+Investigate West
+, July 26, 2023, 
+https://www.investigatewest.org/federal-aid-is-supercharging-local-wa-police-surveillance-tech/
+
+The introduction of such technology has been met with opposition in localities including Mountlake Terrace (see Mountlake Terrace: Taylor Scott Richmond, “Mountlake Terrace public express ongoing ire with future Flock system,” Everett Daily Herald, August 9, 2025, 
+https://www.heraldnet.com/news/mountlake-terrace-public-express-ongoing-ire-with-future-flock-system/
+); and was put on hold by the City of Stanwood due to questions about whether Flock video feeds constitute public records: Jenna Peterson, “Stanwood pauses Flock cameras amid public records lawsuits,” 
+Everett Daily Herald
+, September 10, 2025, 
+https://www.heraldnet.com/news/stanwood-pauses-flock-cameras-amid-public-records-lawsuits/
+
+[9]
+ For reporting on concerns regarding the technology in Virginia, see Kunle Falayi, “The feds’ hidden immigration weapon: Virginia’s surveillance network,” 
+VPM News
+, July 7, 2025, 
+https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass
+; in the city of Evanston, Illinois, local officials covered Flock cameras after cancelling a contract with the company: Richard Requena, “After Evanston fires Flock, it reinstalls license-plate readers, so Evanston covers them,”
+ Chicago Tribune
+, September 30, 2025, 
+https://www.chicagotribune.com/2025/09/29/after-evanston-fires-flock-it-reinstalls-license-plate-reader-so-evanston-covers-them/
+
+[10]
+ René Kladzyk, 
+Policing Gender: How Surveillance Tech Aids Enforcement of Anti-Trans Laws
+, Project on Government Oversight, June 28, 2023, 
+https://www.pogo.org/investigations/policing-gender-how-surveillance-tech-aids-enforcement-of-anti-trans-laws
+
+[11]
+ For an overview of agencies whose records were reviewed by UWCHR researchers, see the Appendix to this report.
+
+[12]
+ Jay Stanley, 
+Fast-Growing Company Flock is Building a New AI- Driven Mass-Surveillance System
+, ACLU, March 3, 2022, 
+https://www.aclu.org/report/fast-growing-company-flock-building-new-ai-driven-mass-surveillance-system
+.
+
+[13]
+ Thomas Brewster, “AI Startup Flock Thinks It Can Eliminate All Crime In America,” 
+Forbes
+, September 3, 2025, 
+h
+ttps://www.forbes.com/sites/thomasbrewster/2025/09/03/ai-startup-flock-thinks-it-can-eliminate-all-crime-in-america/
+
+[14]
+ Falayi, “The feds’ hidden immigration weapon: Virginia’s surveillance network.”
+
+[15]
+ Brewster, “AI Startup Flock Thinks It Can Eliminate All Crime In America,” and James O’Donnell, “Shoplifters could soon be chased down by drones,” 
+MIT Technology Review
+, September 25, 2025, 
+https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/
+.
+
+[16]
+ Joseph Cox, “Inside ‘TALON,’ the Nationwide Network of AI-Enabled Surveillance Cameras,” 
+Vice,
+ March 3, 2021, 
+https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader
+ see also Brewster, “AI Startup Flock Thinks It Can Eliminate All Crime In America.”
+
+[17]
+ Lee Schmidt and Crystal Arrington v. City of Norfolk, Norfolk Police Department, and Mark Talbot, 2:24-cv-621, p. 8, (U.S. District Court for the Eastern District of Virginia Norfolk Division, 2024), 
+http://ij.org/wp-content/uploads/2024/10/2024.10.21-1-Complaint.pdf
+.
+
+[18]
+ Flock Safety, “Setting the Record Straight: Statement on Flock Network Sharing, Use Cases, and Federal Cooperation,” June 19, 2025, 
+https://www.flocksafety.com/blog/statement-network-sharing-use-cases-federal-cooperation
+
+[19]
+ Jason Koebler, “Home Depot and Lowe’s Share Data From Hundreds of AI Cameras With Cops,” 
+404 Media
+, August 6, 2025, 
+https://www.404media.co/home-depot-and-lowes-share-data-from-hundreds-of-ai-cameras-with-cops/
+
+[20]
+ Thomas Brewster, “America’s Biggest Mall Owner Is Sharing AI Surveillance Feeds Directly With Cops,” 
+Forbes
+, May 6, 2024, 
+https://www.forbes.com/sites/thomasbrewster/2024/05/06/simon-property-and-flock-safety-feed-ai-surveillance-feeds-to-the-cops/
+
+[21]
+ Jay Stanley, “Communities Should Reject Surveillance Products Whose Makers Won’t Allow Them to be Independently Evaluated,” 
+ACLU
+, March 6, 2024, 
+https://www.aclu.org/news/privacy-technology/communities-should-reject-surveillance-products-whose-makers-wont-allow-them-to-be-independently-evaluated
+
+[22]
+ Flock Safety, “The Future of Policing: A Real-Time Crime Center Playbook,” YouTube, August 12, 2025, 
+https://www.youtube.com/watch?v=QcB7IIz4jYA
+; and Flock Safety, “Real-Time Policing in Action with Flock Safety,” YouTube, August 12, 2025, 
+https://www.youtube.com/watch?v=TfeT83cffWA
+.
+
+[23]
+ Jason Koebler and Joseph Cox, “ICE Taps into Nationwide AI-Enabled Camera Network, Data Shows,” 
+404 Media
+, May 27, 2025, 
+https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/
+
+[24]
+ Jason Koebler and Joseph Cox, “Police Said They Surveilled Woman Who Had an Abortion for Her ‘Safety.’ Court Records Show They Considered Charging Her With a Crime,” 
+404 Media
+, October 7, 2025, 
+https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/?ref=daily-stories-newsletter
+
+[25]
+ Jason Koebler and Joseph Cox, “A Texas Cop Searched License Plate Cameras Nationwide for a Woman Who Got an Abortion,” 
+404 Media, 
+May 29, 2025, 
+https://www.404media.co/a-texas-cop-searched-license-plate-cameras-nationwide-for-a-woman-who-got-an-abortion/
+
+[26]
+ “Muckrock user Rose Terse obtained two of the sets of data from Yakima and Prosser police departments in Washington via public records requests”: Koebler and Cox, “A Texas Cop Searched License Plate Cameras Nationwide for a Woman Who Got an Abortion.”
+
+[27]
+ Flock Safety, “Setting the Record Straight: Statement on Flock Network Sharing, Use Cases, and Federal Cooperation.”
+
+[28]
+ Flock audits released to UWCHR vary due to local jurisdictions’ decisions regarding public disclosure; for example, some agencies withheld the “License plate” field, while others released it without redactions.
+
+[29]
+ Spencer Soicher, “Flock admits federal immigration agents have direct access to tracking data, despite previous claims,” 
+9News
+, August 19, 2025, 
+https://www.9news.com/article/news/local/flock-federal-immigration-agents-access-tracking-data/73-a8aee742-56d4-4a57-b5bb-0373286dfef8?ref=404media.co
+
+[30]
+ Ibid.
+
+[31]
+ Jason Koebler, “CBP Had Access to More than 80,000 Flock AI Cameras Nationwide,” 
+404 Media
+, August 25, 2025, 
+https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/
+
+[32]
+ Ibid.
+
+[33]
+ Garret Langley, “Ensuring Local Compliance,” 
+Flock Safety
+, August 25, 2025, 
+https://www.flocksafety.com/blog/ensuring-local-compliance
+
+[34]
+ Sarah Hamid and Rindala Alajaji, “Flock Safety’s Feature Updates Cannot Make Automated License Plate Readers Safe,” 
+Electronic Frontier Foundation
+, June 27, 2025,
+ https://www.eff.org/deeplinks/2025/06/flock-safetys-feature-updates-cannot-make-automated-license-plate-readers-safe
+
+[35]
+ Ben Thompson, “Austin to halt police license plate reader program after public pushback,” 
+Community Impact
+, June 19, 2025, 
+https://communityimpact.com/austin/south-central-austin/government/2025/06/04/austin-to-halt-police-license-plate-reader-program-after-public-pushback/
+
+[36]
+ Patrick McCarthy, “Syracuse police ‘inadvertently’ exposed driver data to thousands of cops around the country,” 
+Central Current
+, July 4, 2025, 
+https://centralcurrent.org/syracuse-police-exposed-driver-data-to-thousands-of-cops-around-the-country/
+
+[37]
+ Eric Urbach, “Berkeley street camera company pauses pilot program amid data sharing concerns,” 
+The Daily Californian
+, August 28, 2025, 
+https://www.dailycal.org/news/city/berkeley-street-camera-company-pauses-pilot-program-amid-data-sharing-concerns/article_4853fd4f-1fe7-40da-ba48-9b917f2ebcae.html
+
+[38]
+ Justin Arest, 
+Mayoral Community Update
+, Scarsdale, New York, August 6, 2025, 
+https://www.scarsdale.gov/DocumentCenter/View/10994/08062025-Mayoral-Letter
+
+[39]
+ Bill Smith, “Evanston cancels Flock camera contract,” 
+Evanston Now
+, August 27, 2025, 
+​​https://evanstonnow.com/evanston-cancels-flock-camera-contract/
+
+[40]
+ Liz Nagy et al, “License plate reader company under investigation in Illinois speaks out as suburbs end contracts,” 
+ABC7 Chicago
+, August 28, 2025, 
+https://abc7chicago.com/post/evanston-oak-park-end-contracts-flock-safety-license-plate-reader-company-investigation-illinois/17678137/
+
+[41]
+ Joseph K Giddens, “Sedona City Council tells staff to get Flock out of town,” 
+Sedona Red Rock News
+, September 10, 2025, 
+https://www.redrocknews.com/2025/09/10/sedona-city-council-tells-staff-to-get-the-flock-out-of-town/
+
+[42]
+ UWCHR researchers are grateful for the following public records requests filed by Rose Terse and made public via Muckrock: 
+Prosser PD
+, 
+Medina PD
+, 
+Tukwila PD
+, 
+Yakima PD
+ (published on May 14, 2025); and 
+Ellensburg PD
+, 
+Centralia PD
+ (published on May 22, 2025). UWCHR’s public records requests were modeled after those filed by Terse in order to permit direct comparison across agencies.
+
+[43]
+ UWCHR correspondence with Sedro-Wooley public records officer, Sept. 8, 2025.
+
+[44]
+ On August 26, 2025, UWCHR received correspondence from Kent Assistant City Attorney Logan Todd denying UWCHR’s appeal of the city’s determination that Flock Network Audits do not constitute public records under Washington State’s Public Records Act: see Logan Todd, email to UWCHR Research Team, August 26, 2025: 
+https://jsis.washington.edu/humanrights/wp-content/uploads/sites/22/2025/10/Flock-Report-2025-PRR-72224-Response-to-Appeal.pdf
+
+[45]
+ “U.S. Border Patrol” and “Homeland Security Investigations [Federal] [Inactive]” are listed as organizations with which Yakima PD shared Flock Network in a detailed “Network Sharing” report, which specifies that sharing with these networks began on May 19, 2025 at 6:03PM. These organizations are not listed on a less-detailed “Shared Networks” report also dated May 19, 2025; nor are they listed on an updated “Shared Networks” report dated August 30, 2025. Yakima PD Network Audits reveal searches by organizations identified as “U.S. Border Patrol” and “U.S. Border Patrol [Federal]” both before and after May 19, 2025.
+
+[46]
+ This was cited as explanation of a similar issue in Syracuse NY: “We have communicated with Flock, and they have stated that our ALPRs were included in CBP’s searches prior to June,’ Coffey said. ‘SPD did not enter into a data sharing arrangement with those federal agencies, but they were able to access SPD data through the National Lookup Search tool.'”
+
+[47]
+ Gideon Epstein, “Flock Gives Law Enforcement All Over the Country Access to Your Location”, ACLU of Massachusetts, October 7, 2025: 
+https://data.aclum.org/2025/10/07/flock-gives-law-enforcement-all-over-the-country-access-to-your-location/
+
+[48]
+ Koebler and Cox, “ICE Taps into Nationwide AI-Enabled Camera Network, Data Shows.”
+
+[49]
+ Rose Terse, “Feds, WA police share surveillance data on an obscure SPD email list,” 
+Divest SPD
+, September 4, 2025, 
+https://www.divestspd.com/p/feds-wa-police-share-surveillance
+
+[50]
+ The original version of this report included mention of a January 23, 2025 search by a SeaTac police officer who listed the reason for the search as “bp”; UWCHR researchers suspected this could be a reference to Border Patrol. After the report’s publication, a representative of the city of SeaTac contacted us stating that this was, in fact, a reference to the Bellevue Police, not the Border Patrol. Because Flock’s safeguards against abuse rely on the assumption that law enforcement officers self-report their search reasons in good faith, UWCHR has no way to verify what “bp” referred to in this particular instance.
+
+[51]
+ KWW 
+Wash. Rev. Code § 10.93.160, https://app.leg.wa.gov/RCW/default.aspx?cite=10.93.160
+
+[52]
+ As noted above, Flock audits do not give any indication of the results of searches, so it would be impossible to know and it is not known whether the information yielded in these searches resulted in actual immigration enforcement activities, though UWCHR has requested additional public records potentially associated with these searches.
+
+[53]
+ Benjamin Weiser and Maria Cramer, “U.S. Says Tren de Aragua Charges Will ‘Devastate’ Gang’s Infrastructure,” New York Times, April 22, 2025, 
+https://www.nytimes.com/2025/04/22/nyregion/federal-tren-de-aragua-charges.html
+
+[54]
+ United States of America v. Anderson Zambrano-Pacheco, Southern District of New York, 
+https://www.justice.gov/d9/2025-01/u.s._v._zambrano-pacheco_complaint.pdf
+
+[55]
+ To date, Puyallup Police Department has not yet disclosed its Flock Organization Audit for July 2025, which would reflect this search in the department’s own network.
+
+[56]
+ Immigrant Legal Resource Center, National Immigrant Justice Center, and National Immigration Law Center, 
+Funding for ICE Homeland Security Investigations (HSI) Is Funding for Trump’s Anti-Immigrant Agenda
+, April 2019, 
+https://immigrantjustice.org/sites/default/files/uploaded-files/no-content-type/2019-05/HSI-backgrounder-2019.pdf
+
+[57]
+ Josh Meyer, “Thousands of DHS agents shift to deportation instead of drugs, weapons and human trafficking,” 
+USA Today
+, February 15, 2025, 
+https://www.usatoday.com/story/news/politics/2025/02/14/dhs-agents-deportation-not-trafficking/78641666007/
+; and David J. Bier, “ICE Has Diverted Over 25,000 Officers from Their Jobs,” 
+Cato Institute
+, September 3, 2025, 
+https://www.cato.org/blog/ice-has-diverted-over-25000-officers-their-jobs
+
+[58]
+ Jacob Bogage and Hannah Natanson, “USPS law enforcement assists Trump ‘mass deportation’ effort, sources and records show,” 
+Washington Post
+, April 29, 2025, 
+https://www.washingtonpost.com/business/2025/04/29/usps-immigration-trump-deportations/
+; and Elizabeth Crisp, “Postal Service joins Trump administration immigration enforcement effort,” 
+The Hill
+, April 30, 2025, 
+https://thehill.com/homenews/5275616-usps-joins-efforts-illegal-immigration/
+
+[59]
+ USPIS is one of a limited number of federal agencies with which several Washington Flock customers share data on a 1:1 basis according to Network Sharing reports and Transparency Portals; see the Appendix to this report.
+
+[60]
+ Kittitas County Sheriff’s Office only disclosed one month of Flock Network Audit data for June 29 through July 30, 2025.
+
+[61]
+ Koebler, “Home Depot and Lowe’s Share Data From Hundreds of AI Cameras With Cops.”
+
+[62]
+ Flock Safety, “Setting the Record Straight: Statement on Flock Network Sharing, Use Cases, and Federal Cooperation.”
+
+[63]
+ Alex Littlehales and Kyle Johnson, “Youngkin signs bill placing regulations on license plate readers and law enforcement,” 
+13News Now
+, May 5, 2025, 
+https://www.13newsnow.com/article/news/local/virginia/youngkin-virginia-bill-license-plate-reader-law-enforcement-regulations/291-5368d054-23cf-417f-a000-58c3b22786b8
+
+[64]
+ Andrew Adams, “Illinois license plate cameras used illegally by out-of-state police, Giannoulias says,” 
+Capitol News Illinois
+, June 12, 2025, 
+https://capitolnewsillinois.com/news/illinois-license-plate-cameras-used-illegally-by-out-of-state-police-giannoulias-says/
+
+[65]
+ In California, see Khari Johnson and Mohamed Al Elew, “California police are illegally sharing license plate data with ICE and Border Patrol,” 
+Cal Matters
+, June 13, 2025, 
+https://calmatters.org/economy/technology/2025/06/california-police-sharing-license-plate-reader-data/
+; in Illinois, see Adams, “Illinois license plate cameras used illegally by out-of-state police, Giannoulias says.”; in Virginia, see Falayi, “The feds’ hidden immigration weapon: Virginia’s surveillance network.”
+
+[66]
+ Jennifer Lynch, “EFF Urges Virginia Court of Appeals to Require Search Warrants to Access ALPR Databases,” 
+Electronic Frontier Foundation
+, September 29, 2025, 
+https://www.eff.org/deeplinks/2025/09/eff-urges-virgina-court-appeals-require-search-warrants-access-alpr-databases
+
+[67]
+ “Street-Level Surveillance: Automated License Plate Readers (ALPRs),” 
+Electronic Frontier Foundation
+, August 28, 2017, 
+https://www.eff.org/pages/automated-license-plate-readers-alpr
+.
+
+[68]
+ University of Washington Center for Human Rights, 
+Gross Human Rights Violations in Washington State: Enforced Disappearance and Refoulement
+, August 21, 2025, 
+https://jsis.washington.edu/humanrights/2025/08/21/gross-human-rights-violations-in-washington-state-enforced-disappearance-and-refoulement/
+
+[69]
+ Executive Order 25-09, “Reaffirming Washington’s Commitment to Protecting the Rights and Interests of Immigrant Communities,” State of Washington Office of Governor Bob Ferguson, September 25, 2025, 
+https://governor.wa.gov/sites/default/files/exe_order/25-09%20-%20Protecting%20Immigrant%20Communities%20%28tmp%29.pdf
+
+[70]
+ Office of Bob Ferguson, “Governor Ferguson signs Executive Order reaffirming Washington’s commitment to protecting immigrant rights,” September 29, 2025, 
+https://governor.wa.gov/news/2025/governor-ferguson-signs-executive-order-reaffirming-washingtons-commitment-protecting-immigrant
+
+ 
+
+ 
+
+University of Washington
+
+Center for Human Rights, The Henry M. Jackson School of International Studies, University of Washington, 2023 Skagit Lane, 
+Thomson Hall
+, Box 353650 Seattle, WA 98195-3650
+
+Thomson Hall | Phone: (206) 685-3435 | Fax: (206) 685-0668 | Email: 
+uwchr@uw.edu
+
+Connect with us:
+
+The Jackson School is a proud member of 
+the Association of Professional Schools of International Affairs
+.
+
+© 2026 Henry M. Jackson School of International Studies, University of Washington | Seattle, WA
