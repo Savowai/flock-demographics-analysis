@@ -1,0 +1,9 @@
+region,level,model,n_units,total_cameras,pct_hispanic_rate_ratio,pct_change_per_10pt,p_value,significant_05,alpha_overdispersion,log_likelihood,pseudo_r2,note
+"Los Angeles County, CA",tract,M1 base,2449,2420,0.9585,-4.2,0.04037854939148788,True,1.387,-2897.9,0.0338,
+"Los Angeles County, CA",tract,M2 +crime,1087,283,0.8625,-13.7,0.014421673409493779,True,5.534,-509.8,0.1554,restricted to tracts inside the crime-reporting city
+"Los Angeles County, CA",tract,M3 within-city,2449,2420,0.9365,-6.3,0.00823845492228209,True,0.778,-2685.2,0.2487,"city fixed effects, 42 city groups"
+"Los Angeles County, CA",bg,M4 block group,5964,2273,0.9688,-3.1,0.035421273840967715,True,1.334,-4337.5,0.0131,robustness check at block-group level
+"King County, WA",tract,M1 base,493,391,1.4583,45.8,0.0059652837358496165,True,1.74,-492.2,0.0816,
+"King County, WA",tract,M2 +crime,176,23,1.5885,58.8,0.42551844851763465,False,0.695,-54.6,0.1202,restricted to tracts inside the crime-reporting city
+"King County, WA",tract,M3 within-city,493,391,1.3031,30.3,0.03470237240196031,True,0.665,-471.8,0.2576,"city fixed effects, 13 city groups"
+"King County, WA",bg,M4 block group,1493,384,1.2424,24.2,0.00044986929386901987,True,2.841,-758.5,0.0558,robustness check at block-group level

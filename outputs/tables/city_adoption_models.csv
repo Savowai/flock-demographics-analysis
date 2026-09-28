@@ -1,0 +1,5 @@
+region,model,term,coefficient,std_error,odds_ratio,ci_low,ci_high,p_value,significant_05,n_cities,rate_ratio
+"Los Angeles County, CA",A. logistic: any cameras,pct_hispanic_10,-0.0422,0.212,0.9587,0.6327,1.4526,0.8421695412317081,False,88,
+"Los Angeles County, CA",B. negative binomial: camera count,pct_hispanic_10,-0.0629,0.055,,0.8432,1.0459,0.25263941464580764,False,88,0.9391
+"King County, WA",A. logistic: any cameras,pct_hispanic_10,0.0219,1.1155,1.0221,0.1148,9.1006,0.9843526530154283,False,31,
+"King County, WA",B. negative binomial: camera count,pct_hispanic_10,1.0356,0.5367,,0.9837,8.0649,0.05367364246439569,False,31,2.8167
