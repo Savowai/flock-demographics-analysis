@@ -291,10 +291,30 @@ Nearly identical effect sizes in two counties with opposite tract-level
 patterns. Including chain-owned cameras, 82% (LA) and 86% (King) of home
 improvement stores have a Flock camera within 150 m.
 
-The day-labor portion of this test — comparing stores that are hiring sites
-against those that are not — **could not be run**. It requires verified sites;
-`data/raw/day_labor_sites.csv` holds 74 unverified LA candidates and 1 for King
-County, and no citable published list of Washington day-labor sites exists.
+### 4.7 Day-labor site comparison
+
+Candidate sites were checked against OpenStreetMap: NDLON entries name a
+specific business ("Alhambra Home Depot Location"), so the record is
+corroborated when that business exists within 200 m of the published
+coordinates. Of 75 candidates, **40 were corroborated by business presence**,
+6 are officially listed municipal centers, and 28 could not be confirmed.
+
+This is documentary corroboration, **not field verification**. It establishes
+that the named location exists, not that day labor happens there today.
+
+**Los Angeles County result: no significant difference.** Stores at documented
+day-labor sites have a Flock camera within 150 m in 92% of cases, versus 76%
+of other home-improvement stores (Fisher exact p=0.113). The direction is as
+hypothesised but the sample is too small to distinguish from chance, and the
+baseline is already high — most Home Depots have a camera regardless.
+
+**King County could not be tested**: 1 documented site, and no citable
+published list of Washington day-labor sites exists (see
+`docs/manual_downloads.md`).
+
+The retailer finding in 4.6 therefore does **not** rest on day-labor status. It
+rests on home-improvement stores differing sharply from matched big-box
+retailers, whatever the mechanism.
 
 ---
 

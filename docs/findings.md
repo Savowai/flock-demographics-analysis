@@ -185,11 +185,22 @@ improvement stores differ from Target in ways beyond day labor - tool theft,
 lumber yards, contractor traffic, longer hours. The pattern is real and
 replicated; the explanation is not settled by this data.
 
-**The day-labor comparison could not be run.** It needs verified day-labor
-sites, and `data/raw/day_labor_sites.csv` currently has 74 unverified
-candidates for LA and 1 for King County. No citable published list of
-Washington day-labor sites was found (see `docs/manual_downloads.md`). Verify
-sites in that file and the test runs automatically.
+**The day-labor comparison: no significant difference in LA, untestable in King
+County.** Candidates were corroborated against OpenStreetMap (40 of 75 have the
+named business at the coordinates; 6 are official municipal centers; 28
+unconfirmed). Among LA home-improvement stores, 92% of those at documented
+day-labor sites have a camera within 150 m versus 76% elsewhere, but with these
+numbers that gap is within chance (Fisher p=0.113). King County has one
+documented site, so no test is possible.
+
+This is documentary corroboration, not field verification: it confirms the
+named location exists, not that day labor happens there now. Marking sites
+`verified=yes` in `data/raw/day_labor_sites.csv` after checking in person would
+give a stronger test.
+
+Note what this does and does not undercut. The 5x retailer finding above does
+not depend on day-labor status at all - it compares home-improvement stores to
+matched big-box stores.
 
 ---
 

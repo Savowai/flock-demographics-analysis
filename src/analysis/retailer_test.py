@@ -31,7 +31,7 @@ import pandas as pd
 from scipy import stats
 from shapely.geometry import Point
 
-from analysis_common import RAW, REGIONS, fmt_p, save_table
+from analysis_common import PROCESSED, RAW, REGIONS, fmt_p, save_table
 
 RADIUS_M = 150
 FEET_PER_M = 3.28084  # both study CRSs are in US survey feet
@@ -64,9 +64,22 @@ def main() -> int:
         ]
         nonretail = flock[~flock.index.isin(retail_op.index)]
 
-        labor_all = pd.read_csv(RAW / "day_labor_sites.csv")
+        # Prefer the verified file if verify_day_labor.py has been run.
+        # "yes" = confirmed in person; "documented" = the named business exists
+        # at those coordinates (see src/analysis/verify_day_labor.py).
+        verified_path = PROCESSED / "day_labor_sites_verified.csv"
+        labor_all = pd.read_csv(
+            verified_path if verified_path.exists() else RAW / "day_labor_sites.csv"
+        )
         labor = labor_all[labor_all["region"] == region.key]
-        verified = labor[labor["verified"].astype(str).str.lower() == "yes"]
+        verified = labor[
+            labor["verified"].astype(str).str.lower().isin({"yes", "documented"})
+        ]
+        tier = (
+            "field-verified"
+            if (labor["verified"].astype(str).str.lower() == "yes").any()
+            else "documented (business confirmed at location, not field-verified)"
+        )
         labor_gdf = to_gdf(labor, region.crs) if len(labor) else None
         verified_gdf = to_gdf(verified, region.crs) if len(verified) else None
 
@@ -229,6 +242,7 @@ def main() -> int:
                 "test": "camera presence: day-labor vs other stores",
                 "status": "run",
                 "verified_sites_available": n_verified,
+                "verification_tier": tier,
                 "stores_at_daylabor_sites": int(
                     store_df["verified_daylabor_within_150m"].sum()
                 ),
