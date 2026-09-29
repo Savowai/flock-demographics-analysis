@@ -248,12 +248,12 @@ export default function MapView() {
   return (
     <div className="space-y-4">
       <div className="flex flex-wrap items-center gap-3">
-        <div className="inline-flex rounded-lg border border-slate-300 bg-white p-1">
+        <div className="inline-flex rounded-lg border border-rule bg-white p-1">
           {(Object.keys(REGIONS) as RegionKey[]).map((key) => (
             <button
               key={key}
               onClick={() => setRegion(key)}
-              className={`rounded-md px-3 py-1.5 text-sm ${
+              className={`min-h-[40px] rounded-md px-3 text-sm transition-colors duration-200 ${
                 region === key ? "bg-ink text-white" : "text-slate-600 hover:text-ink"
               }`}
             >
@@ -265,7 +265,7 @@ export default function MapView() {
         <select
           value={shading}
           onChange={(e) => setShading(e.target.value as Shading)}
-          className="rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm"
+          className="rounded-lg border border-rule bg-white px-3 py-2 text-sm"
         >
           {(Object.keys(SHADING) as Shading[]).map((key) => (
             <option key={key} value={key}>
@@ -281,7 +281,7 @@ export default function MapView() {
         ].map(([label, value, setter]) => (
           <label
             key={label as string}
-            className="flex items-center gap-2 rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm"
+            className="flex items-center gap-2 rounded-lg border border-rule bg-white px-3 py-2 text-sm"
           >
             <input
               type="checkbox"
@@ -293,9 +293,9 @@ export default function MapView() {
         ))}
       </div>
 
-      <div className="relative overflow-hidden rounded-xl border border-slate-200">
+      <div className="relative overflow-hidden rounded-xl border border-rule">
         <div ref={containerRef} className="h-[620px] w-full" />
-        <div className="absolute bottom-6 left-3 rounded-lg border border-slate-200 bg-white/95 p-3 text-xs shadow">
+        <div className="absolute bottom-6 left-3 rounded-lg border border-rule bg-white/95 p-3 text-xs shadow">
           <div className="mb-1.5 font-medium text-slate-700">{legend.label}</div>
           <div className="flex items-center gap-1">
             {legend.stops.map(([value, color]) => (
@@ -309,7 +309,7 @@ export default function MapView() {
             ))}
           </div>
           {showCameras && (
-            <div className="mt-2 space-y-1 border-t border-slate-200 pt-2">
+            <div className="mt-2 space-y-1 border-t border-rule pt-2">
               <div className="flex items-center gap-1.5">
                 <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#12355b]" />
                 Flock camera

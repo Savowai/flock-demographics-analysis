@@ -6,64 +6,116 @@
   color-scheme: light;
 }
 
-body {
-  @apply bg-paper text-slate-800 antialiased;
+@layer base {
+  body {
+    @apply bg-paper font-sans text-[15px] leading-relaxed text-slate-700 antialiased;
+  }
+
+  /* One visible focus treatment everywhere, never removed. */
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent ring-offset-2 ring-offset-paper;
+  }
+
+  button,
+  [role="button"],
+  summary {
+    @apply cursor-pointer;
+  }
+
+  /* Tabular figures keep columns of numbers aligned. */
+  table {
+    font-variant-numeric: tabular-nums;
+  }
 }
 
-/* Rendered markdown for the report page. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---- Rendered report ---------------------------------------------------- */
+/* Serif body at a generous measure: this page is read, not scanned.         */
+
+.prose-report {
+  @apply font-serif text-[1.0625rem] leading-[1.75] text-slate-800;
+}
 .prose-report h1 {
-  @apply text-3xl font-semibold text-ink mt-10 mb-4;
+  @apply mb-4 mt-12 font-serif text-[2.4rem] font-semibold leading-[1.15] tracking-[-0.01em] text-ink;
 }
 .prose-report h2 {
-  @apply text-2xl font-semibold text-ink mt-10 mb-3 pb-2 border-b border-slate-200;
+  @apply mb-4 mt-14 border-b border-rule pb-2 font-serif text-[1.65rem] font-semibold leading-snug text-ink;
 }
 .prose-report h3 {
-  @apply text-lg font-semibold text-ink mt-8 mb-2;
+  @apply mb-2 mt-10 font-sans text-base font-semibold uppercase tracking-[0.08em] text-ink;
 }
 .prose-report p {
-  @apply my-4 leading-7;
+  @apply my-5;
 }
 .prose-report ul,
 .prose-report ol {
-  @apply my-4 ml-6 space-y-1 list-disc;
+  @apply my-5 ml-6 list-disc space-y-2;
 }
 .prose-report ol {
   @apply list-decimal;
 }
+.prose-report li::marker {
+  @apply text-muted;
+}
 .prose-report a {
-  @apply text-ink underline underline-offset-2 hover:text-flag;
+  @apply text-ink underline decoration-rule underline-offset-[3px] transition-colors duration-200 hover:decoration-accent;
 }
 .prose-report strong {
-  @apply font-semibold text-slate-900;
+  @apply font-semibold text-ink;
+}
+.prose-report em {
+  @apply italic;
 }
 .prose-report code {
-  @apply font-mono text-[0.85em] bg-slate-100 px-1 py-0.5 rounded;
+  @apply rounded bg-white px-1.5 py-0.5 font-mono text-[0.8em] text-ink ring-1 ring-rule;
 }
 .prose-report pre {
-  @apply bg-slate-900 text-slate-100 rounded-lg p-4 overflow-x-auto my-5 text-sm;
+  @apply my-6 overflow-x-auto rounded-lg bg-ink p-5 font-mono text-[0.8rem] leading-6 text-slate-100;
 }
 .prose-report pre code {
-  @apply bg-transparent text-inherit p-0;
-}
-.prose-report table {
-  @apply w-full my-6 text-sm border-collapse;
-}
-.prose-report th {
-  @apply text-left font-semibold bg-slate-100 px-3 py-2 border border-slate-200;
-}
-.prose-report td {
-  @apply px-3 py-2 border border-slate-200 align-top;
-}
-.prose-report blockquote {
-  @apply border-l-4 border-sand pl-4 italic my-5 text-slate-600;
-}
-.prose-report img {
-  @apply my-6 rounded-lg border border-slate-200 w-full;
-}
-.prose-report hr {
-  @apply my-10 border-slate-200;
+  @apply bg-transparent p-0 text-inherit ring-0;
 }
 
+/* Data tables read as data: sans labels, mono figures, hairline rules. */
+.prose-report table {
+  @apply my-7 w-full border-collapse font-sans text-[0.875rem];
+}
+.prose-report thead {
+  @apply border-b-2 border-ink;
+}
+.prose-report th {
+  @apply px-3 py-2 text-left align-bottom font-mono text-[0.7rem] font-medium uppercase tracking-[0.08em] text-muted;
+}
+.prose-report td {
+  @apply border-b border-rule px-3 py-2.5 align-top text-slate-700;
+}
+.prose-report tbody tr:hover {
+  @apply bg-white;
+}
+.prose-report blockquote {
+  @apply my-6 border-l-2 border-accent bg-white/60 py-2 pl-5 pr-4 italic text-slate-600;
+}
+.prose-report img {
+  @apply my-8 w-full rounded-lg border border-rule bg-white;
+}
+.prose-report hr {
+  @apply my-12 border-rule;
+}
+
+/* ---- Map ---------------------------------------------------------------- */
+
 .maplibregl-popup-content {
-  @apply rounded-lg shadow-lg text-sm px-3 py-2;
+  @apply rounded-lg px-3.5 py-2.5 font-sans text-sm shadow-lg ring-1 ring-rule;
+}
+.maplibregl-ctrl-group button {
+  @apply cursor-pointer;
 }

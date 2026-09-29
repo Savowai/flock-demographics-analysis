@@ -77,7 +77,7 @@ export default function AskPanel() {
 
   return (
     <div className="space-y-6">
-      <div className="inline-flex rounded-lg border border-slate-300 bg-white p-1">
+      <div className="inline-flex rounded-lg border border-rule bg-white p-1">
         {(["data", "documents"] as Mode[]).map((m) => (
           <button
             key={m}
@@ -85,7 +85,7 @@ export default function AskPanel() {
               setMode(m);
               setError(null);
             }}
-            className={`rounded-md px-4 py-2 text-sm ${
+            className={`min-h-[44px] rounded-md px-4 text-sm transition-colors duration-200 ${
               mode === m ? "bg-ink text-white" : "text-slate-600 hover:text-ink"
             }`}
           >
@@ -95,12 +95,12 @@ export default function AskPanel() {
       </div>
 
       {status && (
-        <div className="rounded-lg border border-slate-200 bg-white px-4 py-3 text-sm text-slate-600">
+        <div className="rounded-lg border border-rule bg-white px-4 py-3 text-sm text-slate-600">
           {status}
         </div>
       )}
       {error && (
-        <div className="rounded-lg border border-flag/30 bg-flag/5 px-4 py-3 text-sm text-flag">
+        <div className="rounded-lg border border-accent/40 bg-accent/5 px-4 py-3 text-sm text-accent">
           {error}
         </div>
       )}
@@ -121,7 +121,7 @@ export default function AskPanel() {
                 className={`rounded-full border px-3 py-1.5 text-xs ${
                   sql === preset.sql
                     ? "border-ink bg-ink text-white"
-                    : "border-slate-300 bg-white text-slate-600 hover:border-ink hover:text-ink"
+                    : "border-rule bg-white text-slate-600 hover:border-ink hover:text-ink"
                 }`}
               >
                 {preset.question}
@@ -130,7 +130,7 @@ export default function AskPanel() {
           </div>
 
           {activeNote && (
-            <p className="max-w-3xl rounded-lg border border-sand/50 bg-sand/10 px-4 py-3 text-sm leading-6 text-slate-700">
+            <p className="max-w-3xl rounded-lg border border-accent/30 bg-accent/[0.04] px-4 py-3 text-sm leading-6 text-slate-700">
               {activeNote}
             </p>
           )}
@@ -144,13 +144,13 @@ export default function AskPanel() {
               }}
               spellCheck={false}
               rows={12}
-              className="w-full rounded-lg border border-slate-300 bg-slate-900 p-4 font-mono text-xs text-slate-100 focus:border-ink focus:outline-none"
+              className="w-full rounded-lg border border-rule bg-slate-900 p-4 font-mono text-xs text-slate-100 focus:border-ink focus:outline-none"
             />
             <div className="flex flex-wrap items-center gap-3">
               <button
                 onClick={execute}
                 disabled={busy}
-                className="rounded-lg bg-ink px-5 py-2.5 text-sm font-medium text-white disabled:opacity-50"
+                className="inline-flex min-h-[44px] items-center rounded-md bg-ink px-5 text-sm font-medium text-paper transition-colors duration-200 hover:bg-accent disabled:opacity-50"
               >
                 {busy ? "Running…" : "Run query"}
               </button>
@@ -158,7 +158,7 @@ export default function AskPanel() {
                 <summary className="cursor-pointer hover:text-ink">
                   Table columns
                 </summary>
-                <pre className="mt-2 overflow-x-auto rounded-lg border border-slate-200 bg-white p-4 text-xs leading-5">
+                <pre className="mt-2 overflow-x-auto rounded-lg border border-rule bg-white p-4 text-xs leading-5">
                   {SCHEMA_SUMMARY}
                 </pre>
               </details>
@@ -167,17 +167,17 @@ export default function AskPanel() {
 
           {result && (
             <section className="space-y-2">
-              <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
+              <h2 className="font-mono text-xs uppercase tracking-[0.18em] text-muted">
                 {result.rows.length} row{result.rows.length === 1 ? "" : "s"}
               </h2>
-              <div className="overflow-x-auto rounded-lg border border-slate-200 bg-white">
+              <div className="overflow-x-auto rounded-lg border border-rule bg-white">
                 <table className="w-full text-sm">
                   <thead className="bg-slate-50">
                     <tr>
                       {result.columns.map((col) => (
                         <th
                           key={col}
-                          className="px-3 py-2 text-left font-medium text-slate-600"
+                          className="px-3 py-2 text-left font-mono text-[0.7rem] font-medium uppercase tracking-[0.08em] text-muted"
                         >
                           {col}
                         </th>
@@ -188,7 +188,7 @@ export default function AskPanel() {
                     {result.rows.slice(0, 200).map((row, i) => (
                       <tr key={i} className="border-t border-slate-100">
                         {result.columns.map((col) => (
-                          <td key={col} className="px-3 py-1.5 text-slate-700">
+                          <td key={col} className="px-3 py-1.5 font-mono text-[0.8rem] text-slate-700">
                             {row[col] === null || row[col] === undefined
                               ? "—"
                               : typeof row[col] === "number"
@@ -231,12 +231,12 @@ export default function AskPanel() {
               value={question}
               onChange={(e) => setQuestion(e.target.value)}
               placeholder="e.g. Who can search Washington Flock data?"
-              className="min-w-[280px] flex-1 rounded-lg border border-slate-300 px-4 py-2.5 text-sm focus:border-ink focus:outline-none"
+              className="min-w-[280px] flex-1 rounded-lg border border-rule px-4 py-2.5 text-sm focus:border-ink focus:outline-none"
             />
             <button
               type="submit"
               disabled={busy}
-              className="rounded-lg bg-ink px-5 py-2.5 text-sm font-medium text-white disabled:opacity-50"
+              className="inline-flex min-h-[44px] items-center rounded-md bg-ink px-5 text-sm font-medium text-paper transition-colors duration-200 hover:bg-accent disabled:opacity-50"
             >
               {busy ? "Searching…" : "Search"}
             </button>
@@ -250,7 +250,7 @@ export default function AskPanel() {
                   setQuestion(example);
                   runSearch(example);
                 }}
-                className="rounded-full border border-slate-300 bg-white px-3 py-1.5 text-xs text-slate-600 hover:border-ink hover:text-ink"
+                className="rounded-full border border-rule bg-white px-3 py-1.5 text-xs text-slate-600 hover:border-ink hover:text-ink"
               >
                 {example}
               </button>
@@ -263,7 +263,7 @@ export default function AskPanel() {
           </p>
 
           {searched && hits && hits.length === 0 && (
-            <div className="rounded-lg border border-slate-200 bg-white p-5 text-slate-700">
+            <div className="rounded-lg border border-rule bg-white p-5 text-slate-700">
               Nothing in the corpus is close enough to answer that. The documents
               cover ALPR law in California and Washington, federal access to
               Flock data, and agency policies in both regions.
@@ -272,13 +272,13 @@ export default function AskPanel() {
 
           {hits && hits.length > 0 && (
             <section className="space-y-3">
-              <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
+              <h2 className="font-mono text-xs uppercase tracking-[0.18em] text-muted">
                 {hits.length} matching passages
               </h2>
               {hits.map((hit, i) => (
                 <article
                   key={hit.id}
-                  className="rounded-lg border border-slate-200 bg-white p-4"
+                  className="rounded-lg border border-rule bg-white p-4"
                 >
                   <div className="flex flex-wrap items-baseline justify-between gap-2">
                     <h3 className="font-medium text-ink">
