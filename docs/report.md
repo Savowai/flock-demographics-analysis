@@ -12,32 +12,30 @@ Demographics: ACS 2020–2024 5-year estimates
 
 ## Summary
 
-Flock Safety automated license plate readers (ALPRs) photograph every passing
-vehicle, read its plate, and store the record in a searchable network shared
-across agencies. This study asks whether those cameras are disproportionately
-placed in Hispanic/Latino neighbourhoods, after accounting for the innocent
-explanations — that cameras follow roads, population and crime.
+Flock Safety automated license plate readers (ALPRs) photograph passing
+vehicles, read their plates, and store the records in a network searchable by
+participating agencies. This study measures whether camera density varies with
+neighbourhood demographics once road density, population, income and reported
+crime are accounted for.
 
-Three findings:
+Three results:
 
-1. **The two counties give opposite answers.** In King County, a tract 10
-   percentage points more Hispanic has about **30% more cameras per arterial
-   road-mile**, and the effect survives every control including comparing
-   neighbourhoods within the same city. In Los Angeles County the same
-   analysis finds **6% fewer**. There is no single national pattern visible
-   here.
-2. **Home improvement stores are the strongest signal in the data.** Home
-   Depot and Lowe's are roughly **five times more likely** than comparable
-   big-box retailers to have a Flock camera they do not own within 150 metres
-   — 5.2x in LA (p<0.001), 5.8x in King County (p=0.010). These stores are the
-   best-known informal day-labor hiring sites in both regions.
-3. **Adoption is near-universal, so "which cities bought in" explains little.**
-   81 of 88 LA cities and 25 of 31 King County cities have mapped cameras, and
-   adopting cities are demographically indistinguishable from non-adopting
-   ones.
+1. **The two counties produce opposite signs.** In King County, a tract 10
+   percentage points higher in Hispanic/Latino share has about **30% more
+   cameras per arterial road-mile** (within-city comparison, p=0.035), holding
+   at block-group level. In Los Angeles County the same models find **6%
+   fewer** (p=0.008). No single direction describes both counties.
+2. **The largest and most consistent association is with home improvement
+   retailers.** Home Depot and Lowe's are roughly **five times more likely**
+   than matched big-box retailers to have a Flock camera they do not operate
+   within 150 metres — 5.2x in LA (p<0.001), 5.8x in King County (p=0.010).
+   Multiple explanations fit this result; the data does not distinguish them.
+3. **Adoption is near-universal and not demographically differentiated.** 81 of
+   88 LA cities and 25 of 31 King County cities have mapped cameras, and
+   adopting cities are statistically indistinguishable from non-adopting ones.
 
-The binding limitation throughout: camera locations are crowdsourced, therefore
-incomplete, and the gaps are probably not random.
+The limitation that constrains every result: camera locations are crowdsourced,
+therefore incomplete, and the missing coverage is unlikely to be random.
 
 ---
 
@@ -271,10 +269,11 @@ The highest-density cities cut across demographics entirely:
 | Beverly Hills | 8% | 2.24 | Renton | 16% | 0.80 |
 | Hawaiian Gardens | 76% | 2.11 | Tukwila | 26% | 0.77 |
 
-Wealthy, overwhelmingly white municipalities (Beverly Hills, San Marino,
-Medina, Yarrow Point) saturate themselves with ALPRs just as heavily as
-working-class Latino cities (San Fernando, La Puente, Hawaiian Gardens). Any
-account of ALPR proliferation has to explain both.
+High camera density per road-mile occurs at both demographic extremes. Beverly
+Hills, San Marino, Medina and Yarrow Point are among the least Hispanic and
+highest-income municipalities in their counties; San Fernando, La Puente and
+Hawaiian Gardens are among the most Hispanic. City-level density does not sort
+by demographics in either county.
 
 ### 4.6 Retailer test
 
@@ -322,16 +321,15 @@ retailers, whatever the mechanism.
 
 A 42-document corpus (168,249 words, 1,125 indexed passages) was assembled from
 statutes, agency policies, audits, public-records-based research and reporting.
-It answers the question coordinates cannot: who can search what these cameras
-collect. Sources are listed in `rag/documents/sources.csv`; the search tool is
-`rag/query.py`.
+It covers a question the coordinates do not address: the legal framework for
+ALPR data and the documented record of who has accessed it. Sources are listed
+in `rag/documents/sources.csv`; the search tool is `rag/query.py`.
 
-**The spatial findings and the document record converge on the same cities.**
+**Two cities appear in both the spatial results and the access record.**
 
-King County's highest-camera cities are Renton (63 cameras, 15.9% Hispanic),
-Auburn (42, 22.6%), Tukwila (42, 25.8%), Kent (37, 17.5%) and SeaTac (34,
-23.3%) — the county's most Hispanic municipalities, and the statistical result
-in section 4.3.
+King County's highest camera counts are in Renton (63 cameras, 15.9%
+Hispanic), Auburn (42, 22.6%), Tukwila (42, 25.8%), Kent (37, 17.5%) and SeaTac
+(34, 23.3%), all above the county's 11.0% average.
 
 Independently, the University of Washington Center for Human Rights obtained
 Flock network audits by public records request and found (as quoted in
@@ -343,9 +341,9 @@ Flock network audits by public records request and found (as quoted in
   access to license plate data … which had not explicitly authorized sharing
   with Border Patrol, from at least May to August 2025."
 
-So the two cities with the densest camera deployments in King County, both
-well above the county's 11% Hispanic average, appear in the federal-access
-findings — one by authorisation, one apparently without it.
+Auburn and Renton are the two largest mapped deployments in King County and
+both appear in these findings. Whether that overlap reflects more than the fact
+that larger deployments attract more scrutiny is not established here.
 
 **The legal position differs sharply between the two states.**
 
@@ -360,9 +358,9 @@ findings — one by authorisation, one apparently without it.
   food banks, requires registration with the Attorney General, and mandates
   two-year audit trails.
 
-This is a caution against reading the LA and King County results as equivalent:
-during the period the UWCHR examined, California had a sharing prohibition on
-the books and Washington had none.
+The two counties therefore operated under different legal regimes during the
+period studied: California had a statutory sharing prohibition, Washington had
+none. This is relevant context for interpreting any difference between them.
 
 ---
 
@@ -402,68 +400,81 @@ the small tracts where camera counts are most volatile.
 
 ---
 
-## 7. Thesis
+## 7. Conclusions
 
-**The data does not support a general claim that Flock cameras are aimed at
-Latino neighbourhoods, and it does not refute one. It supports something more
-specific and, for the immigration-enforcement question, more consequential.**
+What the statistics show, stated as results rather than as a position.
 
-Three claims the evidence carries:
+**1. The demographic relationship differs between the two counties.**
 
-**First, neighbourhood-level targeting is not a uniform phenomenon.** Two
-counties, one method, opposite results. In King County the pattern is clear and
-survives every control, including within-city comparison: more Hispanic
-neighbourhoods have measurably more cameras per road-mile. In Los Angeles
-County — the larger, far more Latino county, and the one with the most visible
-immigration enforcement activity — the relationship is slightly negative.
-Anyone asserting a nationwide targeting pattern has to explain LA. Anyone
-denying any pattern has to explain King County.
+In King County, tracts with a higher Hispanic/Latino share have more cameras
+per arterial road-mile. Each 10-point increase is associated with roughly 30%
+more cameras when comparing tracts policed by the same city (p=0.035), and the
+association holds at block-group level (+24.2%, p<0.001) and under a spatial
+lag correction.
 
-**Second, the strongest signal is not about where people live but where they
-look for work.** Home improvement stores carry roughly five times the odds of a
-nearby non-chain ALPR compared to matched big-box retailers, and the effect
-replicates almost exactly across two counties whose tract-level patterns point
-in opposite directions. That consistency is what makes it notable: it is
-unaffected by whatever local factors drive the divergent neighbourhood results.
-Home Depot parking lots are the most recognised informal day-labor hiring sites
-in the United States and have been the site of documented immigration
-enforcement operations. This analysis cannot say who installed those cameras or
-why, and tool theft and contractor traffic are genuine alternative
-explanations. It can say the concentration is real, large and geographically
-consistent.
+In Los Angeles County the association runs in the opposite direction and is
+smaller: −6.3% per 10 points within-city (p=0.008), −3.1% at block-group level
+(p=0.035).
 
-**Third, the purchasing story is not a demographic story.** Flock adoption is
-near-universal among municipalities in both counties, and the cities with the
-densest camera coverage include some of the whitest and wealthiest in America.
-Surveillance infrastructure is not being bought only by, or only for, places
-with large immigrant populations. It is being bought nearly everywhere — which
-means the relevant question shifts away from who installs cameras and toward
-**who can query the resulting network**.
+A single method applied to two counties produced results with opposite signs.
+Neither result generalises to the other county, and this study cannot determine
+which is more typical of ALPR deployment nationally.
 
-That last point is where the spatial analysis hands off to the documents, and
-where the two lines of evidence meet. A camera's coordinates cannot tell you
-who searches its records. But the public-records work summarised in section 5
-can: during 2025, Border Patrol had authorised sharing with Auburn's network
-and apparent back-door access to Renton's — the two densest camera deployments
-in King County, both in cities well above the county's Hispanic average, and
-both in the state that had no ALPR statute at the time.
+**2. Proximity to home improvement retailers is the most consistent
+association measured.**
 
-Neither finding alone carries much weight. A camera-density disparity without
-evidence of who queries the data is a pattern in search of a mechanism. A
-federal-access finding without placement data says nothing about who is
-disproportionately captured. Together they describe something concrete: in one
-of the two counties studied, the neighbourhoods with the most cameras were
-disproportionately Latino, and the networks covering them were reachable by
-federal immigration agencies — in at least one case without the operating
-agency's explicit authorisation.
+Home Depot and Lowe's locations are about five times more likely than matched
+big-box retailers to have a Flock camera they do not operate within 150 metres:
+46% vs 14% in LA County (p<0.001) and 43% vs 11% in King County (p=0.010). The
+effect sizes are close to identical in two counties whose tract-level results
+diverge.
 
-**The honest summary:** placement disparity exists in one of two counties
-studied and points the other way in the other; proximity to day-labor hiring
-sites is the robust spatial finding; and the surveillance network is broad
-enough that access policy, not placement, is where the immigration-enforcement
-risk concentrates.
+Several explanations are consistent with this and the data cannot distinguish
+between them: these stores are known informal day-labor hiring sites; they also
+differ from general-merchandise retailers in tool theft exposure, contractor
+traffic, lumber yards and operating hours. The comparison with verified
+day-labor sites within LA County found no significant difference (92% vs 76%,
+p=0.113), which neither supports nor rules out the day-labor explanation given
+the small sample.
 
----
+**3. Camera adoption is near-universal and not demographically differentiated.**
+
+81 of 88 LA County cities and 25 of 31 King County cities have mapped
+non-retail Flock cameras. Cities with cameras average 44.9% Hispanic in LA
+County versus 46.8% for those without; in King County, 11.2% versus 10.8%.
+Logistic models find no significant association in either county (odds ratios
+0.96 and 1.02). The municipalities with the highest camera density per road-mile
+include both some of the wealthiest and least Hispanic cities in each county
+(Beverly Hills, San Marino, Medina, Yarrow Point) and several of the most
+Hispanic (San Fernando, La Puente, Hawaiian Gardens).
+
+**4. The documentary record concerns data access, which the spatial data does
+not measure.**
+
+Camera coordinates indicate where data is collected, not who can query it.
+Public records obtained by the UW Center for Human Rights document that during
+2025, Auburn enabled direct sharing of its Flock network with Border Patrol,
+and Renton's network showed apparent unauthorised Border Patrol access. These
+are the two highest-camera-count cities in King County. Whether that
+co-occurrence reflects anything beyond both being large deployments in the same
+county is not established by this analysis.
+
+**What this analysis cannot determine**
+
+- Whether any placement decision considered demographics. Correlation across
+  tracts cannot identify the reasoning behind individual siting decisions.
+- Whether the LA and King County difference reflects real deployment
+  differences or uneven crowdsourced mapping coverage.
+- Who installed the cameras near home improvement retailers, or why.
+- Whether cameras are queried differently depending on where they are.
+
+**What would resolve the open questions**
+
+Authoritative agency camera inventories would replace crowdsourced locations
+and settle the completeness problem. Operator identification for the 86% of LA
+cameras lacking an operator tag would separate government from private
+deployments. Field-verified day-labor sites would allow the retailer mechanism
+to be tested directly. Audit-log data would connect placement to use.
 
 ## 8. Reproducing this
 

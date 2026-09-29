@@ -147,10 +147,10 @@ simple demographic story:
 | Beverly Hills | 8% | 2.24 | | Renton | 16% | 0.80 |
 | Hawaiian Gardens | 76% | 2.11 | | Tukwila | 26% | 0.77 |
 
-Very wealthy, very white cities (Beverly Hills, San Marino, Medina, Yarrow
-Point) and heavily Latino working-class cities (San Fernando, La Puente,
-Hawaiian Gardens) both saturate themselves with cameras. Wealth buys
-surveillance too.
+Cities at both demographic extremes appear among the highest camera densities:
+Beverly Hills, San Marino, Medina and Yarrow Point are among the least Hispanic
+and highest-income in their counties; San Fernando, La Puente and Hawaiian
+Gardens are among the most Hispanic. Density does not sort by demographics.
 
 **Important limitation:** a camera inside a city's limits was not necessarily
 bought by that city. Sheriffs, transit agencies, HOAs and businesses deploy

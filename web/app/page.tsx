@@ -25,7 +25,7 @@ const FINDINGS = [
   {
     number: "03",
     title: "Nearly every city bought in",
-    body: "81 of 88 LA cities and 25 of 31 King County cities have mapped cameras, and adopting cities are demographically indistinguishable from the rest. Beverly Hills and Medina are as saturated as San Fernando. The sharper question becomes who can query the network.",
+    body: "81 of 88 LA cities and 25 of 31 King County cities have mapped cameras, and adopting cities are statistically indistinguishable from the rest. The highest camera densities occur at both demographic extremes — Beverly Hills and Medina rank alongside San Fernando and La Puente.",
     figure: "/figures/fig6_model_effects.png",
     alt: "Coefficient plot of model effects with 95% confidence intervals",
   },
