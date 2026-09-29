@@ -40,13 +40,13 @@ export default function Home() {
           Los Angeles County, CA · King County, WA
         </p>
         <h1 className="mt-5 max-w-4xl font-serif text-[2.6rem] font-semibold leading-[1.1] tracking-[-0.015em] text-ink sm:text-5xl">
-          Are Flock license plate readers placed disproportionately in Hispanic
-          neighbourhoods?
+          Does Flock camera placement track neighbourhood demographics?
         </h1>
         <p className="mt-6 max-w-measure font-serif text-lg leading-8 text-slate-600">
-          3,025 mapped ALPR cameras tested against census demographics, arterial
-          road density, population, income and reported crime — then set against
-          the documentary record of who can search the data they collect.
+          3,025 mapped ALPR cameras in two counties, tested against census
+          demographics, arterial road density, population, income and reported
+          crime — then set against the documentary record of who can search the
+          data they collect.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <Link
