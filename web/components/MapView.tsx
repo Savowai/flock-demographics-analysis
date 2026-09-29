@@ -27,7 +27,7 @@ const SHADING: Record<Shading, { label: string; stops: [number, string][]; unit:
     ],
   },
   cameras_per_road_mile: {
-    label: "Flock cameras per arterial road-mile",
+    label: "Flock cameras per mile of major road",
     unit: "",
     stops: [
       [0, "#f7fbff"],
@@ -60,7 +60,8 @@ export default function MapView() {
   const [region, setRegion] = useState<RegionKey>("king");
   const [shading, setShading] = useState<Shading>("pct_hispanic");
   const [showCameras, setShowCameras] = useState(true);
-  const [showStores, setShowStores] = useState(false);
+  const [showHomeImprovement, setShowHomeImprovement] = useState(false);
+  const [showControlStores, setShowControlStores] = useState(false);
   const [showDayLabor, setShowDayLabor] = useState(false);
   const [ready, setReady] = useState(false);
 
@@ -89,7 +90,8 @@ export default function MapView() {
     const map = mapRef.current;
     if (!map || !ready) return;
 
-    const ids = ["tracts-fill", "tracts-line", "cameras", "stores", "daylabor"];
+    const ids = ["tracts-fill", "tracts-line", "cameras",
+                 "stores-home-improvement", "stores-control", "daylabor"];
     ids.forEach((id) => map.getLayer(id) && map.removeLayer(id));
     ["tracts", "cameras-src", "stores-src", "daylabor-src"].forEach(
       (id) => map.getSource(id) && map.removeSource(id),
@@ -142,21 +144,31 @@ export default function MapView() {
     });
 
     map.addLayer({
-      id: "stores",
+      id: "stores-home-improvement",
       type: "circle",
       source: "stores-src",
+      filter: ["==", ["get", "group"], "home improvement"],
       paint: {
-        "circle-radius": 5,
-        "circle-color": [
-          "match",
-          ["get", "group"],
-          "home improvement", "#f4a261",
-          "#94a3b8",
-        ],
-        "circle-stroke-width": 1,
+        "circle-radius": 6,
+        "circle-color": "#e07a21",
+        "circle-stroke-width": 1.2,
         "circle-stroke-color": "#1f2937",
       },
-      layout: { visibility: showStores ? "visible" : "none" },
+      layout: { visibility: showHomeImprovement ? "visible" : "none" },
+    });
+
+    map.addLayer({
+      id: "stores-control",
+      type: "circle",
+      source: "stores-src",
+      filter: ["==", ["get", "group"], "control big-box"],
+      paint: {
+        "circle-radius": 5,
+        "circle-color": "#94a3b8",
+        "circle-stroke-width": 1,
+        "circle-stroke-color": "#475569",
+      },
+      layout: { visibility: showControlStores ? "visible" : "none" },
     });
 
     map.addLayer({
@@ -193,7 +205,8 @@ export default function MapView() {
     if (!map || !ready) return;
     const toggles: [string, boolean][] = [
       ["cameras", showCameras],
-      ["stores", showStores],
+      ["stores-home-improvement", showHomeImprovement],
+      ["stores-control", showControlStores],
       ["daylabor", showDayLabor],
     ];
     toggles.forEach(([id, on]) => {
@@ -201,7 +214,7 @@ export default function MapView() {
         map.setLayoutProperty(id, "visibility", on ? "visible" : "none");
       }
     });
-  }, [showCameras, showStores, showDayLabor, ready]);
+  }, [showCameras, showHomeImprovement, showControlStores, showDayLabor, ready]);
 
   // Popups.
   useEffect(() => {
@@ -228,8 +241,11 @@ export default function MapView() {
              <div>${num(p.pop_total, 0)} residents</div>
              <div>${p.median_hh_income ? "$" + num(p.median_hh_income, 0) + " median income" : "income not reported"}</div>
              <div class="pt-1 font-medium">${num(p.cameras_flock, 0)} Flock cameras</div>
-             <div>${num(p.road_miles, 2)} arterial road-miles</div>
-             <div>${num(p.cameras_per_road_mile, 3)} cameras per road-mile</div>
+             <div>${num(p.road_miles, 2)} miles of major road</div>
+             <div class="mt-1 border-t border-slate-200 pt-1">
+               <span class="font-medium">${num(p.cameras_per_road_mile, 2)}</span>
+               cameras per mile of major road
+             </div>
            </div>`,
         )
         .addTo(map);
@@ -276,7 +292,8 @@ export default function MapView() {
 
         {[
           ["Flock cameras", showCameras, setShowCameras],
-          ["Retail stores", showStores, setShowStores],
+          ["Home Depot / Lowe's", showHomeImprovement, setShowHomeImprovement],
+          ["Control stores (Target, Walmart…)", showControlStores, setShowControlStores],
           ["Day-labor candidates", showDayLabor, setShowDayLabor],
         ].map(([label, value, setter]) => (
           <label
@@ -308,25 +325,86 @@ export default function MapView() {
               </div>
             ))}
           </div>
-          {showCameras && (
-            <div className="mt-2 space-y-1 border-t border-rule pt-2">
-              <div className="flex items-center gap-1.5">
-                <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#12355b]" />
-                Flock camera
-              </div>
-              <div className="flex items-center gap-1.5">
-                <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#b03060]" />
-                store-operated
-              </div>
+          {(showCameras || showHomeImprovement || showControlStores || showDayLabor) && (
+            <div className="mt-2.5 space-y-1.5 border-t border-rule pt-2">
+              {showCameras && (
+                <>
+                  <div className="flex items-center gap-1.5">
+                    <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#12355b]" />
+                    Flock camera
+                  </div>
+                  <div className="flex items-center gap-1.5">
+                    <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#b03060]" />
+                    camera owned by the store
+                  </div>
+                </>
+              )}
+              {showHomeImprovement && (
+                <div className="flex items-center gap-1.5">
+                  <span className="inline-block h-3 w-3 rounded-full border border-slate-800 bg-[#e07a21]" />
+                  Home Depot / Lowe&apos;s
+                </div>
+              )}
+              {showControlStores && (
+                <div className="flex items-center gap-1.5">
+                  <span className="inline-block h-2.5 w-2.5 rounded-full border border-slate-600 bg-[#94a3b8]" />
+                  control store
+                </div>
+              )}
+              {showDayLabor && (
+                <div className="flex items-center gap-1.5">
+                  <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#16a34a]" />
+                  day-labor candidate
+                </div>
+              )}
             </div>
           )}
         </div>
       </div>
 
+      <div className="grid gap-4 rounded-lg border border-rule bg-white p-5 text-sm leading-6 text-slate-600 md:grid-cols-3">
+        <div>
+          <h2 className="font-serif text-base font-semibold text-ink">
+            Reading the shading
+          </h2>
+          <p className="mt-1.5">
+            <strong className="font-medium text-slate-700">
+              Cameras per road-mile
+            </strong>{" "}
+            is cameras divided by miles of major road in that tract. A tract with
+            more boulevards will hold more cameras for reasons unrelated to who
+            lives there, so dividing by road mileage is the fair comparison.
+          </p>
+        </div>
+        <div>
+          <h2 className="font-serif text-base font-semibold text-ink">
+            Which stores are shown
+          </h2>
+          <p className="mt-1.5">
+            Not all retail — only the two groups the analysis compares.{" "}
+            <strong className="font-medium text-slate-700">
+              Home Depot and Lowe&apos;s
+            </strong>{" "}
+            are the ones being tested;{" "}
+            <strong className="font-medium text-slate-700">control stores</strong>{" "}
+            (Target, Walmart, Costco, Best Buy, Kohl&apos;s) are the comparison
+            group, similar in size and siting but not day-labor hiring spots.
+          </p>
+        </div>
+        <div>
+          <h2 className="font-serif text-base font-semibold text-ink">
+            What to be careful about
+          </h2>
+          <p className="mt-1.5">
+            Camera locations are crowdsourced through DeFlock and OpenStreetMap,
+            so coverage is incomplete. Cameras owned by a store are private
+            placements and are excluded from the statistical models.
+          </p>
+        </div>
+      </div>
+
       <p className="text-sm text-slate-500">
-        Click any tract for its demographics and camera count. Cameras are
-        crowdsourced via DeFlock/OpenStreetMap and incomplete; store-operated
-        cameras are private placements, excluded from the models.
+        Click any tract for its demographics and camera count.
       </p>
     </div>
   );
