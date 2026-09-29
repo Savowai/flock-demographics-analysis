@@ -36,8 +36,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               ))}
             </nav>
             <a
-              href="https://github.com"
+              href="https://github.com/Savowai/flock-demographics-analysis"
               className="ml-auto text-sm text-slate-500 hover:text-ink"
+              target="_blank"
+              rel="noreferrer"
             >
               Source
             </a>

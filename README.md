@@ -11,6 +11,7 @@ data they collect?
 policy documents, analysed end to end: collection → spatial joins → statistics
 → maps → document retrieval → a website.
 
+**[Live site](https://flock-demographics-analysis.vercel.app)** ·
 **[Full report with methodology and thesis](docs/report.md)** ·
 [Plain-English findings](docs/findings.md) ·
 [Data sources and limitations](docs/data_sources.md)
