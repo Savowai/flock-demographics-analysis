@@ -61,7 +61,7 @@ export default function Home() {
             href="/ask"
             className="rounded-lg border border-slate-300 bg-white px-5 py-2.5 text-sm font-medium text-slate-700 hover:border-ink hover:text-ink"
           >
-            Ask a question
+            Explore the data
           </Link>
         </div>
       </section>

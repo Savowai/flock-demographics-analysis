@@ -489,6 +489,12 @@ python src/analysis/city_adoption.py
 python src/analysis/retailer_test.py
 python src/analysis/make_maps.py
 python src/analysis/make_figures.py
+
+python src/collect/rag_documents.py
+python rag/build_index.py --rebuild
+python rag/query.py --samples
+
+python src/analysis/export_web.py
 ```
 
 OpenStreetMap and crime datasets change continuously, so re-running will give
