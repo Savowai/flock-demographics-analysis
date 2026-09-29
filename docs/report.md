@@ -20,10 +20,12 @@ crime are accounted for.
 
 Three results:
 
-1. **The two counties produce opposite signs.** In King County, a tract 10
-   percentage points higher in Hispanic/Latino share has about **30% more
-   cameras per arterial road-mile** (within-city comparison, p=0.035), holding
-   at block-group level. In Los Angeles County the same models find **6%
+1. **In King County, camera placement is disproportionate; in Los Angeles
+   County it is not.** A King County tract 10 percentage points higher in
+   Hispanic/Latino share has about **30% more cameras per arterial road-mile**
+   (within-city comparison, p=0.035), and the result holds at block-group level
+   and under a spatial correction. Road density, population, income and crime
+   do not account for it. In Los Angeles County the same models find **6%
    fewer** (p=0.008). No single direction describes both counties.
 2. **The largest and most consistent association is with home improvement
    retailers.** Home Depot and Lowe's are roughly **five times more likely**
@@ -325,11 +327,15 @@ It covers a question the coordinates do not address: the legal framework for
 ALPR data and the documented record of who has accessed it. Sources are listed
 in `rag/documents/sources.csv`; the search tool is `rag/query.py`.
 
-**Two cities appear in both the spatial results and the access record.**
+**In King County, the largest deployments are in the county's most Hispanic
+cities, and two of them appear in the federal access record.**
 
-King County's highest camera counts are in Renton (63 cameras, 15.9%
-Hispanic), Auburn (42, 22.6%), Tukwila (42, 25.8%), Kent (37, 17.5%) and SeaTac
-(34, 23.3%), all above the county's 11.0% average.
+Ranked by non-retail Flock cameras, the top five cities in King County are
+Renton (63 cameras, 15.9% Hispanic), Tukwila (40, 25.8%), Auburn (37, 22.6%),
+SeaTac (34, 23.3%) and Kent (28, 17.5%). All five are among the eight most
+Hispanic municipalities over 15,000 residents in the county, and all are well
+above its 11.0% average. Seattle, with 754,000 residents and an 8.5% Hispanic
+share, has 23.
 
 Independently, the University of Washington Center for Human Rights obtained
 Flock network audits by public records request and found (as quoted in
@@ -341,9 +347,11 @@ Flock network audits by public records request and found (as quoted in
   access to license plate data … which had not explicitly authorized sharing
   with Border Patrol, from at least May to August 2025."
 
-Auburn and Renton are the two largest mapped deployments in King County and
-both appear in these findings. Whether that overlap reflects more than the fact
-that larger deployments attract more scrutiny is not established here.
+Auburn and Renton are the first and third largest mapped deployments in King
+County, and both appear in these findings. The UWCHR report covers agencies
+statewide rather than only large deployments, so the overlap is not simply an
+artefact of which networks were examined. It remains a co-occurrence between
+two separate datasets, not a demonstrated causal link.
 
 **The legal position differs sharply between the two states.**
 
@@ -416,9 +424,14 @@ In Los Angeles County the association runs in the opposite direction and is
 smaller: −6.3% per 10 points within-city (p=0.008), −3.1% at block-group level
 (p=0.035).
 
+Stated plainly: in King County, cameras are disproportionately concentrated in
+neighbourhoods with larger Hispanic/Latino populations, and road density,
+population, income and reported crime do not account for it. In Los Angeles
+County they are not.
+
 A single method applied to two counties produced results with opposite signs.
-Neither result generalises to the other county, and this study cannot determine
-which is more typical of ALPR deployment nationally.
+Neither generalises to the other county, and this study cannot determine which
+is more typical of ALPR deployment nationally.
 
 **2. Proximity to home improvement retailers is the most consistent
 association measured.**
@@ -454,10 +467,15 @@ not measure.**
 Camera coordinates indicate where data is collected, not who can query it.
 Public records obtained by the UW Center for Human Rights document that during
 2025, Auburn enabled direct sharing of its Flock network with Border Patrol,
-and Renton's network showed apparent unauthorised Border Patrol access. These
-are the two highest-camera-count cities in King County. Whether that
-co-occurrence reflects anything beyond both being large deployments in the same
-county is not established by this analysis.
+and Renton's network showed apparent Border Patrol access it had not
+authorised.
+
+Both are among King County's largest deployments, and both are in cities well
+above the county's Hispanic average. The spatial result and the access record
+therefore concern the same places, though they are separate findings from
+separate sources: this analysis establishes the placement pattern, and the
+public records establish the access. It does not establish a causal link
+between them.
 
 **What this analysis cannot determine**
 

@@ -11,7 +11,7 @@ const FINDINGS = [
   {
     number: "01",
     title: "The two counties disagree",
-    body: "In King County a tract 10 points more Hispanic has about 30% more cameras per road-mile, and the effect survives comparing neighbourhoods inside the same city. In Los Angeles County the same analysis finds 6% fewer. There is no single pattern across both.",
+    body: "In King County, cameras are disproportionately concentrated in tracts with larger Hispanic/Latino populations: 10 points higher share means about 30% more cameras per road-mile, and road density, population, income and crime do not account for it. In Los Angeles County the same models find 6% fewer. The two counties point in opposite directions.",
     figure: "/figures/fig4_quartiles.png",
     alt: "Bar chart of camera density by Hispanic quartile, showing opposite directions in the two counties",
   },
